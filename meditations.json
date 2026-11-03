@@ -1,0 +1,2564 @@
+[
+  {
+    "id": 1,
+    "theme": "Inspiring",
+    "text": "A horizon is not a boundary. It is an invitation to discover what lies beyond what you can presently see.",
+    "author": "",
+    "scene": 0
+  },
+  {
+    "id": 2,
+    "theme": "Inspiring",
+    "text": "Even the smallest light changes the character of darkness.",
+    "author": "",
+    "scene": 1
+  },
+  {
+    "id": 3,
+    "theme": "Inspiring",
+    "text": "The horizon has never asked you to remain where you are.",
+    "author": "",
+    "scene": 2
+  },
+  {
+    "id": 4,
+    "theme": "Inspiring",
+    "text": "A single generous act can widen the world for someone else.",
+    "author": "",
+    "scene": 3
+  },
+  {
+    "id": 5,
+    "theme": "Inspiring",
+    "text": "The life before you is larger than the fear behind you.",
+    "author": "",
+    "scene": 4
+  },
+  {
+    "id": 6,
+    "theme": "Inspiring",
+    "text": "Even a quiet beginning can carry a magnificent future.",
+    "author": "",
+    "scene": 5
+  },
+  {
+    "id": 7,
+    "theme": "Inspiring",
+    "text": "Do not mistake a slow unfolding for an absent possibility.",
+    "author": "",
+    "scene": 6
+  },
+  {
+    "id": 8,
+    "theme": "Inspiring",
+    "text": "You are part of a story still being written.",
+    "author": "",
+    "scene": 7
+  },
+  {
+    "id": 9,
+    "theme": "Inspiring",
+    "text": "The sky makes room for every kind of weather and still remains vast.",
+    "author": "",
+    "scene": 8
+  },
+  {
+    "id": 10,
+    "theme": "Inspiring",
+    "text": "Possibility often arrives disguised as an ordinary morning.",
+    "author": "",
+    "scene": 9
+  },
+  {
+    "id": 11,
+    "theme": "Inspiring",
+    "text": "Consider a shoreline at low tide. There is always more to discover than the eye first sees.",
+    "author": "",
+    "scene": 10
+  },
+  {
+    "id": 12,
+    "theme": "Inspiring",
+    "text": "Notice the first rain on dry ground. Let it remind you that becoming takes many forms.",
+    "author": "",
+    "scene": 11
+  },
+  {
+    "id": 13,
+    "theme": "Inspiring",
+    "text": "Remember a tree bending in the wind. The world is full of invitations to begin.",
+    "author": "",
+    "scene": 12
+  },
+  {
+    "id": 14,
+    "theme": "Inspiring",
+    "text": "Pause beside the long patience of a river. There is always more to discover than the eye first sees.",
+    "author": "",
+    "scene": 13
+  },
+  {
+    "id": 15,
+    "theme": "Inspiring",
+    "text": "Think of a path through tall grass. Let it remind you that becoming takes many forms.",
+    "author": "",
+    "scene": 14
+  },
+  {
+    "id": 16,
+    "theme": "Inspiring",
+    "text": "Consider the hush before sunrise. The world is full of invitations to begin.",
+    "author": "",
+    "scene": 15
+  },
+  {
+    "id": 17,
+    "theme": "Inspiring",
+    "text": "Notice a stone warmed by afternoon light. There is always more to discover than the eye first sees.",
+    "author": "",
+    "scene": 16
+  },
+  {
+    "id": 18,
+    "theme": "Inspiring",
+    "text": "Remember the first green shoot of spring. Let it remind you that becoming takes many forms.",
+    "author": "",
+    "scene": 17
+  },
+  {
+    "id": 19,
+    "theme": "Inspiring",
+    "text": "Pause beside the last star before morning. The world is full of invitations to begin.",
+    "author": "",
+    "scene": 18
+  },
+  {
+    "id": 20,
+    "theme": "Inspiring",
+    "text": "Think of a hillside after rain. There is always more to discover than the eye first sees.",
+    "author": "",
+    "scene": 19
+  },
+  {
+    "id": 21,
+    "theme": "Inspiring",
+    "text": "Consider the shade of an old oak. Let it remind you that becoming takes many forms.",
+    "author": "",
+    "scene": 20
+  },
+  {
+    "id": 22,
+    "theme": "Inspiring",
+    "text": "Notice a cloud crossing open sky. The world is full of invitations to begin.",
+    "author": "",
+    "scene": 21
+  },
+  {
+    "id": 23,
+    "theme": "Inspiring",
+    "text": "Remember the changing colors of autumn. There is always more to discover than the eye first sees.",
+    "author": "",
+    "scene": 22
+  },
+  {
+    "id": 24,
+    "theme": "Inspiring",
+    "text": "Pause beside a field of wildflowers. Let it remind you that becoming takes many forms.",
+    "author": "",
+    "scene": 23
+  },
+  {
+    "id": 25,
+    "theme": "Inspiring",
+    "text": "Think of a quiet stretch of coastline. The world is full of invitations to begin.",
+    "author": "",
+    "scene": 24
+  },
+  {
+    "id": 26,
+    "theme": "Inspiring",
+    "text": "Consider the steady rhythm of waves. There is always more to discover than the eye first sees.",
+    "author": "",
+    "scene": 25
+  },
+  {
+    "id": 27,
+    "theme": "Inspiring",
+    "text": "Notice a mountain seen from afar. Let it remind you that becoming takes many forms.",
+    "author": "",
+    "scene": 26
+  },
+  {
+    "id": 28,
+    "theme": "Inspiring",
+    "text": "Remember the stillness of a winter field. The world is full of invitations to begin.",
+    "author": "",
+    "scene": 27
+  },
+  {
+    "id": 29,
+    "theme": "Inspiring",
+    "text": "Pause beside a bird returning to its branch. There is always more to discover than the eye first sees.",
+    "author": "",
+    "scene": 28
+  },
+  {
+    "id": 30,
+    "theme": "Inspiring",
+    "text": "Think of the soft light of dusk. Let it remind you that becoming takes many forms.",
+    "author": "",
+    "scene": 29
+  },
+  {
+    "id": 31,
+    "theme": "Inspiring",
+    "text": "Consider a garden after a storm. The world is full of invitations to begin.",
+    "author": "",
+    "scene": 30
+  },
+  {
+    "id": 32,
+    "theme": "Encouraging",
+    "text": "You need not see the whole path to take one honest step.",
+    "author": "",
+    "scene": 31
+  },
+  {
+    "id": 33,
+    "theme": "Encouraging",
+    "text": "Growth often begins quietly, long before anyone notices the change.",
+    "author": "",
+    "scene": 32
+  },
+  {
+    "id": 34,
+    "theme": "Encouraging",
+    "text": "One faithful step is enough for this moment.",
+    "author": "",
+    "scene": 33
+  },
+  {
+    "id": 35,
+    "theme": "Encouraging",
+    "text": "You can begin again without denying how far you have come.",
+    "author": "",
+    "scene": 34
+  },
+  {
+    "id": 36,
+    "theme": "Encouraging",
+    "text": "Progress does not always announce itself. Sometimes it simply continues.",
+    "author": "",
+    "scene": 35
+  },
+  {
+    "id": 37,
+    "theme": "Encouraging",
+    "text": "Give yourself permission to learn as you go.",
+    "author": "",
+    "scene": 36
+  },
+  {
+    "id": 38,
+    "theme": "Encouraging",
+    "text": "The strength you need may arrive in the act of beginning.",
+    "author": "",
+    "scene": 37
+  },
+  {
+    "id": 39,
+    "theme": "Encouraging",
+    "text": "A small act of courage is still courage.",
+    "author": "",
+    "scene": 38
+  },
+  {
+    "id": 40,
+    "theme": "Encouraging",
+    "text": "You do not need a perfect plan to make a meaningful start.",
+    "author": "",
+    "scene": 39
+  },
+  {
+    "id": 41,
+    "theme": "Encouraging",
+    "text": "Let patience accompany the effort you offer today.",
+    "author": "",
+    "scene": 40
+  },
+  {
+    "id": 42,
+    "theme": "Encouraging",
+    "text": "Consider a shoreline at low tide. Your next step can be small and still matter.",
+    "author": "",
+    "scene": 41
+  },
+  {
+    "id": 43,
+    "theme": "Encouraging",
+    "text": "Notice the first rain on dry ground. You are allowed to grow at your own pace.",
+    "author": "",
+    "scene": 42
+  },
+  {
+    "id": 44,
+    "theme": "Encouraging",
+    "text": "Remember a tree bending in the wind. Keep going gently; movement need not be hurried.",
+    "author": "",
+    "scene": 43
+  },
+  {
+    "id": 45,
+    "theme": "Encouraging",
+    "text": "Pause beside the long patience of a river. Your next step can be small and still matter.",
+    "author": "",
+    "scene": 44
+  },
+  {
+    "id": 46,
+    "theme": "Encouraging",
+    "text": "Think of a path through tall grass. You are allowed to grow at your own pace.",
+    "author": "",
+    "scene": 45
+  },
+  {
+    "id": 47,
+    "theme": "Encouraging",
+    "text": "Consider the hush before sunrise. Keep going gently; movement need not be hurried.",
+    "author": "",
+    "scene": 46
+  },
+  {
+    "id": 48,
+    "theme": "Encouraging",
+    "text": "Notice a stone warmed by afternoon light. Your next step can be small and still matter.",
+    "author": "",
+    "scene": 47
+  },
+  {
+    "id": 49,
+    "theme": "Encouraging",
+    "text": "Remember the first green shoot of spring. You are allowed to grow at your own pace.",
+    "author": "",
+    "scene": 48
+  },
+  {
+    "id": 50,
+    "theme": "Encouraging",
+    "text": "Pause beside the last star before morning. Keep going gently; movement need not be hurried.",
+    "author": "",
+    "scene": 49
+  },
+  {
+    "id": 51,
+    "theme": "Encouraging",
+    "text": "Think of a hillside after rain. Your next step can be small and still matter.",
+    "author": "",
+    "scene": 50
+  },
+  {
+    "id": 52,
+    "theme": "Encouraging",
+    "text": "Consider the shade of an old oak. You are allowed to grow at your own pace.",
+    "author": "",
+    "scene": 51
+  },
+  {
+    "id": 53,
+    "theme": "Encouraging",
+    "text": "Notice a cloud crossing open sky. Keep going gently; movement need not be hurried.",
+    "author": "",
+    "scene": 52
+  },
+  {
+    "id": 54,
+    "theme": "Encouraging",
+    "text": "Remember the changing colors of autumn. Your next step can be small and still matter.",
+    "author": "",
+    "scene": 53
+  },
+  {
+    "id": 55,
+    "theme": "Encouraging",
+    "text": "Pause beside a field of wildflowers. You are allowed to grow at your own pace.",
+    "author": "",
+    "scene": 54
+  },
+  {
+    "id": 56,
+    "theme": "Encouraging",
+    "text": "Think of a quiet stretch of coastline. Keep going gently; movement need not be hurried.",
+    "author": "",
+    "scene": 55
+  },
+  {
+    "id": 57,
+    "theme": "Encouraging",
+    "text": "Consider the steady rhythm of waves. Your next step can be small and still matter.",
+    "author": "",
+    "scene": 56
+  },
+  {
+    "id": 58,
+    "theme": "Encouraging",
+    "text": "Notice a mountain seen from afar. You are allowed to grow at your own pace.",
+    "author": "",
+    "scene": 57
+  },
+  {
+    "id": 59,
+    "theme": "Encouraging",
+    "text": "Remember the stillness of a winter field. Keep going gently; movement need not be hurried.",
+    "author": "",
+    "scene": 58
+  },
+  {
+    "id": 60,
+    "theme": "Encouraging",
+    "text": "Pause beside a bird returning to its branch. Your next step can be small and still matter.",
+    "author": "",
+    "scene": 59
+  },
+  {
+    "id": 61,
+    "theme": "Encouraging",
+    "text": "Think of the soft light of dusk. You are allowed to grow at your own pace.",
+    "author": "",
+    "scene": 60
+  },
+  {
+    "id": 62,
+    "theme": "Encouraging",
+    "text": "Consider a garden after a storm. Keep going gently; movement need not be hurried.",
+    "author": "",
+    "scene": 61
+  },
+  {
+    "id": 63,
+    "theme": "Thoughtful",
+    "text": "What becomes possible when you listen without preparing your answer?",
+    "author": "",
+    "scene": 62
+  },
+  {
+    "id": 64,
+    "theme": "Thoughtful",
+    "text": "The world is not only something to understand. It is also something to behold.",
+    "author": "",
+    "scene": 63
+  },
+  {
+    "id": 65,
+    "theme": "Thoughtful",
+    "text": "Silence sometimes reveals what argument cannot.",
+    "author": "",
+    "scene": 64
+  },
+  {
+    "id": 66,
+    "theme": "Thoughtful",
+    "text": "What have you overlooked because it seemed too familiar?",
+    "author": "",
+    "scene": 65
+  },
+  {
+    "id": 67,
+    "theme": "Thoughtful",
+    "text": "To pay attention is to enter a deeper conversation with life.",
+    "author": "",
+    "scene": 66
+  },
+  {
+    "id": 68,
+    "theme": "Thoughtful",
+    "text": "A question held gently can teach more than an answer forced too soon.",
+    "author": "",
+    "scene": 67
+  },
+  {
+    "id": 69,
+    "theme": "Thoughtful",
+    "text": "Not everything valuable can be measured.",
+    "author": "",
+    "scene": 68
+  },
+  {
+    "id": 70,
+    "theme": "Thoughtful",
+    "text": "Consider how differently the world appears when you begin with curiosity.",
+    "author": "",
+    "scene": 69
+  },
+  {
+    "id": 71,
+    "theme": "Thoughtful",
+    "text": "Perhaps understanding begins when the need to be right grows quiet.",
+    "author": "",
+    "scene": 70
+  },
+  {
+    "id": 72,
+    "theme": "Thoughtful",
+    "text": "What deserves more of your attention and less of your judgment?",
+    "author": "",
+    "scene": 71
+  },
+  {
+    "id": 73,
+    "theme": "Thoughtful",
+    "text": "Consider a shoreline at low tide. What might it teach you if you stayed a little longer?",
+    "author": "",
+    "scene": 72
+  },
+  {
+    "id": 74,
+    "theme": "Thoughtful",
+    "text": "Notice the first rain on dry ground. Notice what changes when you stop trying to name everything.",
+    "author": "",
+    "scene": 73
+  },
+  {
+    "id": 75,
+    "theme": "Thoughtful",
+    "text": "Remember a tree bending in the wind. There is wisdom in giving attention without demanding an answer.",
+    "author": "",
+    "scene": 74
+  },
+  {
+    "id": 76,
+    "theme": "Thoughtful",
+    "text": "Pause beside the long patience of a river. What might it teach you if you stayed a little longer?",
+    "author": "",
+    "scene": 75
+  },
+  {
+    "id": 77,
+    "theme": "Thoughtful",
+    "text": "Think of a path through tall grass. Notice what changes when you stop trying to name everything.",
+    "author": "",
+    "scene": 76
+  },
+  {
+    "id": 78,
+    "theme": "Thoughtful",
+    "text": "Consider the hush before sunrise. There is wisdom in giving attention without demanding an answer.",
+    "author": "",
+    "scene": 77
+  },
+  {
+    "id": 79,
+    "theme": "Thoughtful",
+    "text": "Notice a stone warmed by afternoon light. What might it teach you if you stayed a little longer?",
+    "author": "",
+    "scene": 78
+  },
+  {
+    "id": 80,
+    "theme": "Thoughtful",
+    "text": "Remember the first green shoot of spring. Notice what changes when you stop trying to name everything.",
+    "author": "",
+    "scene": 79
+  },
+  {
+    "id": 81,
+    "theme": "Thoughtful",
+    "text": "Pause beside the last star before morning. There is wisdom in giving attention without demanding an answer.",
+    "author": "",
+    "scene": 80
+  },
+  {
+    "id": 82,
+    "theme": "Thoughtful",
+    "text": "Think of a hillside after rain. What might it teach you if you stayed a little longer?",
+    "author": "",
+    "scene": 81
+  },
+  {
+    "id": 83,
+    "theme": "Thoughtful",
+    "text": "Consider the shade of an old oak. Notice what changes when you stop trying to name everything.",
+    "author": "",
+    "scene": 82
+  },
+  {
+    "id": 84,
+    "theme": "Thoughtful",
+    "text": "Notice a cloud crossing open sky. There is wisdom in giving attention without demanding an answer.",
+    "author": "",
+    "scene": 83
+  },
+  {
+    "id": 85,
+    "theme": "Thoughtful",
+    "text": "Remember the changing colors of autumn. What might it teach you if you stayed a little longer?",
+    "author": "",
+    "scene": 84
+  },
+  {
+    "id": 86,
+    "theme": "Thoughtful",
+    "text": "Pause beside a field of wildflowers. Notice what changes when you stop trying to name everything.",
+    "author": "",
+    "scene": 85
+  },
+  {
+    "id": 87,
+    "theme": "Thoughtful",
+    "text": "Think of a quiet stretch of coastline. There is wisdom in giving attention without demanding an answer.",
+    "author": "",
+    "scene": 86
+  },
+  {
+    "id": 88,
+    "theme": "Thoughtful",
+    "text": "Consider the steady rhythm of waves. What might it teach you if you stayed a little longer?",
+    "author": "",
+    "scene": 87
+  },
+  {
+    "id": 89,
+    "theme": "Thoughtful",
+    "text": "Notice a mountain seen from afar. Notice what changes when you stop trying to name everything.",
+    "author": "",
+    "scene": 88
+  },
+  {
+    "id": 90,
+    "theme": "Thoughtful",
+    "text": "Remember the stillness of a winter field. There is wisdom in giving attention without demanding an answer.",
+    "author": "",
+    "scene": 89
+  },
+  {
+    "id": 91,
+    "theme": "Thoughtful",
+    "text": "Pause beside a bird returning to its branch. What might it teach you if you stayed a little longer?",
+    "author": "",
+    "scene": 90
+  },
+  {
+    "id": 92,
+    "theme": "Thoughtful",
+    "text": "Think of the soft light of dusk. Notice what changes when you stop trying to name everything.",
+    "author": "",
+    "scene": 91
+  },
+  {
+    "id": 93,
+    "theme": "Thoughtful",
+    "text": "Consider a garden after a storm. There is wisdom in giving attention without demanding an answer.",
+    "author": "",
+    "scene": 92
+  },
+  {
+    "id": 94,
+    "theme": "Challenging",
+    "text": "What possibility have you dismissed simply because you have not yet learned how to pursue it?",
+    "author": "",
+    "scene": 93
+  },
+  {
+    "id": 95,
+    "theme": "Challenging",
+    "text": "Where might courage ask you to loosen your grip on certainty?",
+    "author": "",
+    "scene": 94
+  },
+  {
+    "id": 96,
+    "theme": "Challenging",
+    "text": "Where are you asking certainty to do the work of courage?",
+    "author": "",
+    "scene": 95
+  },
+  {
+    "id": 97,
+    "theme": "Challenging",
+    "text": "What would change if you stopped waiting to feel completely ready?",
+    "author": "",
+    "scene": 96
+  },
+  {
+    "id": 98,
+    "theme": "Challenging",
+    "text": "A familiar limit is not always a true boundary.",
+    "author": "",
+    "scene": 97
+  },
+  {
+    "id": 99,
+    "theme": "Challenging",
+    "text": "The invitation to grow rarely arrives with a guarantee.",
+    "author": "",
+    "scene": 98
+  },
+  {
+    "id": 100,
+    "theme": "Challenging",
+    "text": "Can you release the need to win every disagreement?",
+    "author": "",
+    "scene": 99
+  },
+  {
+    "id": 101,
+    "theme": "Challenging",
+    "text": "What truth have you been postponing because it asks something of you?",
+    "author": "",
+    "scene": 100
+  },
+  {
+    "id": 102,
+    "theme": "Challenging",
+    "text": "A generous life sometimes requires an inconvenient choice.",
+    "author": "",
+    "scene": 101
+  },
+  {
+    "id": 103,
+    "theme": "Challenging",
+    "text": "Which small fear might you face with tenderness today?",
+    "author": "",
+    "scene": 102
+  },
+  {
+    "id": 104,
+    "theme": "Challenging",
+    "text": "Consider a shoreline at low tide. Where might you be holding on too tightly?",
+    "author": "",
+    "scene": 103
+  },
+  {
+    "id": 105,
+    "theme": "Challenging",
+    "text": "Notice the first rain on dry ground. What familiar assumption could you release today?",
+    "author": "",
+    "scene": 104
+  },
+  {
+    "id": 106,
+    "theme": "Challenging",
+    "text": "Remember a tree bending in the wind. Let it ask whether the safer path is always the truer one.",
+    "author": "",
+    "scene": 105
+  },
+  {
+    "id": 107,
+    "theme": "Challenging",
+    "text": "Pause beside the long patience of a river. Where might you be holding on too tightly?",
+    "author": "",
+    "scene": 106
+  },
+  {
+    "id": 108,
+    "theme": "Challenging",
+    "text": "Think of a path through tall grass. What familiar assumption could you release today?",
+    "author": "",
+    "scene": 107
+  },
+  {
+    "id": 109,
+    "theme": "Challenging",
+    "text": "Consider the hush before sunrise. Let it ask whether the safer path is always the truer one.",
+    "author": "",
+    "scene": 108
+  },
+  {
+    "id": 110,
+    "theme": "Challenging",
+    "text": "Notice a stone warmed by afternoon light. Where might you be holding on too tightly?",
+    "author": "",
+    "scene": 109
+  },
+  {
+    "id": 111,
+    "theme": "Challenging",
+    "text": "Remember the first green shoot of spring. What familiar assumption could you release today?",
+    "author": "",
+    "scene": 110
+  },
+  {
+    "id": 112,
+    "theme": "Challenging",
+    "text": "Pause beside the last star before morning. Let it ask whether the safer path is always the truer one.",
+    "author": "",
+    "scene": 111
+  },
+  {
+    "id": 113,
+    "theme": "Challenging",
+    "text": "Think of a hillside after rain. Where might you be holding on too tightly?",
+    "author": "",
+    "scene": 112
+  },
+  {
+    "id": 114,
+    "theme": "Challenging",
+    "text": "Consider the shade of an old oak. What familiar assumption could you release today?",
+    "author": "",
+    "scene": 113
+  },
+  {
+    "id": 115,
+    "theme": "Challenging",
+    "text": "Notice a cloud crossing open sky. Let it ask whether the safer path is always the truer one.",
+    "author": "",
+    "scene": 114
+  },
+  {
+    "id": 116,
+    "theme": "Challenging",
+    "text": "Remember the changing colors of autumn. Where might you be holding on too tightly?",
+    "author": "",
+    "scene": 115
+  },
+  {
+    "id": 117,
+    "theme": "Challenging",
+    "text": "Pause beside a field of wildflowers. What familiar assumption could you release today?",
+    "author": "",
+    "scene": 116
+  },
+  {
+    "id": 118,
+    "theme": "Challenging",
+    "text": "Think of a quiet stretch of coastline. Let it ask whether the safer path is always the truer one.",
+    "author": "",
+    "scene": 117
+  },
+  {
+    "id": 119,
+    "theme": "Challenging",
+    "text": "Consider the steady rhythm of waves. Where might you be holding on too tightly?",
+    "author": "",
+    "scene": 118
+  },
+  {
+    "id": 120,
+    "theme": "Challenging",
+    "text": "Notice a mountain seen from afar. What familiar assumption could you release today?",
+    "author": "",
+    "scene": 119
+  },
+  {
+    "id": 121,
+    "theme": "Challenging",
+    "text": "Remember the stillness of a winter field. Let it ask whether the safer path is always the truer one.",
+    "author": "",
+    "scene": 120
+  },
+  {
+    "id": 122,
+    "theme": "Challenging",
+    "text": "Pause beside a bird returning to its branch. Where might you be holding on too tightly?",
+    "author": "",
+    "scene": 121
+  },
+  {
+    "id": 123,
+    "theme": "Challenging",
+    "text": "Think of the soft light of dusk. What familiar assumption could you release today?",
+    "author": "",
+    "scene": 122
+  },
+  {
+    "id": 124,
+    "theme": "Challenging",
+    "text": "Consider a garden after a storm. Let it ask whether the safer path is always the truer one.",
+    "author": "",
+    "scene": 123
+  },
+  {
+    "id": 125,
+    "theme": "Comforting",
+    "text": "You are allowed to rest without first proving that you have earned it.",
+    "author": "",
+    "scene": 124
+  },
+  {
+    "id": 126,
+    "theme": "Comforting",
+    "text": "The earth holds the seed through winter without demanding that it bloom.",
+    "author": "",
+    "scene": 125
+  },
+  {
+    "id": 127,
+    "theme": "Comforting",
+    "text": "Rest is part of belonging to the living world.",
+    "author": "",
+    "scene": 126
+  },
+  {
+    "id": 128,
+    "theme": "Comforting",
+    "text": "You do not have to carry tomorrow before it arrives.",
+    "author": "",
+    "scene": 127
+  },
+  {
+    "id": 129,
+    "theme": "Comforting",
+    "text": "The night is not a failure of the sun.",
+    "author": "",
+    "scene": 128
+  },
+  {
+    "id": 130,
+    "theme": "Comforting",
+    "text": "Some seasons ask only that you be held, not that you produce.",
+    "author": "",
+    "scene": 129
+  },
+  {
+    "id": 131,
+    "theme": "Comforting",
+    "text": "There is room for your uncertainty here.",
+    "author": "",
+    "scene": 130
+  },
+  {
+    "id": 132,
+    "theme": "Comforting",
+    "text": "Let the earth remind you that stillness is not emptiness.",
+    "author": "",
+    "scene": 131
+  },
+  {
+    "id": 133,
+    "theme": "Comforting",
+    "text": "You may lay down what was never yours to control.",
+    "author": "",
+    "scene": 132
+  },
+  {
+    "id": 134,
+    "theme": "Comforting",
+    "text": "Even in sorrow, a moment of gentleness can find you.",
+    "author": "",
+    "scene": 133
+  },
+  {
+    "id": 135,
+    "theme": "Comforting",
+    "text": "Consider a shoreline at low tide. You, too, may be held without having to hurry.",
+    "author": "",
+    "scene": 134
+  },
+  {
+    "id": 136,
+    "theme": "Comforting",
+    "text": "Notice the first rain on dry ground. Let its quiet presence make room for your own rest.",
+    "author": "",
+    "scene": 135
+  },
+  {
+    "id": 137,
+    "theme": "Comforting",
+    "text": "Remember a tree bending in the wind. Nothing in this moment requires you to be more than human.",
+    "author": "",
+    "scene": 136
+  },
+  {
+    "id": 138,
+    "theme": "Comforting",
+    "text": "Pause beside the long patience of a river. You, too, may be held without having to hurry.",
+    "author": "",
+    "scene": 137
+  },
+  {
+    "id": 139,
+    "theme": "Comforting",
+    "text": "Think of a path through tall grass. Let its quiet presence make room for your own rest.",
+    "author": "",
+    "scene": 138
+  },
+  {
+    "id": 140,
+    "theme": "Comforting",
+    "text": "Consider the hush before sunrise. Nothing in this moment requires you to be more than human.",
+    "author": "",
+    "scene": 139
+  },
+  {
+    "id": 141,
+    "theme": "Comforting",
+    "text": "Notice a stone warmed by afternoon light. You, too, may be held without having to hurry.",
+    "author": "",
+    "scene": 140
+  },
+  {
+    "id": 142,
+    "theme": "Comforting",
+    "text": "Remember the first green shoot of spring. Let its quiet presence make room for your own rest.",
+    "author": "",
+    "scene": 141
+  },
+  {
+    "id": 143,
+    "theme": "Comforting",
+    "text": "Pause beside the last star before morning. Nothing in this moment requires you to be more than human.",
+    "author": "",
+    "scene": 142
+  },
+  {
+    "id": 144,
+    "theme": "Comforting",
+    "text": "Think of a hillside after rain. You, too, may be held without having to hurry.",
+    "author": "",
+    "scene": 143
+  },
+  {
+    "id": 145,
+    "theme": "Comforting",
+    "text": "Consider the shade of an old oak. Let its quiet presence make room for your own rest.",
+    "author": "",
+    "scene": 144
+  },
+  {
+    "id": 146,
+    "theme": "Comforting",
+    "text": "Notice a cloud crossing open sky. Nothing in this moment requires you to be more than human.",
+    "author": "",
+    "scene": 145
+  },
+  {
+    "id": 147,
+    "theme": "Comforting",
+    "text": "Remember the changing colors of autumn. You, too, may be held without having to hurry.",
+    "author": "",
+    "scene": 146
+  },
+  {
+    "id": 148,
+    "theme": "Comforting",
+    "text": "Pause beside a field of wildflowers. Let its quiet presence make room for your own rest.",
+    "author": "",
+    "scene": 147
+  },
+  {
+    "id": 149,
+    "theme": "Comforting",
+    "text": "Think of a quiet stretch of coastline. Nothing in this moment requires you to be more than human.",
+    "author": "",
+    "scene": 148
+  },
+  {
+    "id": 150,
+    "theme": "Comforting",
+    "text": "Consider the steady rhythm of waves. You, too, may be held without having to hurry.",
+    "author": "",
+    "scene": 149
+  },
+  {
+    "id": 151,
+    "theme": "Comforting",
+    "text": "Notice a mountain seen from afar. Let its quiet presence make room for your own rest.",
+    "author": "",
+    "scene": 150
+  },
+  {
+    "id": 152,
+    "theme": "Comforting",
+    "text": "Remember the stillness of a winter field. Nothing in this moment requires you to be more than human.",
+    "author": "",
+    "scene": 151
+  },
+  {
+    "id": 153,
+    "theme": "Comforting",
+    "text": "Pause beside a bird returning to its branch. You, too, may be held without having to hurry.",
+    "author": "",
+    "scene": 152
+  },
+  {
+    "id": 154,
+    "theme": "Comforting",
+    "text": "Think of the soft light of dusk. Let its quiet presence make room for your own rest.",
+    "author": "",
+    "scene": 153
+  },
+  {
+    "id": 155,
+    "theme": "Comforting",
+    "text": "Consider a garden after a storm. Nothing in this moment requires you to be more than human.",
+    "author": "",
+    "scene": 154
+  },
+  {
+    "id": 156,
+    "theme": "Joyful",
+    "text": "There are moments when being alive is reason enough to celebrate.",
+    "author": "",
+    "scene": 155
+  },
+  {
+    "id": 157,
+    "theme": "Joyful",
+    "text": "Notice the ordinary miracle: sunlight on a wall, laughter nearby, the gift of another morning.",
+    "author": "",
+    "scene": 156
+  },
+  {
+    "id": 158,
+    "theme": "Joyful",
+    "text": "Let an ordinary delight have your full attention.",
+    "author": "",
+    "scene": 157
+  },
+  {
+    "id": 159,
+    "theme": "Joyful",
+    "text": "A bird does not wait for an audience before it sings.",
+    "author": "",
+    "scene": 158
+  },
+  {
+    "id": 160,
+    "theme": "Joyful",
+    "text": "Laughter is one of the ways life opens a window.",
+    "author": "",
+    "scene": 159
+  },
+  {
+    "id": 161,
+    "theme": "Joyful",
+    "text": "There is no need to justify a moment of happiness.",
+    "author": "",
+    "scene": 160
+  },
+  {
+    "id": 162,
+    "theme": "Joyful",
+    "text": "Notice the small astonishment of being here at all.",
+    "author": "",
+    "scene": 161
+  },
+  {
+    "id": 163,
+    "theme": "Joyful",
+    "text": "Let your delight be unhurried and unashamed.",
+    "author": "",
+    "scene": 162
+  },
+  {
+    "id": 164,
+    "theme": "Joyful",
+    "text": "The simplest pleasures often ask only that we notice.",
+    "author": "",
+    "scene": 163
+  },
+  {
+    "id": 165,
+    "theme": "Joyful",
+    "text": "Some days, the celebration is simply a deep breath in the sunlight.",
+    "author": "",
+    "scene": 164
+  },
+  {
+    "id": 166,
+    "theme": "Joyful",
+    "text": "Consider a shoreline at low tide. Allow yourself the uncomplicated pleasure of noticing.",
+    "author": "",
+    "scene": 165
+  },
+  {
+    "id": 167,
+    "theme": "Joyful",
+    "text": "Notice the first rain on dry ground. There is delight here that asks for nothing in return.",
+    "author": "",
+    "scene": 166
+  },
+  {
+    "id": 168,
+    "theme": "Joyful",
+    "text": "Remember a tree bending in the wind. Let this small beauty be enough for a smile.",
+    "author": "",
+    "scene": 167
+  },
+  {
+    "id": 169,
+    "theme": "Joyful",
+    "text": "Pause beside the long patience of a river. Allow yourself the uncomplicated pleasure of noticing.",
+    "author": "",
+    "scene": 168
+  },
+  {
+    "id": 170,
+    "theme": "Joyful",
+    "text": "Think of a path through tall grass. There is delight here that asks for nothing in return.",
+    "author": "",
+    "scene": 169
+  },
+  {
+    "id": 171,
+    "theme": "Joyful",
+    "text": "Consider the hush before sunrise. Let this small beauty be enough for a smile.",
+    "author": "",
+    "scene": 170
+  },
+  {
+    "id": 172,
+    "theme": "Joyful",
+    "text": "Notice a stone warmed by afternoon light. Allow yourself the uncomplicated pleasure of noticing.",
+    "author": "",
+    "scene": 171
+  },
+  {
+    "id": 173,
+    "theme": "Joyful",
+    "text": "Remember the first green shoot of spring. There is delight here that asks for nothing in return.",
+    "author": "",
+    "scene": 172
+  },
+  {
+    "id": 174,
+    "theme": "Joyful",
+    "text": "Pause beside the last star before morning. Let this small beauty be enough for a smile.",
+    "author": "",
+    "scene": 173
+  },
+  {
+    "id": 175,
+    "theme": "Joyful",
+    "text": "Think of a hillside after rain. Allow yourself the uncomplicated pleasure of noticing.",
+    "author": "",
+    "scene": 174
+  },
+  {
+    "id": 176,
+    "theme": "Joyful",
+    "text": "Consider the shade of an old oak. There is delight here that asks for nothing in return.",
+    "author": "",
+    "scene": 175
+  },
+  {
+    "id": 177,
+    "theme": "Joyful",
+    "text": "Notice a cloud crossing open sky. Let this small beauty be enough for a smile.",
+    "author": "",
+    "scene": 176
+  },
+  {
+    "id": 178,
+    "theme": "Joyful",
+    "text": "Remember the changing colors of autumn. Allow yourself the uncomplicated pleasure of noticing.",
+    "author": "",
+    "scene": 177
+  },
+  {
+    "id": 179,
+    "theme": "Joyful",
+    "text": "Pause beside a field of wildflowers. There is delight here that asks for nothing in return.",
+    "author": "",
+    "scene": 178
+  },
+  {
+    "id": 180,
+    "theme": "Joyful",
+    "text": "Think of a quiet stretch of coastline. Let this small beauty be enough for a smile.",
+    "author": "",
+    "scene": 179
+  },
+  {
+    "id": 181,
+    "theme": "Joyful",
+    "text": "Consider the steady rhythm of waves. Allow yourself the uncomplicated pleasure of noticing.",
+    "author": "",
+    "scene": 180
+  },
+  {
+    "id": 182,
+    "theme": "Joyful",
+    "text": "Notice a mountain seen from afar. There is delight here that asks for nothing in return.",
+    "author": "",
+    "scene": 181
+  },
+  {
+    "id": 183,
+    "theme": "Joyful",
+    "text": "Remember the stillness of a winter field. Let this small beauty be enough for a smile.",
+    "author": "",
+    "scene": 182
+  },
+  {
+    "id": 184,
+    "theme": "Joyful",
+    "text": "Pause beside a bird returning to its branch. Allow yourself the uncomplicated pleasure of noticing.",
+    "author": "",
+    "scene": 183
+  },
+  {
+    "id": 185,
+    "theme": "Joyful",
+    "text": "Think of the soft light of dusk. There is delight here that asks for nothing in return.",
+    "author": "",
+    "scene": 184
+  },
+  {
+    "id": 186,
+    "theme": "Joyful",
+    "text": "Consider a garden after a storm. Let this small beauty be enough for a smile.",
+    "author": "",
+    "scene": 185
+  },
+  {
+    "id": 187,
+    "theme": "Celebrative",
+    "text": "Honor the distance you have traveled, including the steps no one else could see.",
+    "author": "",
+    "scene": 186
+  },
+  {
+    "id": 188,
+    "theme": "Celebrative",
+    "text": "Let gratitude give your victories depth, and let delight give them wings.",
+    "author": "",
+    "scene": 187
+  },
+  {
+    "id": 189,
+    "theme": "Celebrative",
+    "text": "Mark the courage it took to arrive here.",
+    "author": "",
+    "scene": 188
+  },
+  {
+    "id": 190,
+    "theme": "Celebrative",
+    "text": "Every honest milestone deserves a moment of recognition.",
+    "author": "",
+    "scene": 189
+  },
+  {
+    "id": 191,
+    "theme": "Celebrative",
+    "text": "You are allowed to celebrate progress that is not yet completion.",
+    "author": "",
+    "scene": 190
+  },
+  {
+    "id": 192,
+    "theme": "Celebrative",
+    "text": "Let this achievement remind you of the people who helped you.",
+    "author": "",
+    "scene": 191
+  },
+  {
+    "id": 193,
+    "theme": "Celebrative",
+    "text": "The quiet victories count, too.",
+    "author": "",
+    "scene": 192
+  },
+  {
+    "id": 194,
+    "theme": "Celebrative",
+    "text": "Rejoice in what has grown, even if it is still tender.",
+    "author": "",
+    "scene": 193
+  },
+  {
+    "id": 195,
+    "theme": "Celebrative",
+    "text": "A completed chapter deserves gratitude before the next one begins.",
+    "author": "",
+    "scene": 194
+  },
+  {
+    "id": 196,
+    "theme": "Celebrative",
+    "text": "Let joy honor the effort without turning it into a demand for more.",
+    "author": "",
+    "scene": 195
+  },
+  {
+    "id": 197,
+    "theme": "Celebrative",
+    "text": "Consider a shoreline at low tide. Take a moment to honor what has unfolded.",
+    "author": "",
+    "scene": 196
+  },
+  {
+    "id": 198,
+    "theme": "Celebrative",
+    "text": "Notice the first rain on dry ground. Some victories are quiet, but none need go unseen.",
+    "author": "",
+    "scene": 197
+  },
+  {
+    "id": 199,
+    "theme": "Celebrative",
+    "text": "Remember a tree bending in the wind. Let the goodness of this moment have its celebration.",
+    "author": "",
+    "scene": 198
+  },
+  {
+    "id": 200,
+    "theme": "Celebrative",
+    "text": "Pause beside the long patience of a river. Take a moment to honor what has unfolded.",
+    "author": "",
+    "scene": 199
+  },
+  {
+    "id": 201,
+    "theme": "Celebrative",
+    "text": "Think of a path through tall grass. Some victories are quiet, but none need go unseen.",
+    "author": "",
+    "scene": 200
+  },
+  {
+    "id": 202,
+    "theme": "Celebrative",
+    "text": "Consider the hush before sunrise. Let the goodness of this moment have its celebration.",
+    "author": "",
+    "scene": 201
+  },
+  {
+    "id": 203,
+    "theme": "Celebrative",
+    "text": "Notice a stone warmed by afternoon light. Take a moment to honor what has unfolded.",
+    "author": "",
+    "scene": 202
+  },
+  {
+    "id": 204,
+    "theme": "Celebrative",
+    "text": "Remember the first green shoot of spring. Some victories are quiet, but none need go unseen.",
+    "author": "",
+    "scene": 203
+  },
+  {
+    "id": 205,
+    "theme": "Celebrative",
+    "text": "Pause beside the last star before morning. Let the goodness of this moment have its celebration.",
+    "author": "",
+    "scene": 204
+  },
+  {
+    "id": 206,
+    "theme": "Celebrative",
+    "text": "Think of a hillside after rain. Take a moment to honor what has unfolded.",
+    "author": "",
+    "scene": 205
+  },
+  {
+    "id": 207,
+    "theme": "Celebrative",
+    "text": "Consider the shade of an old oak. Some victories are quiet, but none need go unseen.",
+    "author": "",
+    "scene": 206
+  },
+  {
+    "id": 208,
+    "theme": "Celebrative",
+    "text": "Notice a cloud crossing open sky. Let the goodness of this moment have its celebration.",
+    "author": "",
+    "scene": 207
+  },
+  {
+    "id": 209,
+    "theme": "Celebrative",
+    "text": "Remember the changing colors of autumn. Take a moment to honor what has unfolded.",
+    "author": "",
+    "scene": 208
+  },
+  {
+    "id": 210,
+    "theme": "Celebrative",
+    "text": "Pause beside a field of wildflowers. Some victories are quiet, but none need go unseen.",
+    "author": "",
+    "scene": 209
+  },
+  {
+    "id": 211,
+    "theme": "Celebrative",
+    "text": "Think of a quiet stretch of coastline. Let the goodness of this moment have its celebration.",
+    "author": "",
+    "scene": 210
+  },
+  {
+    "id": 212,
+    "theme": "Celebrative",
+    "text": "Consider the steady rhythm of waves. Take a moment to honor what has unfolded.",
+    "author": "",
+    "scene": 211
+  },
+  {
+    "id": 213,
+    "theme": "Celebrative",
+    "text": "Notice a mountain seen from afar. Some victories are quiet, but none need go unseen.",
+    "author": "",
+    "scene": 212
+  },
+  {
+    "id": 214,
+    "theme": "Celebrative",
+    "text": "Remember the stillness of a winter field. Let the goodness of this moment have its celebration.",
+    "author": "",
+    "scene": 213
+  },
+  {
+    "id": 215,
+    "theme": "Celebrative",
+    "text": "Pause beside a bird returning to its branch. Take a moment to honor what has unfolded.",
+    "author": "",
+    "scene": 214
+  },
+  {
+    "id": 216,
+    "theme": "Celebrative",
+    "text": "Think of the soft light of dusk. Some victories are quiet, but none need go unseen.",
+    "author": "",
+    "scene": 215
+  },
+  {
+    "id": 217,
+    "theme": "Grateful",
+    "text": "Enough is not always a quantity. Sometimes it is a way of seeing.",
+    "author": "",
+    "scene": 216
+  },
+  {
+    "id": 218,
+    "theme": "Grateful",
+    "text": "Pause before the next thing you need, and notice what has already been given.",
+    "author": "",
+    "scene": 217
+  },
+  {
+    "id": 219,
+    "theme": "Grateful",
+    "text": "A grateful heart sees gifts where habit sees only routine.",
+    "author": "",
+    "scene": 218
+  },
+  {
+    "id": 220,
+    "theme": "Grateful",
+    "text": "What if enough begins with noticing?",
+    "author": "",
+    "scene": 219
+  },
+  {
+    "id": 221,
+    "theme": "Grateful",
+    "text": "Receive this moment before reaching for the next.",
+    "author": "",
+    "scene": 220
+  },
+  {
+    "id": 222,
+    "theme": "Grateful",
+    "text": "Gratitude does not deny difficulty; it notices goodness alongside it.",
+    "author": "",
+    "scene": 221
+  },
+  {
+    "id": 223,
+    "theme": "Grateful",
+    "text": "Even the familiar can become a gift when seen anew.",
+    "author": "",
+    "scene": 222
+  },
+  {
+    "id": 224,
+    "theme": "Grateful",
+    "text": "The world offers more small kindnesses than we can count.",
+    "author": "",
+    "scene": 223
+  },
+  {
+    "id": 225,
+    "theme": "Grateful",
+    "text": "Let thanks be a way of paying attention.",
+    "author": "",
+    "scene": 224
+  },
+  {
+    "id": 226,
+    "theme": "Grateful",
+    "text": "Some of the greatest gifts arrive without wrapping or announcement.",
+    "author": "",
+    "scene": 225
+  },
+  {
+    "id": 227,
+    "theme": "Grateful",
+    "text": "Consider a shoreline at low tide. Receive what is offered before asking for more.",
+    "author": "",
+    "scene": 226
+  },
+  {
+    "id": 228,
+    "theme": "Grateful",
+    "text": "Notice the first rain on dry ground. There is a gift here for the attentive heart.",
+    "author": "",
+    "scene": 227
+  },
+  {
+    "id": 229,
+    "theme": "Grateful",
+    "text": "Remember a tree bending in the wind. Give thanks for what arrived without being summoned.",
+    "author": "",
+    "scene": 228
+  },
+  {
+    "id": 230,
+    "theme": "Grateful",
+    "text": "Pause beside the long patience of a river. Receive what is offered before asking for more.",
+    "author": "",
+    "scene": 229
+  },
+  {
+    "id": 231,
+    "theme": "Grateful",
+    "text": "Think of a path through tall grass. There is a gift here for the attentive heart.",
+    "author": "",
+    "scene": 230
+  },
+  {
+    "id": 232,
+    "theme": "Grateful",
+    "text": "Consider the hush before sunrise. Give thanks for what arrived without being summoned.",
+    "author": "",
+    "scene": 231
+  },
+  {
+    "id": 233,
+    "theme": "Grateful",
+    "text": "Notice a stone warmed by afternoon light. Receive what is offered before asking for more.",
+    "author": "",
+    "scene": 232
+  },
+  {
+    "id": 234,
+    "theme": "Grateful",
+    "text": "Remember the first green shoot of spring. There is a gift here for the attentive heart.",
+    "author": "",
+    "scene": 233
+  },
+  {
+    "id": 235,
+    "theme": "Grateful",
+    "text": "Pause beside the last star before morning. Give thanks for what arrived without being summoned.",
+    "author": "",
+    "scene": 234
+  },
+  {
+    "id": 236,
+    "theme": "Grateful",
+    "text": "Think of a hillside after rain. Receive what is offered before asking for more.",
+    "author": "",
+    "scene": 235
+  },
+  {
+    "id": 237,
+    "theme": "Grateful",
+    "text": "Consider the shade of an old oak. There is a gift here for the attentive heart.",
+    "author": "",
+    "scene": 236
+  },
+  {
+    "id": 238,
+    "theme": "Grateful",
+    "text": "Notice a cloud crossing open sky. Give thanks for what arrived without being summoned.",
+    "author": "",
+    "scene": 237
+  },
+  {
+    "id": 239,
+    "theme": "Grateful",
+    "text": "Remember the changing colors of autumn. Receive what is offered before asking for more.",
+    "author": "",
+    "scene": 238
+  },
+  {
+    "id": 240,
+    "theme": "Grateful",
+    "text": "Pause beside a field of wildflowers. There is a gift here for the attentive heart.",
+    "author": "",
+    "scene": 239
+  },
+  {
+    "id": 241,
+    "theme": "Grateful",
+    "text": "Think of a quiet stretch of coastline. Give thanks for what arrived without being summoned.",
+    "author": "",
+    "scene": 240
+  },
+  {
+    "id": 242,
+    "theme": "Grateful",
+    "text": "Consider the steady rhythm of waves. Receive what is offered before asking for more.",
+    "author": "",
+    "scene": 241
+  },
+  {
+    "id": 243,
+    "theme": "Grateful",
+    "text": "Notice a mountain seen from afar. There is a gift here for the attentive heart.",
+    "author": "",
+    "scene": 242
+  },
+  {
+    "id": 244,
+    "theme": "Grateful",
+    "text": "Remember the stillness of a winter field. Give thanks for what arrived without being summoned.",
+    "author": "",
+    "scene": 243
+  },
+  {
+    "id": 245,
+    "theme": "Grateful",
+    "text": "Pause beside a bird returning to its branch. Receive what is offered before asking for more.",
+    "author": "",
+    "scene": 244
+  },
+  {
+    "id": 246,
+    "theme": "Grateful",
+    "text": "Think of the soft light of dusk. There is a gift here for the attentive heart.",
+    "author": "",
+    "scene": 245
+  },
+  {
+    "id": 247,
+    "theme": "Compassionate",
+    "text": "You never know the whole weight another person is carrying. Make room for gentleness.",
+    "author": "",
+    "scene": 246
+  },
+  {
+    "id": 248,
+    "theme": "Compassionate",
+    "text": "Kindness is not a small act when it changes the day of someone who needed it.",
+    "author": "",
+    "scene": 247
+  },
+  {
+    "id": 249,
+    "theme": "Compassionate",
+    "text": "Gentleness can be a form of courage.",
+    "author": "",
+    "scene": 248
+  },
+  {
+    "id": 250,
+    "theme": "Compassionate",
+    "text": "Listen for the story beneath the words.",
+    "author": "",
+    "scene": 249
+  },
+  {
+    "id": 251,
+    "theme": "Compassionate",
+    "text": "Offer others the room you hope to be given yourself.",
+    "author": "",
+    "scene": 250
+  },
+  {
+    "id": 252,
+    "theme": "Compassionate",
+    "text": "Compassion begins when we remember how little we know of another life.",
+    "author": "",
+    "scene": 251
+  },
+  {
+    "id": 253,
+    "theme": "Compassionate",
+    "text": "A patient response may be the kindest gift of the day.",
+    "author": "",
+    "scene": 252
+  },
+  {
+    "id": 254,
+    "theme": "Compassionate",
+    "text": "Make space for the person behind the mistake.",
+    "author": "",
+    "scene": 253
+  },
+  {
+    "id": 255,
+    "theme": "Compassionate",
+    "text": "Mercy is not weakness; it is strength refusing to wound.",
+    "author": "",
+    "scene": 254
+  },
+  {
+    "id": 256,
+    "theme": "Compassionate",
+    "text": "Let your kindness include the person you are becoming.",
+    "author": "",
+    "scene": 255
+  },
+  {
+    "id": 257,
+    "theme": "Compassionate",
+    "text": "Consider a shoreline at low tide. May you meet another life with that same tenderness.",
+    "author": "",
+    "scene": 256
+  },
+  {
+    "id": 258,
+    "theme": "Compassionate",
+    "text": "Notice the first rain on dry ground. Let it remind you to make room for what is fragile.",
+    "author": "",
+    "scene": 257
+  },
+  {
+    "id": 259,
+    "theme": "Compassionate",
+    "text": "Remember a tree bending in the wind. Gentleness can change the atmosphere around us.",
+    "author": "",
+    "scene": 258
+  },
+  {
+    "id": 260,
+    "theme": "Compassionate",
+    "text": "Pause beside the long patience of a river. May you meet another life with that same tenderness.",
+    "author": "",
+    "scene": 259
+  },
+  {
+    "id": 261,
+    "theme": "Compassionate",
+    "text": "Think of a path through tall grass. Let it remind you to make room for what is fragile.",
+    "author": "",
+    "scene": 260
+  },
+  {
+    "id": 262,
+    "theme": "Compassionate",
+    "text": "Consider the hush before sunrise. Gentleness can change the atmosphere around us.",
+    "author": "",
+    "scene": 261
+  },
+  {
+    "id": 263,
+    "theme": "Compassionate",
+    "text": "Notice a stone warmed by afternoon light. May you meet another life with that same tenderness.",
+    "author": "",
+    "scene": 262
+  },
+  {
+    "id": 264,
+    "theme": "Compassionate",
+    "text": "Remember the first green shoot of spring. Let it remind you to make room for what is fragile.",
+    "author": "",
+    "scene": 263
+  },
+  {
+    "id": 265,
+    "theme": "Compassionate",
+    "text": "Pause beside the last star before morning. Gentleness can change the atmosphere around us.",
+    "author": "",
+    "scene": 264
+  },
+  {
+    "id": 266,
+    "theme": "Compassionate",
+    "text": "Think of a hillside after rain. May you meet another life with that same tenderness.",
+    "author": "",
+    "scene": 265
+  },
+  {
+    "id": 267,
+    "theme": "Compassionate",
+    "text": "Consider the shade of an old oak. Let it remind you to make room for what is fragile.",
+    "author": "",
+    "scene": 266
+  },
+  {
+    "id": 268,
+    "theme": "Compassionate",
+    "text": "Notice a cloud crossing open sky. Gentleness can change the atmosphere around us.",
+    "author": "",
+    "scene": 267
+  },
+  {
+    "id": 269,
+    "theme": "Compassionate",
+    "text": "Remember the changing colors of autumn. May you meet another life with that same tenderness.",
+    "author": "",
+    "scene": 268
+  },
+  {
+    "id": 270,
+    "theme": "Compassionate",
+    "text": "Pause beside a field of wildflowers. Let it remind you to make room for what is fragile.",
+    "author": "",
+    "scene": 269
+  },
+  {
+    "id": 271,
+    "theme": "Compassionate",
+    "text": "Think of a quiet stretch of coastline. Gentleness can change the atmosphere around us.",
+    "author": "",
+    "scene": 270
+  },
+  {
+    "id": 272,
+    "theme": "Compassionate",
+    "text": "Consider the steady rhythm of waves. May you meet another life with that same tenderness.",
+    "author": "",
+    "scene": 271
+  },
+  {
+    "id": 273,
+    "theme": "Compassionate",
+    "text": "Notice a mountain seen from afar. Let it remind you to make room for what is fragile.",
+    "author": "",
+    "scene": 272
+  },
+  {
+    "id": 274,
+    "theme": "Compassionate",
+    "text": "Remember the stillness of a winter field. Gentleness can change the atmosphere around us.",
+    "author": "",
+    "scene": 273
+  },
+  {
+    "id": 275,
+    "theme": "Compassionate",
+    "text": "Pause beside a bird returning to its branch. May you meet another life with that same tenderness.",
+    "author": "",
+    "scene": 274
+  },
+  {
+    "id": 276,
+    "theme": "Compassionate",
+    "text": "Think of the soft light of dusk. Let it remind you to make room for what is fragile.",
+    "author": "",
+    "scene": 275
+  },
+  {
+    "id": 277,
+    "theme": "Hopeful",
+    "text": "The dawn does not ask whether yesterday was difficult. It simply offers another beginning.",
+    "author": "",
+    "scene": 276
+  },
+  {
+    "id": 278,
+    "theme": "Hopeful",
+    "text": "Hope is not certainty about tomorrow. It is the willingness to meet tomorrow with an open heart.",
+    "author": "",
+    "scene": 277
+  },
+  {
+    "id": 279,
+    "theme": "Hopeful",
+    "text": "A closed chapter is not a closed future.",
+    "author": "",
+    "scene": 278
+  },
+  {
+    "id": 280,
+    "theme": "Hopeful",
+    "text": "The first light is often faint, but it is still light.",
+    "author": "",
+    "scene": 279
+  },
+  {
+    "id": 281,
+    "theme": "Hopeful",
+    "text": "Hope does not require a promise that nothing will hurt.",
+    "author": "",
+    "scene": 280
+  },
+  {
+    "id": 282,
+    "theme": "Hopeful",
+    "text": "A seed knows something about beginnings we cannot yet see.",
+    "author": "",
+    "scene": 281
+  },
+  {
+    "id": 283,
+    "theme": "Hopeful",
+    "text": "There are paths that only become visible as we walk.",
+    "author": "",
+    "scene": 282
+  },
+  {
+    "id": 284,
+    "theme": "Hopeful",
+    "text": "Tomorrow is not obliged to repeat yesterday.",
+    "author": "",
+    "scene": 283
+  },
+  {
+    "id": 285,
+    "theme": "Hopeful",
+    "text": "Let possibility remain welcome, even without proof.",
+    "author": "",
+    "scene": 284
+  },
+  {
+    "id": 286,
+    "theme": "Hopeful",
+    "text": "A patient heart can make room for an unexpected dawn.",
+    "author": "",
+    "scene": 285
+  },
+  {
+    "id": 287,
+    "theme": "Hopeful",
+    "text": "Consider a shoreline at low tide. The next season may carry what you cannot yet imagine.",
+    "author": "",
+    "scene": 286
+  },
+  {
+    "id": 288,
+    "theme": "Hopeful",
+    "text": "Notice the first rain on dry ground. Something new can still emerge from what seems still.",
+    "author": "",
+    "scene": 287
+  },
+  {
+    "id": 289,
+    "theme": "Hopeful",
+    "text": "Remember a tree bending in the wind. The future has not exhausted its possibilities.",
+    "author": "",
+    "scene": 288
+  },
+  {
+    "id": 290,
+    "theme": "Hopeful",
+    "text": "Pause beside the long patience of a river. The next season may carry what you cannot yet imagine.",
+    "author": "",
+    "scene": 289
+  },
+  {
+    "id": 291,
+    "theme": "Hopeful",
+    "text": "Think of a path through tall grass. Something new can still emerge from what seems still.",
+    "author": "",
+    "scene": 290
+  },
+  {
+    "id": 292,
+    "theme": "Hopeful",
+    "text": "Consider the hush before sunrise. The future has not exhausted its possibilities.",
+    "author": "",
+    "scene": 291
+  },
+  {
+    "id": 293,
+    "theme": "Hopeful",
+    "text": "Notice a stone warmed by afternoon light. The next season may carry what you cannot yet imagine.",
+    "author": "",
+    "scene": 292
+  },
+  {
+    "id": 294,
+    "theme": "Hopeful",
+    "text": "Remember the first green shoot of spring. Something new can still emerge from what seems still.",
+    "author": "",
+    "scene": 293
+  },
+  {
+    "id": 295,
+    "theme": "Hopeful",
+    "text": "Pause beside the last star before morning. The future has not exhausted its possibilities.",
+    "author": "",
+    "scene": 294
+  },
+  {
+    "id": 296,
+    "theme": "Hopeful",
+    "text": "Think of a hillside after rain. The next season may carry what you cannot yet imagine.",
+    "author": "",
+    "scene": 295
+  },
+  {
+    "id": 297,
+    "theme": "Hopeful",
+    "text": "Consider the shade of an old oak. Something new can still emerge from what seems still.",
+    "author": "",
+    "scene": 296
+  },
+  {
+    "id": 298,
+    "theme": "Hopeful",
+    "text": "Notice a cloud crossing open sky. The future has not exhausted its possibilities.",
+    "author": "",
+    "scene": 297
+  },
+  {
+    "id": 299,
+    "theme": "Hopeful",
+    "text": "Remember the changing colors of autumn. The next season may carry what you cannot yet imagine.",
+    "author": "",
+    "scene": 298
+  },
+  {
+    "id": 300,
+    "theme": "Hopeful",
+    "text": "Pause beside a field of wildflowers. Something new can still emerge from what seems still.",
+    "author": "",
+    "scene": 299
+  },
+  {
+    "id": 301,
+    "theme": "Hopeful",
+    "text": "Think of a quiet stretch of coastline. The future has not exhausted its possibilities.",
+    "author": "",
+    "scene": 300
+  },
+  {
+    "id": 302,
+    "theme": "Hopeful",
+    "text": "Consider the steady rhythm of waves. The next season may carry what you cannot yet imagine.",
+    "author": "",
+    "scene": 301
+  },
+  {
+    "id": 303,
+    "theme": "Hopeful",
+    "text": "Notice a mountain seen from afar. Something new can still emerge from what seems still.",
+    "author": "",
+    "scene": 302
+  },
+  {
+    "id": 304,
+    "theme": "Hopeful",
+    "text": "Remember the stillness of a winter field. The future has not exhausted its possibilities.",
+    "author": "",
+    "scene": 303
+  },
+  {
+    "id": 305,
+    "theme": "Hopeful",
+    "text": "Pause beside a bird returning to its branch. The next season may carry what you cannot yet imagine.",
+    "author": "",
+    "scene": 304
+  },
+  {
+    "id": 306,
+    "theme": "Hopeful",
+    "text": "Think of the soft light of dusk. Something new can still emerge from what seems still.",
+    "author": "",
+    "scene": 305
+  },
+  {
+    "id": 307,
+    "theme": "Wonder",
+    "text": "The mystery of existence is not a problem to solve, but a depth in which to live.",
+    "author": "",
+    "scene": 306
+  },
+  {
+    "id": 308,
+    "theme": "Wonder",
+    "text": "Look closely at a leaf. The ordinary world has never been ordinary.",
+    "author": "",
+    "scene": 307
+  },
+  {
+    "id": 309,
+    "theme": "Wonder",
+    "text": "The mystery is not elsewhere; it is here, breathing beside us.",
+    "author": "",
+    "scene": 308
+  },
+  {
+    "id": 310,
+    "theme": "Wonder",
+    "text": "A single drop of rain belongs to a story larger than the sea.",
+    "author": "",
+    "scene": 309
+  },
+  {
+    "id": 311,
+    "theme": "Wonder",
+    "text": "Look again: the ordinary is astonishingly intricate.",
+    "author": "",
+    "scene": 310
+  },
+  {
+    "id": 312,
+    "theme": "Wonder",
+    "text": "You need not explain the stars to be moved by them.",
+    "author": "",
+    "scene": 311
+  },
+  {
+    "id": 313,
+    "theme": "Wonder",
+    "text": "A moment of awe can loosen the grip of self-importance.",
+    "author": "",
+    "scene": 312
+  },
+  {
+    "id": 314,
+    "theme": "Wonder",
+    "text": "The world is more than the sum of what we can name.",
+    "author": "",
+    "scene": 313
+  },
+  {
+    "id": 315,
+    "theme": "Wonder",
+    "text": "Let yourself be surprised by what you thought you knew.",
+    "author": "",
+    "scene": 314
+  },
+  {
+    "id": 316,
+    "theme": "Wonder",
+    "text": "Some truths are best approached with reverence rather than possession.",
+    "author": "",
+    "scene": 315
+  },
+  {
+    "id": 317,
+    "theme": "Wonder",
+    "text": "Consider a shoreline at low tide. How astonishing that such beauty needs no explanation.",
+    "author": "",
+    "scene": 316
+  },
+  {
+    "id": 318,
+    "theme": "Wonder",
+    "text": "Notice the first rain on dry ground. Let the mystery remain larger than your understanding.",
+    "author": "",
+    "scene": 317
+  },
+  {
+    "id": 319,
+    "theme": "Wonder",
+    "text": "Remember a tree bending in the wind. There is more here than the eye can gather.",
+    "author": "",
+    "scene": 318
+  },
+  {
+    "id": 320,
+    "theme": "Wonder",
+    "text": "Pause beside the long patience of a river. How astonishing that such beauty needs no explanation.",
+    "author": "",
+    "scene": 319
+  },
+  {
+    "id": 321,
+    "theme": "Wonder",
+    "text": "Think of a path through tall grass. Let the mystery remain larger than your understanding.",
+    "author": "",
+    "scene": 320
+  },
+  {
+    "id": 322,
+    "theme": "Wonder",
+    "text": "Consider the hush before sunrise. There is more here than the eye can gather.",
+    "author": "",
+    "scene": 321
+  },
+  {
+    "id": 323,
+    "theme": "Wonder",
+    "text": "Notice a stone warmed by afternoon light. How astonishing that such beauty needs no explanation.",
+    "author": "",
+    "scene": 322
+  },
+  {
+    "id": 324,
+    "theme": "Wonder",
+    "text": "Remember the first green shoot of spring. Let the mystery remain larger than your understanding.",
+    "author": "",
+    "scene": 323
+  },
+  {
+    "id": 325,
+    "theme": "Wonder",
+    "text": "Pause beside the last star before morning. There is more here than the eye can gather.",
+    "author": "",
+    "scene": 324
+  },
+  {
+    "id": 326,
+    "theme": "Wonder",
+    "text": "Think of a hillside after rain. How astonishing that such beauty needs no explanation.",
+    "author": "",
+    "scene": 325
+  },
+  {
+    "id": 327,
+    "theme": "Wonder",
+    "text": "Consider the shade of an old oak. Let the mystery remain larger than your understanding.",
+    "author": "",
+    "scene": 326
+  },
+  {
+    "id": 328,
+    "theme": "Wonder",
+    "text": "Notice a cloud crossing open sky. There is more here than the eye can gather.",
+    "author": "",
+    "scene": 327
+  },
+  {
+    "id": 329,
+    "theme": "Wonder",
+    "text": "Remember the changing colors of autumn. How astonishing that such beauty needs no explanation.",
+    "author": "",
+    "scene": 328
+  },
+  {
+    "id": 330,
+    "theme": "Wonder",
+    "text": "Pause beside a field of wildflowers. Let the mystery remain larger than your understanding.",
+    "author": "",
+    "scene": 329
+  },
+  {
+    "id": 331,
+    "theme": "Wonder",
+    "text": "Think of a quiet stretch of coastline. There is more here than the eye can gather.",
+    "author": "",
+    "scene": 330
+  },
+  {
+    "id": 332,
+    "theme": "Wonder",
+    "text": "Consider the steady rhythm of waves. How astonishing that such beauty needs no explanation.",
+    "author": "",
+    "scene": 331
+  },
+  {
+    "id": 333,
+    "theme": "Wonder",
+    "text": "Notice a mountain seen from afar. Let the mystery remain larger than your understanding.",
+    "author": "",
+    "scene": 332
+  },
+  {
+    "id": 334,
+    "theme": "Wonder",
+    "text": "Remember the stillness of a winter field. There is more here than the eye can gather.",
+    "author": "",
+    "scene": 333
+  },
+  {
+    "id": 335,
+    "theme": "Wonder",
+    "text": "Pause beside a bird returning to its branch. How astonishing that such beauty needs no explanation.",
+    "author": "",
+    "scene": 334
+  },
+  {
+    "id": 336,
+    "theme": "Wonder",
+    "text": "Think of the soft light of dusk. Let the mystery remain larger than your understanding.",
+    "author": "",
+    "scene": 335
+  },
+  {
+    "id": 337,
+    "theme": "Wisdom",
+    "text": "Not every question needs an immediate answer. Some truths become clearer when we give them room to breathe.",
+    "author": "",
+    "scene": 336
+  },
+  {
+    "id": 338,
+    "theme": "Wisdom",
+    "text": "Surrender is not giving up on life. It is releasing the demand to control every unfolding moment.",
+    "author": "",
+    "scene": 337
+  },
+  {
+    "id": 339,
+    "theme": "Wisdom",
+    "text": "Knowing when to release is a form of understanding.",
+    "author": "",
+    "scene": 338
+  },
+  {
+    "id": 340,
+    "theme": "Wisdom",
+    "text": "Peace grows when we stop insisting that every mystery be solved.",
+    "author": "",
+    "scene": 339
+  },
+  {
+    "id": 341,
+    "theme": "Wisdom",
+    "text": "A thoughtful pause can be wiser than a quick reply.",
+    "author": "",
+    "scene": 340
+  },
+  {
+    "id": 342,
+    "theme": "Wisdom",
+    "text": "The need for control can hide the possibility of trust.",
+    "author": "",
+    "scene": 341
+  },
+  {
+    "id": 343,
+    "theme": "Wisdom",
+    "text": "Choose what is yours to carry, and set down the rest.",
+    "author": "",
+    "scene": 342
+  },
+  {
+    "id": 344,
+    "theme": "Wisdom",
+    "text": "Humility leaves the door open for learning.",
+    "author": "",
+    "scene": 343
+  },
+  {
+    "id": 345,
+    "theme": "Wisdom",
+    "text": "Time can clarify what urgency distorts.",
+    "author": "",
+    "scene": 344
+  },
+  {
+    "id": 346,
+    "theme": "Wisdom",
+    "text": "A wise life is not without questions; it is at home among them.",
+    "author": "",
+    "scene": 345
+  },
+  {
+    "id": 347,
+    "theme": "Wisdom",
+    "text": "Consider a shoreline at low tide. Notice what it teaches about patience and release.",
+    "author": "",
+    "scene": 346
+  },
+  {
+    "id": 348,
+    "theme": "Wisdom",
+    "text": "Notice the first rain on dry ground. Not every movement requires your direction.",
+    "author": "",
+    "scene": 347
+  },
+  {
+    "id": 349,
+    "theme": "Wisdom",
+    "text": "Remember a tree bending in the wind. Trust can begin where the demand for certainty ends.",
+    "author": "",
+    "scene": 348
+  },
+  {
+    "id": 350,
+    "theme": "Wisdom",
+    "text": "Pause beside the long patience of a river. Notice what it teaches about patience and release.",
+    "author": "",
+    "scene": 349
+  },
+  {
+    "id": 351,
+    "theme": "Wisdom",
+    "text": "Think of a path through tall grass. Not every movement requires your direction.",
+    "author": "",
+    "scene": 350
+  },
+  {
+    "id": 352,
+    "theme": "Wisdom",
+    "text": "Consider the hush before sunrise. Trust can begin where the demand for certainty ends.",
+    "author": "",
+    "scene": 351
+  },
+  {
+    "id": 353,
+    "theme": "Wisdom",
+    "text": "Notice a stone warmed by afternoon light. Notice what it teaches about patience and release.",
+    "author": "",
+    "scene": 352
+  },
+  {
+    "id": 354,
+    "theme": "Wisdom",
+    "text": "Remember the first green shoot of spring. Not every movement requires your direction.",
+    "author": "",
+    "scene": 353
+  },
+  {
+    "id": 355,
+    "theme": "Wisdom",
+    "text": "Pause beside the last star before morning. Trust can begin where the demand for certainty ends.",
+    "author": "",
+    "scene": 354
+  },
+  {
+    "id": 356,
+    "theme": "Wisdom",
+    "text": "Think of a hillside after rain. Notice what it teaches about patience and release.",
+    "author": "",
+    "scene": 355
+  },
+  {
+    "id": 357,
+    "theme": "Wisdom",
+    "text": "Consider the shade of an old oak. Not every movement requires your direction.",
+    "author": "",
+    "scene": 356
+  },
+  {
+    "id": 358,
+    "theme": "Wisdom",
+    "text": "Notice a cloud crossing open sky. Trust can begin where the demand for certainty ends.",
+    "author": "",
+    "scene": 357
+  },
+  {
+    "id": 359,
+    "theme": "Wisdom",
+    "text": "Remember the changing colors of autumn. Notice what it teaches about patience and release.",
+    "author": "",
+    "scene": 358
+  },
+  {
+    "id": 360,
+    "theme": "Wisdom",
+    "text": "Pause beside a field of wildflowers. Not every movement requires your direction.",
+    "author": "",
+    "scene": 359
+  },
+  {
+    "id": 361,
+    "theme": "Wisdom",
+    "text": "Think of a quiet stretch of coastline. Trust can begin where the demand for certainty ends.",
+    "author": "",
+    "scene": 360
+  },
+  {
+    "id": 362,
+    "theme": "Wisdom",
+    "text": "Consider the steady rhythm of waves. Notice what it teaches about patience and release.",
+    "author": "",
+    "scene": 361
+  },
+  {
+    "id": 363,
+    "theme": "Wisdom",
+    "text": "Notice a mountain seen from afar. Not every movement requires your direction.",
+    "author": "",
+    "scene": 362
+  },
+  {
+    "id": 364,
+    "theme": "Wisdom",
+    "text": "Remember the stillness of a winter field. Trust can begin where the demand for certainty ends.",
+    "author": "",
+    "scene": 363
+  },
+  {
+    "id": 365,
+    "theme": "Wisdom",
+    "text": "Pause beside a bird returning to its branch. Notice what it teaches about patience and release.",
+    "author": "",
+    "scene": 364
+  },
+  {
+    "id": 366,
+    "theme": "Wisdom",
+    "text": "Think of the soft light of dusk. Not every movement requires your direction.",
+    "author": "",
+    "scene": 365
+  }
+]
