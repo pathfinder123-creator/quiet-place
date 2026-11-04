@@ -1,6 +1,6 @@
 {
-  "name": "Daily Meditations \u2014 366 Moments of Reflection",
-  "short_name": "Daily Meditations",
+  "name": "Quiet Place: Daily Meditations \u2014 366 Moments of Reflection",
+  "short_name": "Quiet Place",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
