@@ -1,119 +1,119 @@
 [
   {
     "id": 1,
-    "theme": "Inspiring",
-    "image": "A mountain above a field of granite:",
-    "reflection": "The farthest possibility begins with a nearer step.",
-    "author": "",
-    "scene": 36
-  },
-  {
-    "id": 2,
-    "theme": "Inspiring",
-    "image": "Granite peaks beyond a still lake:",
-    "reflection": "There is more beyond the familiar edge.",
-    "author": "",
-    "scene": 4
-  },
-  {
-    "id": 3,
-    "theme": "Inspiring",
+    "theme": "Inspiration",
     "image": "A mountain path beneath drifting clouds:",
-    "reflection": "Even a small light can change the whole horizon.",
+    "reflection": "The farthest possibility begins with a nearer step.",
     "author": "",
     "scene": 40
   },
   {
-    "id": 4,
-    "theme": "Inspiring",
-    "image": "Rain light over a green valley:",
-    "reflection": "An opening need not announce itself to be real.",
-    "author": "",
-    "scene": 51
-  },
-  {
-    "id": 5,
-    "theme": "Inspiring",
-    "image": "The sun setting across open water:",
-    "reflection": "New directions often arrive quietly.",
-    "author": "",
-    "scene": 44
-  },
-  {
-    "id": 6,
-    "theme": "Inspiring",
-    "image": "A sheer wall of granite:",
-    "reflection": "The distance ahead is also a place of promise.",
-    "author": "",
-    "scene": 12
-  },
-  {
-    "id": 7,
-    "theme": "Inspiring",
-    "image": "A golden mountain mirrored in a lake:",
-    "reflection": "Something beautiful can begin without certainty.",
-    "author": "",
-    "scene": 48
-  },
-  {
-    "id": 8,
-    "theme": "Inspiring",
-    "image": "Sunset finding the granite cliffs:",
-    "reflection": "The future is wider than the fear of it.",
-    "author": "",
-    "scene": 23
-  },
-  {
-    "id": 9,
-    "theme": "Inspiring",
-    "image": "Yellow flowers in the high country:",
-    "reflection": "A single beginning can alter a lifetime.",
-    "author": "",
-    "scene": 59
-  },
-  {
-    "id": 10,
-    "theme": "Inspiring",
-    "image": "Twin peaks mirrored in water:",
-    "reflection": "Every ascent starts below the summit.",
-    "author": "",
-    "scene": 21
-  },
-  {
-    "id": 11,
-    "theme": "Inspiring",
-    "image": "A trail above a wide valley:",
-    "reflection": "Hope has a way of finding unexpected ground.",
-    "author": "",
-    "scene": 16
-  },
-  {
-    "id": 12,
-    "theme": "Inspiring",
-    "image": "A still lake beneath a granite dome:",
-    "reflection": "A closed chapter is not the end of the story.",
-    "author": "",
-    "scene": 34
-  },
-  {
-    "id": 13,
-    "theme": "Inspiring",
-    "image": "A lone tree at the edge of evening:",
-    "reflection": "The world still holds places you have not imagined.",
-    "author": "",
-    "scene": 2
-  },
-  {
-    "id": 14,
-    "theme": "Inspiring",
+    "id": 2,
+    "theme": "Inspiration",
     "image": "Sunlight touching a winter summit:",
-    "reflection": "A modest step can carry a remarkable intention.",
+    "reflection": "There is more beyond the familiar edge.",
     "author": "",
     "scene": 10
   },
   {
+    "id": 3,
+    "theme": "Inspiration",
+    "image": "A wide plain beneath silver clouds:",
+    "reflection": "Even a small light can change the whole horizon.",
+    "author": "",
+    "scene": 49
+  },
+  {
+    "id": 4,
+    "theme": "Inspiration",
+    "image": "A wide view from the mountain ridge:",
+    "reflection": "An opening need not announce itself to be real.",
+    "author": "",
+    "scene": 60
+  },
+  {
+    "id": 5,
+    "theme": "Inspiration",
+    "image": "A mountain disappearing into mist:",
+    "reflection": "New directions often arrive quietly.",
+    "author": "",
+    "scene": 9
+  },
+  {
+    "id": 6,
+    "theme": "Inspiration",
+    "image": "A mountain above a field of granite:",
+    "reflection": "The distance ahead is also a place of promise.",
+    "author": "",
+    "scene": 36
+  },
+  {
+    "id": 7,
+    "theme": "Inspiration",
+    "image": "Last light on a distant ridgeline:",
+    "reflection": "Something beautiful can begin without certainty.",
+    "author": "",
+    "scene": 45
+  },
+  {
+    "id": 8,
+    "theme": "Inspiration",
+    "image": "A clearing among the pines:",
+    "reflection": "The future is wider than the fear of it.",
+    "author": "",
+    "scene": 15
+  },
+  {
+    "id": 9,
+    "theme": "Inspiration",
+    "image": "A trail leading toward the peaks:",
+    "reflection": "A single beginning can alter a lifetime.",
+    "author": "",
+    "scene": 56
+  },
+  {
+    "id": 10,
+    "theme": "Inspiration",
+    "image": "A mountain above a field of granite:",
+    "reflection": "Every ascent starts below the summit.",
+    "author": "",
+    "scene": 36
+  },
+  {
+    "id": 11,
+    "theme": "Inspiration",
+    "image": "A clearing among the pines:",
+    "reflection": "Hope has a way of finding unexpected ground.",
+    "author": "",
+    "scene": 15
+  },
+  {
+    "id": 12,
+    "theme": "Inspiration",
+    "image": "A road disappearing into evening:",
+    "reflection": "A closed chapter is not the end of the story.",
+    "author": "",
+    "scene": 54
+  },
+  {
+    "id": 13,
+    "theme": "Inspiration",
+    "image": "Granite peaks beyond a still lake:",
+    "reflection": "The world still holds places you have not imagined.",
+    "author": "",
+    "scene": 4
+  },
+  {
+    "id": 14,
+    "theme": "Inspiration",
+    "image": "A mountain path beneath drifting clouds:",
+    "reflection": "A modest step can carry a remarkable intention.",
+    "author": "",
+    "scene": 40
+  },
+  {
     "id": 15,
-    "theme": "Inspiring",
+    "theme": "Inspiration",
     "image": "A trail leading toward the peaks:",
     "reflection": "The courage to begin is its own kind of arrival.",
     "author": "",
@@ -121,1207 +121,1207 @@
   },
   {
     "id": 16,
-    "theme": "Inspiring",
-    "image": "The moon above a distant ridge:",
-    "reflection": "Possibility has no obligation to be obvious.",
-    "author": "",
-    "scene": 24
-  },
-  {
-    "id": 17,
-    "theme": "Inspiring",
-    "image": "A wide view from the mountain ridge:",
-    "reflection": "An ordinary morning can contain a turning point.",
-    "author": "",
-    "scene": 60
-  },
-  {
-    "id": 18,
-    "theme": "Inspiring",
-    "image": "A mountain above a field of granite:",
-    "reflection": "The unknown is not always an emptiness.",
-    "author": "",
-    "scene": 36
-  },
-  {
-    "id": 19,
-    "theme": "Inspiring",
-    "image": "Granite peaks beyond a still lake:",
-    "reflection": "What seems distant may already be drawing near.",
-    "author": "",
-    "scene": 4
-  },
-  {
-    "id": 20,
-    "theme": "Inspiring",
-    "image": "A mountain path beneath drifting clouds:",
-    "reflection": "The smallest opening admits the whole sky.",
-    "author": "",
-    "scene": 40
-  },
-  {
-    "id": 21,
-    "theme": "Inspiring",
-    "image": "Rain light over a green valley:",
-    "reflection": "Becoming rarely follows a straight line.",
-    "author": "",
-    "scene": 51
-  },
-  {
-    "id": 22,
-    "theme": "Inspiring",
-    "image": "The sun setting across open water:",
-    "reflection": "A fresh perspective can make old limits disappear.",
-    "author": "",
-    "scene": 44
-  },
-  {
-    "id": 23,
-    "theme": "Inspiring",
-    "image": "A sheer wall of granite:",
-    "reflection": "There is room to grow beyond yesterday's shape.",
-    "author": "",
-    "scene": 12
-  },
-  {
-    "id": 24,
-    "theme": "Inspiring",
-    "image": "A golden mountain mirrored in a lake:",
-    "reflection": "A new season may begin without a sound.",
-    "author": "",
-    "scene": 48
-  },
-  {
-    "id": 25,
-    "theme": "Inspiring",
-    "image": "Sunset finding the granite cliffs:",
-    "reflection": "The first glimpse is not the full view.",
-    "author": "",
-    "scene": 23
-  },
-  {
-    "id": 26,
-    "theme": "Inspiring",
-    "image": "Yellow flowers in the high country:",
-    "reflection": "Something unfinished may still be beautiful.",
-    "author": "",
-    "scene": 59
-  },
-  {
-    "id": 27,
-    "theme": "Inspiring",
-    "image": "Twin peaks mirrored in water:",
-    "reflection": "Even the long way can lead somewhere luminous.",
-    "author": "",
-    "scene": 21
-  },
-  {
-    "id": 28,
-    "theme": "Inspiring",
-    "image": "A trail above a wide valley:",
-    "reflection": "No horizon belongs only to those who reach it.",
-    "author": "",
-    "scene": 16
-  },
-  {
-    "id": 29,
-    "theme": "Inspiring",
-    "image": "A still lake beneath a granite dome:",
-    "reflection": "Life keeps offering untraveled directions.",
-    "author": "",
-    "scene": 34
-  },
-  {
-    "id": 30,
-    "theme": "Inspiring",
-    "image": "A lone tree at the edge of evening:",
-    "reflection": "A little wonder can loosen a great fear.",
-    "author": "",
-    "scene": 2
-  },
-  {
-    "id": 31,
-    "theme": "Inspiring",
-    "image": "Sunlight touching a winter summit:",
-    "reflection": "The next chapter has not yet been written.",
-    "author": "",
-    "scene": 10
-  },
-  {
-    "id": 32,
-    "theme": "Encouraging",
-    "image": "A river winding through granite walls:",
-    "reflection": "Steadiness matters more than speed.",
-    "author": "",
-    "scene": 52
-  },
-  {
-    "id": 33,
-    "theme": "Encouraging",
-    "image": "Water descending a narrow rock face:",
-    "reflection": "A difficult passage is still a passage.",
-    "author": "",
-    "scene": 20
-  },
-  {
-    "id": 34,
-    "theme": "Encouraging",
-    "image": "A red-earth trail through the hills:",
-    "reflection": "Small efforts gather strength over time.",
-    "author": "",
-    "scene": 13
-  },
-  {
-    "id": 35,
-    "theme": "Encouraging",
-    "image": "Autumn leaves beside a rocky stream:",
-    "reflection": "A winding path is not a wrong one.",
-    "author": "",
-    "scene": 42
-  },
-  {
-    "id": 36,
-    "theme": "Encouraging",
-    "image": "A narrow trail among ancient trees:",
-    "reflection": "Beginning again is a form of courage.",
-    "author": "",
-    "scene": 41
-  },
-  {
-    "id": 37,
-    "theme": "Encouraging",
-    "image": "A trail winding through open country:",
-    "reflection": "The slow season has its own progress.",
-    "author": "",
-    "scene": 28
-  },
-  {
-    "id": 38,
-    "theme": "Encouraging",
-    "image": "A forest trail beneath green branches:",
-    "reflection": "Strength can be quiet and unmistakable.",
-    "author": "",
-    "scene": 39
-  },
-  {
-    "id": 39,
-    "theme": "Encouraging",
-    "image": "Snow gathered along a steep ravine:",
-    "reflection": "Not every step needs a clear destination.",
-    "author": "",
-    "scene": 32
-  },
-  {
-    "id": 40,
-    "theme": "Encouraging",
-    "image": "Water falling between tall pines:",
-    "reflection": "Gentleness can accompany determination.",
-    "author": "",
-    "scene": 0
-  },
-  {
-    "id": 41,
-    "theme": "Encouraging",
-    "image": "A clearing among the pines:",
-    "reflection": "There is dignity in trying once more.",
-    "author": "",
-    "scene": 15
-  },
-  {
-    "id": 42,
-    "theme": "Encouraging",
-    "image": "A snow-covered passage through pines:",
-    "reflection": "A pause need not mean surrender.",
-    "author": "",
-    "scene": 8
-  },
-  {
-    "id": 43,
-    "theme": "Encouraging",
-    "image": "A waterfall spilling into a clear pool:",
-    "reflection": "Roots deepen before branches reach higher.",
-    "author": "",
-    "scene": 26
-  },
-  {
-    "id": 44,
-    "theme": "Encouraging",
-    "image": "A trail leading toward the peaks:",
-    "reflection": "The path opens one bend at a time.",
-    "author": "",
-    "scene": 56
-  },
-  {
-    "id": 45,
-    "theme": "Encouraging",
-    "image": "A wide view from the mountain ridge:",
-    "reflection": "Patience is not the absence of movement.",
-    "author": "",
-    "scene": 60
-  },
-  {
-    "id": 46,
-    "theme": "Encouraging",
-    "image": "A mountain path beneath drifting clouds:",
-    "reflection": "Even a hard day can hold one good moment.",
-    "author": "",
-    "scene": 40
-  },
-  {
-    "id": 47,
-    "theme": "Encouraging",
-    "image": "A trail above a wide valley:",
-    "reflection": "The smallest foothold can support a new climb.",
-    "author": "",
-    "scene": 16
-  },
-  {
-    "id": 48,
-    "theme": "Encouraging",
-    "image": "A river winding through granite walls:",
-    "reflection": "A steady heart can weather an uncertain sky.",
-    "author": "",
-    "scene": 52
-  },
-  {
-    "id": 49,
-    "theme": "Encouraging",
-    "image": "Water descending a narrow rock face:",
-    "reflection": "What grows slowly may grow strong.",
-    "author": "",
-    "scene": 20
-  },
-  {
-    "id": 50,
-    "theme": "Encouraging",
-    "image": "A red-earth trail through the hills:",
-    "reflection": "The next step does not require the whole map.",
-    "author": "",
-    "scene": 13
-  },
-  {
-    "id": 51,
-    "theme": "Encouraging",
-    "image": "Autumn leaves beside a rocky stream:",
-    "reflection": "Endurance is sometimes simply remaining present.",
-    "author": "",
-    "scene": 42
-  },
-  {
-    "id": 52,
-    "theme": "Encouraging",
-    "image": "A narrow trail among ancient trees:",
-    "reflection": "The way forward may be quieter than expected.",
-    "author": "",
-    "scene": 41
-  },
-  {
-    "id": 53,
-    "theme": "Encouraging",
-    "image": "A trail winding through open country:",
-    "reflection": "Courage can coexist with trembling.",
-    "author": "",
-    "scene": 28
-  },
-  {
-    "id": 54,
-    "theme": "Encouraging",
-    "image": "A forest trail beneath green branches:",
-    "reflection": "There is no shame in an unfinished journey.",
-    "author": "",
-    "scene": 39
-  },
-  {
-    "id": 55,
-    "theme": "Encouraging",
-    "image": "Snow gathered along a steep ravine:",
-    "reflection": "A setback cannot erase the distance already traveled.",
-    "author": "",
-    "scene": 32
-  },
-  {
-    "id": 56,
-    "theme": "Encouraging",
-    "image": "Water falling between tall pines:",
-    "reflection": "Softness and resolve can belong together.",
-    "author": "",
-    "scene": 0
-  },
-  {
-    "id": 57,
-    "theme": "Encouraging",
-    "image": "A clearing among the pines:",
-    "reflection": "An honest beginning is enough for today.",
-    "author": "",
-    "scene": 15
-  },
-  {
-    "id": 58,
-    "theme": "Encouraging",
-    "image": "A snow-covered passage through pines:",
-    "reflection": "The trail need not be easy to be worthwhile.",
-    "author": "",
-    "scene": 8
-  },
-  {
-    "id": 59,
-    "theme": "Encouraging",
-    "image": "A waterfall spilling into a clear pool:",
-    "reflection": "Some victories leave no visible footprints.",
-    "author": "",
-    "scene": 26
-  },
-  {
-    "id": 60,
-    "theme": "Encouraging",
-    "image": "A trail leading toward the peaks:",
-    "reflection": "Rest can make room for renewed strength.",
-    "author": "",
-    "scene": 56
-  },
-  {
-    "id": 61,
-    "theme": "Encouraging",
-    "image": "A wide view from the mountain ridge:",
-    "reflection": "The work of growing happens beneath the surface.",
-    "author": "",
-    "scene": 60
-  },
-  {
-    "id": 62,
-    "theme": "Encouraging",
-    "image": "A river winding through granite walls:",
-    "reflection": "There is still ground beneath your feet.",
-    "author": "",
-    "scene": 52
-  },
-  {
-    "id": 63,
-    "theme": "Thoughtful",
-    "image": "A mountain valley beneath gathering clouds:",
-    "reflection": "Silence can reveal what argument conceals.",
-    "author": "",
-    "scene": 18
-  },
-  {
-    "id": 64,
-    "theme": "Thoughtful",
-    "image": "Cloud shadows on an alpine lake:",
-    "reflection": "An unanswered question can still be a companion.",
-    "author": "",
-    "scene": 47
-  },
-  {
-    "id": 65,
-    "theme": "Thoughtful",
-    "image": "A dark lake under distant mountains:",
-    "reflection": "Familiar things may hold unfamiliar depths.",
-    "author": "",
-    "scene": 7
-  },
-  {
-    "id": 66,
-    "theme": "Thoughtful",
-    "image": "Pines reflected in a mountain pool:",
-    "reflection": "Attention changes the shape of understanding.",
-    "author": "",
-    "scene": 22
-  },
-  {
-    "id": 67,
-    "theme": "Thoughtful",
-    "image": "Mountain clouds above a sheltered shore:",
-    "reflection": "Not everything meaningful asks to be explained.",
-    "author": "",
-    "scene": 58
-  },
-  {
-    "id": 68,
-    "theme": "Thoughtful",
-    "image": "A lake holding the blue sky:",
-    "reflection": "The space between thoughts has a life of its own.",
-    "author": "",
-    "scene": 1
-  },
-  {
-    "id": 69,
-    "theme": "Thoughtful",
-    "image": "A lake between bare hills:",
-    "reflection": "Certainty can narrow what curiosity opens.",
-    "author": "",
-    "scene": 57
-  },
-  {
-    "id": 70,
-    "theme": "Thoughtful",
-    "image": "A blue lake in a basin of stone:",
-    "reflection": "A wider view often softens a firm opinion.",
-    "author": "",
-    "scene": 19
-  },
-  {
-    "id": 71,
-    "theme": "Thoughtful",
-    "image": "A mountain disappearing into mist:",
-    "reflection": "Understanding begins where assumptions grow quiet.",
-    "author": "",
-    "scene": 9
-  },
-  {
-    "id": 72,
-    "theme": "Thoughtful",
-    "image": "The last light behind the mountains:",
-    "reflection": "A patient question may be wiser than a quick answer.",
-    "author": "",
-    "scene": 27
-  },
-  {
-    "id": 73,
-    "theme": "Thoughtful",
-    "image": "A wide plain beneath silver clouds:",
-    "reflection": "The visible world is only part of the story.",
-    "author": "",
-    "scene": 49
-  },
-  {
-    "id": 74,
-    "theme": "Thoughtful",
-    "image": "Storm clouds above pale granite:",
-    "reflection": "Wonder and knowledge need not compete.",
-    "author": "",
-    "scene": 6
-  },
-  {
-    "id": 75,
-    "theme": "Thoughtful",
-    "image": "Stars above a sleeping forest:",
-    "reflection": "Some truths emerge only with time.",
-    "author": "",
-    "scene": 17
-  },
-  {
-    "id": 76,
-    "theme": "Thoughtful",
-    "image": "Twin peaks mirrored in water:",
-    "reflection": "A reflection changes with the light around it.",
-    "author": "",
-    "scene": 21
-  },
-  {
-    "id": 77,
-    "theme": "Thoughtful",
-    "image": "A still lake beneath a granite dome:",
-    "reflection": "Perspective depends on where we stand.",
-    "author": "",
-    "scene": 34
-  },
-  {
-    "id": 78,
-    "theme": "Thoughtful",
-    "image": "A mountain valley beneath gathering clouds:",
-    "reflection": "An open mind has room for contradiction.",
-    "author": "",
-    "scene": 18
-  },
-  {
-    "id": 79,
-    "theme": "Thoughtful",
-    "image": "Cloud shadows on an alpine lake:",
-    "reflection": "The obvious is sometimes what we have stopped seeing.",
-    "author": "",
-    "scene": 47
-  },
-  {
-    "id": 80,
-    "theme": "Thoughtful",
-    "image": "A dark lake under distant mountains:",
-    "reflection": "Depth cannot always be measured from the surface.",
-    "author": "",
-    "scene": 7
-  },
-  {
-    "id": 81,
-    "theme": "Thoughtful",
-    "image": "Pines reflected in a mountain pool:",
-    "reflection": "What remains unsaid can matter deeply.",
-    "author": "",
-    "scene": 22
-  },
-  {
-    "id": 82,
-    "theme": "Thoughtful",
-    "image": "Mountain clouds above a sheltered shore:",
-    "reflection": "Listening is a form of discovery.",
-    "author": "",
-    "scene": 58
-  },
-  {
-    "id": 83,
-    "theme": "Thoughtful",
-    "image": "A lake holding the blue sky:",
-    "reflection": "A single detail can transform the whole picture.",
-    "author": "",
-    "scene": 1
-  },
-  {
-    "id": 84,
-    "theme": "Thoughtful",
-    "image": "A lake between bare hills:",
-    "reflection": "Not every mystery is a problem to solve.",
-    "author": "",
-    "scene": 57
-  },
-  {
-    "id": 85,
-    "theme": "Thoughtful",
-    "image": "A blue lake in a basin of stone:",
-    "reflection": "A quiet mind can hold difficult questions.",
-    "author": "",
-    "scene": 19
-  },
-  {
-    "id": 86,
-    "theme": "Thoughtful",
-    "image": "A mountain disappearing into mist:",
-    "reflection": "There is wisdom in unfinished understanding.",
-    "author": "",
-    "scene": 9
-  },
-  {
-    "id": 87,
-    "theme": "Thoughtful",
-    "image": "The last light behind the mountains:",
-    "reflection": "Distance can reveal a pattern hidden up close.",
-    "author": "",
-    "scene": 27
-  },
-  {
-    "id": 88,
-    "theme": "Thoughtful",
-    "image": "A wide plain beneath silver clouds:",
-    "reflection": "The same landscape is never seen twice in quite the same way.",
-    "author": "",
-    "scene": 49
-  },
-  {
-    "id": 89,
-    "theme": "Thoughtful",
-    "image": "Storm clouds above pale granite:",
-    "reflection": "Thought becomes richer when certainty loosens.",
-    "author": "",
-    "scene": 6
-  },
-  {
-    "id": 90,
-    "theme": "Thoughtful",
-    "image": "Stars above a sleeping forest:",
-    "reflection": "A question may be an invitation rather than a demand.",
-    "author": "",
-    "scene": 17
-  },
-  {
-    "id": 91,
-    "theme": "Thoughtful",
-    "image": "A mountain valley beneath gathering clouds:",
-    "reflection": "Some insights arrive without a conclusion.",
-    "author": "",
-    "scene": 18
-  },
-  {
-    "id": 92,
-    "theme": "Thoughtful",
-    "image": "Cloud shadows on an alpine lake:",
-    "reflection": "The edge of knowledge is also the beginning of awe.",
-    "author": "",
-    "scene": 47
-  },
-  {
-    "id": 93,
-    "theme": "Thoughtful",
-    "image": "A dark lake under distant mountains:",
-    "reflection": "Meaning often waits beneath the first impression.",
-    "author": "",
-    "scene": 7
-  },
-  {
-    "id": 94,
-    "theme": "Challenging",
-    "image": "Layers of stone in the afternoon sun:",
-    "reflection": "Growth sometimes asks us to leave familiar ground.",
-    "author": "",
-    "scene": 14
-  },
-  {
-    "id": 95,
-    "theme": "Challenging",
-    "image": "Golden cliffs rising beyond the trees:",
-    "reflection": "A boundary may be an assumption in disguise.",
-    "author": "",
-    "scene": 25
-  },
-  {
-    "id": 96,
-    "theme": "Challenging",
-    "image": "An arch cut into ancient stone:",
-    "reflection": "Courage begins before confidence arrives.",
-    "author": "",
-    "scene": 55
-  },
-  {
-    "id": 97,
-    "theme": "Challenging",
-    "image": "A mountain above a field of granite:",
-    "reflection": "The easier path is not always the truer one.",
-    "author": "",
-    "scene": 36
-  },
-  {
-    "id": 98,
-    "theme": "Challenging",
-    "image": "A sheer wall of granite:",
-    "reflection": "A hard question can open an honest door.",
-    "author": "",
-    "scene": 12
-  },
-  {
-    "id": 99,
-    "theme": "Challenging",
-    "image": "Sunlight touching a winter summit:",
-    "reflection": "Certainty can become a shelter we never leave.",
-    "author": "",
-    "scene": 10
-  },
-  {
-    "id": 100,
-    "theme": "Challenging",
-    "image": "Water descending a narrow rock face:",
-    "reflection": "An old habit need not decide tomorrow.",
-    "author": "",
-    "scene": 20
-  },
-  {
-    "id": 101,
-    "theme": "Challenging",
-    "image": "A red-earth trail through the hills:",
-    "reflection": "Resistance may reveal what matters most.",
-    "author": "",
-    "scene": 13
-  },
-  {
-    "id": 102,
-    "theme": "Challenging",
-    "image": "A trail winding through open country:",
-    "reflection": "There are heights reached only by facing the climb.",
-    "author": "",
-    "scene": 28
-  },
-  {
-    "id": 103,
-    "theme": "Challenging",
-    "image": "Snow gathered along a steep ravine:",
-    "reflection": "Change asks for more than good intentions.",
-    "author": "",
-    "scene": 32
-  },
-  {
-    "id": 104,
-    "theme": "Challenging",
-    "image": "A mountain path beneath drifting clouds:",
-    "reflection": "A difficult truth deserves a place in the light.",
-    "author": "",
-    "scene": 40
-  },
-  {
-    "id": 105,
-    "theme": "Challenging",
-    "image": "A trail above a wide valley:",
-    "reflection": "The unfamiliar can expose hidden strengths.",
-    "author": "",
-    "scene": 16
-  },
-  {
-    "id": 106,
-    "theme": "Challenging",
-    "image": "A wide plain beneath silver clouds:",
-    "reflection": "Comfort is not the only measure of goodness.",
-    "author": "",
-    "scene": 49
-  },
-  {
-    "id": 107,
-    "theme": "Challenging",
-    "image": "Storm clouds above pale granite:",
-    "reflection": "An obstacle may call for a different way through.",
-    "author": "",
-    "scene": 6
-  },
-  {
-    "id": 108,
-    "theme": "Challenging",
-    "image": "A wide view from the mountain ridge:",
-    "reflection": "Integrity sometimes requires an inconvenient step.",
-    "author": "",
-    "scene": 60
-  },
-  {
-    "id": 109,
-    "theme": "Challenging",
-    "image": "A mountain valley beneath gathering clouds:",
-    "reflection": "A risk worth taking need not feel safe.",
-    "author": "",
-    "scene": 18
-  },
-  {
-    "id": 110,
-    "theme": "Challenging",
-    "image": "Layers of stone in the afternoon sun:",
-    "reflection": "What we avoid can quietly shape our lives.",
-    "author": "",
-    "scene": 14
-  },
-  {
-    "id": 111,
-    "theme": "Challenging",
-    "image": "Golden cliffs rising beyond the trees:",
-    "reflection": "The strongest response is not always the loudest.",
-    "author": "",
-    "scene": 25
-  },
-  {
-    "id": 112,
-    "theme": "Challenging",
-    "image": "An arch cut into ancient stone:",
-    "reflection": "A narrow passage can lead to a wider world.",
-    "author": "",
-    "scene": 55
-  },
-  {
-    "id": 113,
-    "theme": "Challenging",
-    "image": "A mountain above a field of granite:",
-    "reflection": "A new choice may require an old story to end.",
-    "author": "",
-    "scene": 36
-  },
-  {
-    "id": 114,
-    "theme": "Challenging",
-    "image": "A sheer wall of granite:",
-    "reflection": "Disagreement need not become hostility.",
-    "author": "",
-    "scene": 12
-  },
-  {
-    "id": 115,
-    "theme": "Challenging",
-    "image": "Sunlight touching a winter summit:",
-    "reflection": "The courage to listen can be harder than speaking.",
-    "author": "",
-    "scene": 10
-  },
-  {
-    "id": 116,
-    "theme": "Challenging",
-    "image": "Water descending a narrow rock face:",
-    "reflection": "Some doors open only after something is released.",
-    "author": "",
-    "scene": 20
-  },
-  {
-    "id": 117,
-    "theme": "Challenging",
-    "image": "A red-earth trail through the hills:",
-    "reflection": "A steep trail offers no promise of ease.",
-    "author": "",
-    "scene": 13
-  },
-  {
-    "id": 118,
-    "theme": "Challenging",
-    "image": "A trail winding through open country:",
-    "reflection": "Real change often begins with honest discomfort.",
-    "author": "",
-    "scene": 28
-  },
-  {
-    "id": 119,
-    "theme": "Challenging",
-    "image": "Snow gathered along a steep ravine:",
-    "reflection": "Pride can make a small barrier seem immense.",
-    "author": "",
-    "scene": 32
-  },
-  {
-    "id": 120,
-    "theme": "Challenging",
-    "image": "A wide plain beneath silver clouds:",
-    "reflection": "The next right step may be the least familiar.",
-    "author": "",
-    "scene": 49
-  },
-  {
-    "id": 121,
-    "theme": "Challenging",
-    "image": "Storm clouds above pale granite:",
-    "reflection": "Doubt can sharpen rather than silence conviction.",
-    "author": "",
-    "scene": 6
-  },
-  {
-    "id": 122,
-    "theme": "Challenging",
-    "image": "A mountain path beneath drifting clouds:",
-    "reflection": "Strength is tested by what it chooses to protect.",
-    "author": "",
-    "scene": 40
-  },
-  {
-    "id": 123,
-    "theme": "Challenging",
-    "image": "A trail above a wide valley:",
-    "reflection": "A challenge may uncover an unexpected freedom.",
-    "author": "",
-    "scene": 16
-  },
-  {
-    "id": 124,
-    "theme": "Challenging",
-    "image": "Layers of stone in the afternoon sun:",
-    "reflection": "The mountain does not diminish because the climb is hard.",
-    "author": "",
-    "scene": 14
-  },
-  {
-    "id": 125,
-    "theme": "Comforting",
-    "image": "Snow resting in a valley:",
-    "reflection": "Rest belongs to the rhythm of living.",
-    "author": "",
-    "scene": 11
-  },
-  {
-    "id": 126,
-    "theme": "Comforting",
-    "image": "Winter light through bare branches:",
-    "reflection": "Nothing in this moment demands perfection.",
-    "author": "",
-    "scene": 29
-  },
-  {
-    "id": 127,
-    "theme": "Comforting",
-    "image": "Snow falling silent beneath the cliffs:",
-    "reflection": "The earth holds what has not yet bloomed.",
-    "author": "",
-    "scene": 30
-  },
-  {
-    "id": 128,
-    "theme": "Comforting",
-    "image": "Trees standing beside a quiet lake:",
-    "reflection": "A quiet place can be enough for now.",
-    "author": "",
-    "scene": 53
-  },
-  {
-    "id": 129,
-    "theme": "Comforting",
-    "image": "Wildflowers beside quiet water:",
-    "reflection": "Even sorrow can make room for tenderness.",
-    "author": "",
-    "scene": 3
-  },
-  {
-    "id": 130,
-    "theme": "Comforting",
-    "image": "The moon above a distant ridge:",
-    "reflection": "There is shelter in an unhurried breath.",
-    "author": "",
-    "scene": 24
-  },
-  {
-    "id": 131,
-    "theme": "Comforting",
-    "image": "A narrow trail among ancient trees:",
-    "reflection": "The night does not mean the light is lost.",
-    "author": "",
-    "scene": 41
-  },
-  {
-    "id": 132,
-    "theme": "Comforting",
-    "image": "A forest trail beneath green branches:",
-    "reflection": "Stillness is not the same as emptiness.",
-    "author": "",
-    "scene": 39
-  },
-  {
-    "id": 133,
-    "theme": "Comforting",
-    "image": "A clearing among the pines:",
-    "reflection": "A gentle presence can ease a heavy day.",
-    "author": "",
-    "scene": 15
-  },
-  {
-    "id": 134,
-    "theme": "Comforting",
-    "image": "A snow-covered passage through pines:",
-    "reflection": "Some burdens grow lighter when set down.",
-    "author": "",
-    "scene": 8
-  },
-  {
-    "id": 135,
-    "theme": "Comforting",
-    "image": "Pines reflected in a mountain pool:",
-    "reflection": "The world continues to hold us through change.",
-    "author": "",
-    "scene": 22
-  },
-  {
-    "id": 136,
-    "theme": "Comforting",
-    "image": "A lake holding the blue sky:",
-    "reflection": "A season of waiting is still a season of life.",
-    "author": "",
-    "scene": 1
-  },
-  {
-    "id": 137,
-    "theme": "Comforting",
-    "image": "A mountain disappearing into mist:",
-    "reflection": "There is kindness in allowing things to be unfinished.",
-    "author": "",
-    "scene": 9
-  },
-  {
-    "id": 138,
-    "theme": "Comforting",
-    "image": "Stars above a sleeping forest:",
-    "reflection": "A weary heart deserves its own patience.",
-    "author": "",
-    "scene": 17
-  },
-  {
-    "id": 139,
-    "theme": "Comforting",
-    "image": "Twin peaks mirrored in water:",
-    "reflection": "Not every silence is lonely.",
-    "author": "",
-    "scene": 21
-  },
-  {
-    "id": 140,
-    "theme": "Comforting",
-    "image": "A still lake beneath a granite dome:",
-    "reflection": "The shade is part of the tree's generosity.",
-    "author": "",
-    "scene": 34
-  },
-  {
-    "id": 141,
-    "theme": "Comforting",
-    "image": "A dark lake under distant mountains:",
-    "reflection": "A difficult feeling need not fill the whole sky.",
-    "author": "",
-    "scene": 7
-  },
-  {
-    "id": 142,
-    "theme": "Comforting",
-    "image": "Snow resting in a valley:",
-    "reflection": "There is room for uncertainty and peace together.",
-    "author": "",
-    "scene": 11
-  },
-  {
-    "id": 143,
-    "theme": "Comforting",
-    "image": "Winter light through bare branches:",
-    "reflection": "The ground remains beneath the falling leaves.",
-    "author": "",
-    "scene": 29
-  },
-  {
-    "id": 144,
-    "theme": "Comforting",
-    "image": "Snow falling silent beneath the cliffs:",
-    "reflection": "A quiet return can be a kind of healing.",
-    "author": "",
-    "scene": 30
-  },
-  {
-    "id": 145,
-    "theme": "Comforting",
-    "image": "Trees standing beside a quiet lake:",
-    "reflection": "Even winter has a place in the garden.",
-    "author": "",
-    "scene": 53
-  },
-  {
-    "id": 146,
-    "theme": "Comforting",
-    "image": "Wildflowers beside quiet water:",
-    "reflection": "Soft light is still light.",
-    "author": "",
-    "scene": 3
-  },
-  {
-    "id": 147,
-    "theme": "Comforting",
-    "image": "The moon above a distant ridge:",
-    "reflection": "Nothing living is asked to bloom every day.",
-    "author": "",
-    "scene": 24
-  },
-  {
-    "id": 148,
-    "theme": "Comforting",
-    "image": "A narrow trail among ancient trees:",
-    "reflection": "The smallest refuge can feel immense.",
-    "author": "",
-    "scene": 41
-  },
-  {
-    "id": 149,
-    "theme": "Comforting",
-    "image": "A forest trail beneath green branches:",
-    "reflection": "Time sometimes comforts without explaining.",
-    "author": "",
-    "scene": 39
-  },
-  {
-    "id": 150,
-    "theme": "Comforting",
-    "image": "A clearing among the pines:",
-    "reflection": "The rain will not always fall this hard.",
-    "author": "",
-    "scene": 15
-  },
-  {
-    "id": 151,
-    "theme": "Comforting",
-    "image": "A snow-covered passage through pines:",
-    "reflection": "Gentleness need not wait for easier circumstances.",
-    "author": "",
-    "scene": 8
-  },
-  {
-    "id": 152,
-    "theme": "Comforting",
-    "image": "Pines reflected in a mountain pool:",
-    "reflection": "A resting place is part of every long journey.",
-    "author": "",
-    "scene": 22
-  },
-  {
-    "id": 153,
-    "theme": "Comforting",
-    "image": "A lake holding the blue sky:",
-    "reflection": "Peace may arrive in fragments rather than all at once.",
-    "author": "",
-    "scene": 1
-  },
-  {
-    "id": 154,
-    "theme": "Comforting",
-    "image": "Snow resting in a valley:",
-    "reflection": "There is no need to carry tomorrow tonight.",
-    "author": "",
-    "scene": 11
-  },
-  {
-    "id": 155,
-    "theme": "Comforting",
-    "image": "A mountain disappearing into mist:",
-    "reflection": "The world has room for an imperfect day.",
-    "author": "",
-    "scene": 9
-  },
-  {
-    "id": 156,
-    "theme": "Joyful",
-    "image": "Purple twilight over the desert:",
-    "reflection": "Delight needs no grand occasion.",
-    "author": "",
-    "scene": 38
-  },
-  {
-    "id": 157,
-    "theme": "Joyful",
+    "theme": "Inspiration",
     "image": "The sea at the edge of sunset:",
-    "reflection": "An ordinary moment can overflow with life.",
+    "reflection": "Possibility has no obligation to be obvious.",
     "author": "",
     "scene": 31
   },
   {
-    "id": 158,
-    "theme": "Joyful",
+    "id": 17,
+    "theme": "Inspiration",
+    "image": "Sunlight touching a winter summit:",
+    "reflection": "An ordinary morning can contain a turning point.",
+    "author": "",
+    "scene": 10
+  },
+  {
+    "id": 18,
+    "theme": "Inspiration",
+    "image": "Sunlight touching a winter summit:",
+    "reflection": "The unknown is not always an emptiness.",
+    "author": "",
+    "scene": 10
+  },
+  {
+    "id": 19,
+    "theme": "Inspiration",
+    "image": "A trail above a wide valley:",
+    "reflection": "What seems distant may already be drawing near.",
+    "author": "",
+    "scene": 16
+  },
+  {
+    "id": 20,
+    "theme": "Inspiration",
+    "image": "Purple twilight over the desert:",
+    "reflection": "The smallest opening admits the whole sky.",
+    "author": "",
+    "scene": 38
+  },
+  {
+    "id": 21,
+    "theme": "Inspiration",
+    "image": "A trail winding through open country:",
+    "reflection": "Becoming rarely follows a straight line.",
+    "author": "",
+    "scene": 28
+  },
+  {
+    "id": 22,
+    "theme": "Inspiration",
+    "image": "A trail leading toward the peaks:",
+    "reflection": "A fresh perspective can make old limits disappear.",
+    "author": "",
+    "scene": 56
+  },
+  {
+    "id": 23,
+    "theme": "Inspiration",
+    "image": "Sunlight breaking through storm clouds:",
+    "reflection": "There is room to grow beyond yesterday's shape.",
+    "author": "",
+    "scene": 43
+  },
+  {
+    "id": 24,
+    "theme": "Inspiration",
     "image": "Autumn color against red stone:",
-    "reflection": "Laughter gives the day another window.",
+    "reflection": "A new season may begin without a sound.",
     "author": "",
     "scene": 35
   },
   {
-    "id": 159,
-    "theme": "Joyful",
-    "image": "A small island in blue water:",
-    "reflection": "Beauty sometimes arrives without a reason.",
+    "id": 25,
+    "theme": "Inspiration",
+    "image": "A mountain disappearing into mist:",
+    "reflection": "The first glimpse is not the full view.",
     "author": "",
-    "scene": 46
+    "scene": 9
   },
   {
-    "id": 160,
-    "theme": "Joyful",
-    "image": "Open water beneath an endless sky:",
-    "reflection": "A bright instant can belong entirely to itself.",
+    "id": 26,
+    "theme": "Inspiration",
+    "image": "A still lake beneath a granite dome:",
+    "reflection": "Something unfinished may still be beautiful.",
     "author": "",
-    "scene": 5
+    "scene": 34
   },
   {
-    "id": 161,
-    "theme": "Joyful",
-    "image": "Purple flowers opening in sunlight:",
-    "reflection": "The smallest surprise can lift the spirit.",
+    "id": 27,
+    "theme": "Inspiration",
+    "image": "A mountain disappearing into mist:",
+    "reflection": "Even the long way can lead somewhere luminous.",
     "author": "",
-    "scene": 50
+    "scene": 9
   },
   {
-    "id": 162,
-    "theme": "Joyful",
-    "image": "Granite peaks beyond a still lake:",
-    "reflection": "Joy is not diminished by its brevity.",
+    "id": 28,
+    "theme": "Inspiration",
+    "image": "A wide plain beneath silver clouds:",
+    "reflection": "No horizon belongs only to those who reach it.",
     "author": "",
-    "scene": 4
+    "scene": 49
   },
   {
-    "id": 163,
-    "theme": "Joyful",
-    "image": "The sun setting across open water:",
-    "reflection": "Sunlight has a way of making everything new.",
+    "id": 29,
+    "theme": "Inspiration",
+    "image": "Sunlight touching a winter summit:",
+    "reflection": "Life keeps offering untraveled directions.",
     "author": "",
-    "scene": 44
+    "scene": 10
   },
   {
-    "id": 164,
-    "theme": "Joyful",
+    "id": 30,
+    "theme": "Inspiration",
+    "image": "Sunlight touching a winter summit:",
+    "reflection": "A little wonder can loosen a great fear.",
+    "author": "",
+    "scene": 10
+  },
+  {
+    "id": 31,
+    "theme": "Inspiration",
+    "image": "A wide view from the mountain ridge:",
+    "reflection": "The next chapter has not yet been written.",
+    "author": "",
+    "scene": 60
+  },
+  {
+    "id": 32,
+    "theme": "Encouragement",
+    "image": "Snow falling silent beneath the cliffs:",
+    "reflection": "Steadiness matters more than speed.",
+    "author": "",
+    "scene": 30
+  },
+  {
+    "id": 33,
+    "theme": "Encouragement",
+    "image": "Pines reflected in a mountain pool:",
+    "reflection": "A difficult passage is still a passage.",
+    "author": "",
+    "scene": 22
+  },
+  {
+    "id": 34,
+    "theme": "Encouragement",
+    "image": "A trail above a wide valley:",
+    "reflection": "Small efforts gather strength over time.",
+    "author": "",
+    "scene": 16
+  },
+  {
+    "id": 35,
+    "theme": "Encouragement",
+    "image": "A trail winding through open country:",
+    "reflection": "A winding path is not a wrong one.",
+    "author": "",
+    "scene": 28
+  },
+  {
+    "id": 36,
+    "theme": "Encouragement",
+    "image": "A mountain path beneath drifting clouds:",
+    "reflection": "Beginning again is a form of courage.",
+    "author": "",
+    "scene": 40
+  },
+  {
+    "id": 37,
+    "theme": "Encouragement",
+    "image": "A snow-covered passage through pines:",
+    "reflection": "The slow season has its own progress.",
+    "author": "",
+    "scene": 8
+  },
+  {
+    "id": 38,
+    "theme": "Encouragement",
+    "image": "A narrow trail among ancient trees:",
+    "reflection": "Strength can be quiet and unmistakable.",
+    "author": "",
+    "scene": 41
+  },
+  {
+    "id": 39,
+    "theme": "Encouragement",
+    "image": "A forest trail beneath green branches:",
+    "reflection": "Not every step needs a clear destination.",
+    "author": "",
+    "scene": 39
+  },
+  {
+    "id": 40,
+    "theme": "Encouragement",
+    "image": "Snow gathered along a steep ravine:",
+    "reflection": "Gentleness can accompany determination.",
+    "author": "",
+    "scene": 32
+  },
+  {
+    "id": 41,
+    "theme": "Encouragement",
+    "image": "A road disappearing into evening:",
+    "reflection": "There is dignity in trying once more.",
+    "author": "",
+    "scene": 54
+  },
+  {
+    "id": 42,
+    "theme": "Encouragement",
+    "image": "Snow falling silent beneath the cliffs:",
+    "reflection": "A pause need not mean surrender.",
+    "author": "",
+    "scene": 30
+  },
+  {
+    "id": 43,
+    "theme": "Encouragement",
+    "image": "A red-earth trail through the hills:",
+    "reflection": "Roots deepen before branches reach higher.",
+    "author": "",
+    "scene": 13
+  },
+  {
+    "id": 44,
+    "theme": "Encouragement",
+    "image": "A trail winding through open country:",
+    "reflection": "The path opens one bend at a time.",
+    "author": "",
+    "scene": 28
+  },
+  {
+    "id": 45,
+    "theme": "Encouragement",
+    "image": "A forest trail beneath green branches:",
+    "reflection": "Patience is not the absence of movement.",
+    "author": "",
+    "scene": 39
+  },
+  {
+    "id": 46,
+    "theme": "Encouragement",
+    "image": "A river winding through granite walls:",
+    "reflection": "Even a hard day can hold one good moment.",
+    "author": "",
+    "scene": 52
+  },
+  {
+    "id": 47,
+    "theme": "Encouragement",
+    "image": "A trail leading toward the peaks:",
+    "reflection": "The smallest foothold can support a new climb.",
+    "author": "",
+    "scene": 56
+  },
+  {
+    "id": 48,
+    "theme": "Encouragement",
+    "image": "The moon above a distant ridge:",
+    "reflection": "A steady heart can weather an uncertain sky.",
+    "author": "",
+    "scene": 24
+  },
+  {
+    "id": 49,
+    "theme": "Encouragement",
+    "image": "A road disappearing into evening:",
+    "reflection": "What grows slowly may grow strong.",
+    "author": "",
+    "scene": 54
+  },
+  {
+    "id": 50,
+    "theme": "Encouragement",
+    "image": "A forest trail beneath green branches:",
+    "reflection": "The next step does not require the whole map.",
+    "author": "",
+    "scene": 39
+  },
+  {
+    "id": 51,
+    "theme": "Encouragement",
+    "image": "A road disappearing into evening:",
+    "reflection": "Endurance is sometimes simply remaining present.",
+    "author": "",
+    "scene": 54
+  },
+  {
+    "id": 52,
+    "theme": "Encouragement",
+    "image": "Water falling between tall pines:",
+    "reflection": "The way forward may be quieter than expected.",
+    "author": "",
+    "scene": 0
+  },
+  {
+    "id": 53,
+    "theme": "Encouragement",
+    "image": "A snow-covered passage through pines:",
+    "reflection": "Courage can coexist with trembling.",
+    "author": "",
+    "scene": 8
+  },
+  {
+    "id": 54,
+    "theme": "Encouragement",
+    "image": "A mountain path beneath drifting clouds:",
+    "reflection": "There is no shame in an unfinished journey.",
+    "author": "",
+    "scene": 40
+  },
+  {
+    "id": 55,
+    "theme": "Encouragement",
+    "image": "A wide view from the mountain ridge:",
+    "reflection": "A setback cannot erase the distance already traveled.",
+    "author": "",
+    "scene": 60
+  },
+  {
+    "id": 56,
+    "theme": "Encouragement",
+    "image": "A snow-covered passage through pines:",
+    "reflection": "Softness and resolve can belong together.",
+    "author": "",
+    "scene": 8
+  },
+  {
+    "id": 57,
+    "theme": "Encouragement",
+    "image": "A red-earth trail through the hills:",
+    "reflection": "An honest beginning is enough for today.",
+    "author": "",
+    "scene": 13
+  },
+  {
+    "id": 58,
+    "theme": "Encouragement",
+    "image": "A road disappearing into evening:",
+    "reflection": "The trail need not be easy to be worthwhile.",
+    "author": "",
+    "scene": 54
+  },
+  {
+    "id": 59,
+    "theme": "Encouragement",
+    "image": "Snow gathered along a steep ravine:",
+    "reflection": "Some victories leave no visible footprints.",
+    "author": "",
+    "scene": 32
+  },
+  {
+    "id": 60,
+    "theme": "Encouragement",
+    "image": "A mountain path beneath drifting clouds:",
+    "reflection": "Rest can make room for renewed strength.",
+    "author": "",
+    "scene": 40
+  },
+  {
+    "id": 61,
+    "theme": "Encouragement",
+    "image": "A snow-covered passage through pines:",
+    "reflection": "The work of growing happens beneath the surface.",
+    "author": "",
+    "scene": 8
+  },
+  {
+    "id": 62,
+    "theme": "Encouragement",
+    "image": "A dark lake under distant mountains:",
+    "reflection": "There is still ground beneath your feet.",
+    "author": "",
+    "scene": 7
+  },
+  {
+    "id": 63,
+    "theme": "Reflection",
+    "image": "A still lake beneath a granite dome:",
+    "reflection": "Silence can reveal what argument conceals.",
+    "author": "",
+    "scene": 34
+  },
+  {
+    "id": 64,
+    "theme": "Reflection",
+    "image": "Pines reflected in a mountain pool:",
+    "reflection": "An unanswered question can still be a companion.",
+    "author": "",
+    "scene": 22
+  },
+  {
+    "id": 65,
+    "theme": "Reflection",
+    "image": "A lake holding the blue sky:",
+    "reflection": "Familiar things may hold unfamiliar depths.",
+    "author": "",
+    "scene": 1
+  },
+  {
+    "id": 66,
+    "theme": "Reflection",
+    "image": "A still lake beneath a granite dome:",
+    "reflection": "Attention changes the shape of understanding.",
+    "author": "",
+    "scene": 34
+  },
+  {
+    "id": 67,
+    "theme": "Reflection",
+    "image": "Pines reflected in a mountain pool:",
+    "reflection": "Not everything meaningful asks to be explained.",
+    "author": "",
+    "scene": 22
+  },
+  {
+    "id": 68,
+    "theme": "Reflection",
     "image": "A golden mountain mirrored in a lake:",
-    "reflection": "A playful heart finds openings everywhere.",
+    "reflection": "The space between thoughts has a life of its own.",
     "author": "",
     "scene": 48
   },
   {
+    "id": 69,
+    "theme": "Reflection",
+    "image": "Mountain clouds above a sheltered shore:",
+    "reflection": "Certainty can narrow what curiosity opens.",
+    "author": "",
+    "scene": 58
+  },
+  {
+    "id": 70,
+    "theme": "Reflection",
+    "image": "Rain light over a green valley:",
+    "reflection": "A wider view often softens a firm opinion.",
+    "author": "",
+    "scene": 51
+  },
+  {
+    "id": 71,
+    "theme": "Reflection",
+    "image": "A snow-covered passage through pines:",
+    "reflection": "Understanding begins where assumptions grow quiet.",
+    "author": "",
+    "scene": 8
+  },
+  {
+    "id": 72,
+    "theme": "Reflection",
+    "image": "A lake holding the blue sky:",
+    "reflection": "A patient question may be wiser than a quick answer.",
+    "author": "",
+    "scene": 1
+  },
+  {
+    "id": 73,
+    "theme": "Reflection",
+    "image": "Pines reflected in a mountain pool:",
+    "reflection": "The visible world is only part of the story.",
+    "author": "",
+    "scene": 22
+  },
+  {
+    "id": 74,
+    "theme": "Reflection",
+    "image": "Granite peaks beyond a still lake:",
+    "reflection": "Wonder and knowledge need not compete.",
+    "author": "",
+    "scene": 4
+  },
+  {
+    "id": 75,
+    "theme": "Reflection",
+    "image": "A lake between bare hills:",
+    "reflection": "Some truths emerge only with time.",
+    "author": "",
+    "scene": 57
+  },
+  {
+    "id": 76,
+    "theme": "Reflection",
+    "image": "A golden mountain mirrored in a lake:",
+    "reflection": "A reflection changes with the light around it.",
+    "author": "",
+    "scene": 48
+  },
+  {
+    "id": 77,
+    "theme": "Reflection",
+    "image": "Granite peaks beyond a still lake:",
+    "reflection": "Perspective depends on where we stand.",
+    "author": "",
+    "scene": 4
+  },
+  {
+    "id": 78,
+    "theme": "Reflection",
+    "image": "A lake holding the blue sky:",
+    "reflection": "An open mind has room for contradiction.",
+    "author": "",
+    "scene": 1
+  },
+  {
+    "id": 79,
+    "theme": "Reflection",
+    "image": "Mountain clouds above a sheltered shore:",
+    "reflection": "The obvious is sometimes what we have stopped seeing.",
+    "author": "",
+    "scene": 58
+  },
+  {
+    "id": 80,
+    "theme": "Reflection",
+    "image": "A golden mountain mirrored in a lake:",
+    "reflection": "Depth cannot always be measured from the surface.",
+    "author": "",
+    "scene": 48
+  },
+  {
+    "id": 81,
+    "theme": "Reflection",
+    "image": "A lake between bare hills:",
+    "reflection": "What remains unsaid can matter deeply.",
+    "author": "",
+    "scene": 57
+  },
+  {
+    "id": 82,
+    "theme": "Reflection",
+    "image": "A blue lake in a basin of stone:",
+    "reflection": "Listening is a form of discovery.",
+    "author": "",
+    "scene": 19
+  },
+  {
+    "id": 83,
+    "theme": "Reflection",
+    "image": "A still lake beneath a granite dome:",
+    "reflection": "A single detail can transform the whole picture.",
+    "author": "",
+    "scene": 34
+  },
+  {
+    "id": 84,
+    "theme": "Reflection",
+    "image": "Stars above a sleeping forest:",
+    "reflection": "Not every mystery is a problem to solve.",
+    "author": "",
+    "scene": 17
+  },
+  {
+    "id": 85,
+    "theme": "Reflection",
+    "image": "Pines reflected in a mountain pool:",
+    "reflection": "A quiet mind can hold difficult questions.",
+    "author": "",
+    "scene": 22
+  },
+  {
+    "id": 86,
+    "theme": "Reflection",
+    "image": "Twin peaks mirrored in water:",
+    "reflection": "There is wisdom in unfinished understanding.",
+    "author": "",
+    "scene": 21
+  },
+  {
+    "id": 87,
+    "theme": "Reflection",
+    "image": "Twin peaks mirrored in water:",
+    "reflection": "Distance can reveal a pattern hidden up close.",
+    "author": "",
+    "scene": 21
+  },
+  {
+    "id": 88,
+    "theme": "Reflection",
+    "image": "Trees standing beside a quiet lake:",
+    "reflection": "The same landscape is never seen twice in quite the same way.",
+    "author": "",
+    "scene": 53
+  },
+  {
+    "id": 89,
+    "theme": "Reflection",
+    "image": "Cloud shadows on an alpine lake:",
+    "reflection": "Thought becomes richer when certainty loosens.",
+    "author": "",
+    "scene": 47
+  },
+  {
+    "id": 90,
+    "theme": "Reflection",
+    "image": "A lake between bare hills:",
+    "reflection": "A question may be an invitation rather than a demand.",
+    "author": "",
+    "scene": 57
+  },
+  {
+    "id": 91,
+    "theme": "Reflection",
+    "image": "A blue lake in a basin of stone:",
+    "reflection": "Some insights arrive without a conclusion.",
+    "author": "",
+    "scene": 19
+  },
+  {
+    "id": 92,
+    "theme": "Reflection",
+    "image": "A still lake beneath a granite dome:",
+    "reflection": "The edge of knowledge is also the beginning of awe.",
+    "author": "",
+    "scene": 34
+  },
+  {
+    "id": 93,
+    "theme": "Reflection",
+    "image": "Trees standing beside a quiet lake:",
+    "reflection": "Meaning often waits beneath the first impression.",
+    "author": "",
+    "scene": 53
+  },
+  {
+    "id": 94,
+    "theme": "Courage",
+    "image": "Golden cliffs rising beyond the trees:",
+    "reflection": "Growth sometimes asks us to leave familiar ground.",
+    "author": "",
+    "scene": 25
+  },
+  {
+    "id": 95,
+    "theme": "Courage",
+    "image": "Snow gathered along a steep ravine:",
+    "reflection": "A boundary may be an assumption in disguise.",
+    "author": "",
+    "scene": 32
+  },
+  {
+    "id": 96,
+    "theme": "Courage",
+    "image": "A trail leading toward the peaks:",
+    "reflection": "Courage begins before confidence arrives.",
+    "author": "",
+    "scene": 56
+  },
+  {
+    "id": 97,
+    "theme": "Courage",
+    "image": "A trail winding through open country:",
+    "reflection": "The easier path is not always the truer one.",
+    "author": "",
+    "scene": 28
+  },
+  {
+    "id": 98,
+    "theme": "Courage",
+    "image": "Purple twilight over the desert:",
+    "reflection": "A hard question can open an honest door.",
+    "author": "",
+    "scene": 38
+  },
+  {
+    "id": 99,
+    "theme": "Courage",
+    "image": "A forest trail beneath green branches:",
+    "reflection": "Certainty can become a shelter we never leave.",
+    "author": "",
+    "scene": 39
+  },
+  {
+    "id": 100,
+    "theme": "Courage",
+    "image": "A sheer wall of granite:",
+    "reflection": "An old habit need not decide tomorrow.",
+    "author": "",
+    "scene": 12
+  },
+  {
+    "id": 101,
+    "theme": "Courage",
+    "image": "A sheer wall of granite:",
+    "reflection": "Resistance may reveal what matters most.",
+    "author": "",
+    "scene": 12
+  },
+  {
+    "id": 102,
+    "theme": "Courage",
+    "image": "A trail above a wide valley:",
+    "reflection": "There are heights reached only by facing the climb.",
+    "author": "",
+    "scene": 16
+  },
+  {
+    "id": 103,
+    "theme": "Courage",
+    "image": "Storm clouds above pale granite:",
+    "reflection": "Change asks for more than good intentions.",
+    "author": "",
+    "scene": 6
+  },
+  {
+    "id": 104,
+    "theme": "Courage",
+    "image": "Winter light through bare branches:",
+    "reflection": "A difficult truth deserves a place in the light.",
+    "author": "",
+    "scene": 29
+  },
+  {
+    "id": 105,
+    "theme": "Courage",
+    "image": "A sheer wall of granite:",
+    "reflection": "The unfamiliar can expose hidden strengths.",
+    "author": "",
+    "scene": 12
+  },
+  {
+    "id": 106,
+    "theme": "Courage",
+    "image": "Snow gathered along a steep ravine:",
+    "reflection": "Comfort is not the only measure of goodness.",
+    "author": "",
+    "scene": 32
+  },
+  {
+    "id": 107,
+    "theme": "Courage",
+    "image": "A sheer wall of granite:",
+    "reflection": "An obstacle may call for a different way through.",
+    "author": "",
+    "scene": 12
+  },
+  {
+    "id": 108,
+    "theme": "Courage",
+    "image": "A trail winding through open country:",
+    "reflection": "Integrity sometimes requires an inconvenient step.",
+    "author": "",
+    "scene": 28
+  },
+  {
+    "id": 109,
+    "theme": "Courage",
+    "image": "A sheer wall of granite:",
+    "reflection": "A risk worth taking need not feel safe.",
+    "author": "",
+    "scene": 12
+  },
+  {
+    "id": 110,
+    "theme": "Courage",
+    "image": "A mountain valley beneath gathering clouds:",
+    "reflection": "What we avoid can quietly shape our lives.",
+    "author": "",
+    "scene": 18
+  },
+  {
+    "id": 111,
+    "theme": "Courage",
+    "image": "Snow gathered along a steep ravine:",
+    "reflection": "The strongest response is not always the loudest.",
+    "author": "",
+    "scene": 32
+  },
+  {
+    "id": 112,
+    "theme": "Courage",
+    "image": "A mountain valley beneath gathering clouds:",
+    "reflection": "A narrow passage can lead to a wider world.",
+    "author": "",
+    "scene": 18
+  },
+  {
+    "id": 113,
+    "theme": "Courage",
+    "image": "Twin peaks mirrored in water:",
+    "reflection": "A new choice may require an old story to end.",
+    "author": "",
+    "scene": 21
+  },
+  {
+    "id": 114,
+    "theme": "Courage",
+    "image": "Storm clouds above pale granite:",
+    "reflection": "Disagreement need not become hostility.",
+    "author": "",
+    "scene": 6
+  },
+  {
+    "id": 115,
+    "theme": "Courage",
+    "image": "A trail above a wide valley:",
+    "reflection": "The courage to listen can be harder than speaking.",
+    "author": "",
+    "scene": 16
+  },
+  {
+    "id": 116,
+    "theme": "Courage",
+    "image": "Sunlight breaking through storm clouds:",
+    "reflection": "Some doors open only after something is released.",
+    "author": "",
+    "scene": 43
+  },
+  {
+    "id": 117,
+    "theme": "Courage",
+    "image": "Stone towers rising toward the sky:",
+    "reflection": "A steep trail offers no promise of ease.",
+    "author": "",
+    "scene": 37
+  },
+  {
+    "id": 118,
+    "theme": "Courage",
+    "image": "Storm clouds above pale granite:",
+    "reflection": "Real change often begins with honest discomfort.",
+    "author": "",
+    "scene": 6
+  },
+  {
+    "id": 119,
+    "theme": "Courage",
+    "image": "A mountain valley beneath gathering clouds:",
+    "reflection": "Pride can make a small barrier seem immense.",
+    "author": "",
+    "scene": 18
+  },
+  {
+    "id": 120,
+    "theme": "Courage",
+    "image": "A red-earth trail through the hills:",
+    "reflection": "The next right step may be the least familiar.",
+    "author": "",
+    "scene": 13
+  },
+  {
+    "id": 121,
+    "theme": "Courage",
+    "image": "A still lake beneath a granite dome:",
+    "reflection": "Doubt can sharpen rather than silence conviction.",
+    "author": "",
+    "scene": 34
+  },
+  {
+    "id": 122,
+    "theme": "Courage",
+    "image": "A mountain above a field of granite:",
+    "reflection": "Strength is tested by what it chooses to protect.",
+    "author": "",
+    "scene": 36
+  },
+  {
+    "id": 123,
+    "theme": "Courage",
+    "image": "A river winding through granite walls:",
+    "reflection": "A challenge may uncover an unexpected freedom.",
+    "author": "",
+    "scene": 52
+  },
+  {
+    "id": 124,
+    "theme": "Courage",
+    "image": "A trail leading toward the peaks:",
+    "reflection": "The mountain does not diminish because the climb is hard.",
+    "author": "",
+    "scene": 56
+  },
+  {
+    "id": 125,
+    "theme": "Comfort",
+    "image": "Winter light through bare branches:",
+    "reflection": "Rest belongs to the rhythm of living.",
+    "author": "",
+    "scene": 29
+  },
+  {
+    "id": 126,
+    "theme": "Comfort",
+    "image": "Snow resting in a valley:",
+    "reflection": "Nothing in this moment demands perfection.",
+    "author": "",
+    "scene": 11
+  },
+  {
+    "id": 127,
+    "theme": "Comfort",
+    "image": "A blue lake in a basin of stone:",
+    "reflection": "The earth holds what has not yet bloomed.",
+    "author": "",
+    "scene": 19
+  },
+  {
+    "id": 128,
+    "theme": "Comfort",
+    "image": "Snow falling silent beneath the cliffs:",
+    "reflection": "A quiet place can be enough for now.",
+    "author": "",
+    "scene": 30
+  },
+  {
+    "id": 129,
+    "theme": "Comfort",
+    "image": "Granite peaks beyond a still lake:",
+    "reflection": "Even sorrow can make room for tenderness.",
+    "author": "",
+    "scene": 4
+  },
+  {
+    "id": 130,
+    "theme": "Comfort",
+    "image": "A narrow trail among ancient trees:",
+    "reflection": "There is shelter in an unhurried breath.",
+    "author": "",
+    "scene": 41
+  },
+  {
+    "id": 131,
+    "theme": "Comfort",
+    "image": "The moon above a distant ridge:",
+    "reflection": "The night does not mean the light is lost.",
+    "author": "",
+    "scene": 24
+  },
+  {
+    "id": 132,
+    "theme": "Comfort",
+    "image": "A dark lake under distant mountains:",
+    "reflection": "Stillness is not the same as emptiness.",
+    "author": "",
+    "scene": 7
+  },
+  {
+    "id": 133,
+    "theme": "Comfort",
+    "image": "A blue lake in a basin of stone:",
+    "reflection": "A gentle presence can ease a heavy day.",
+    "author": "",
+    "scene": 19
+  },
+  {
+    "id": 134,
+    "theme": "Comfort",
+    "image": "Winter light through bare branches:",
+    "reflection": "Some burdens grow lighter when set down.",
+    "author": "",
+    "scene": 29
+  },
+  {
+    "id": 135,
+    "theme": "Comfort",
+    "image": "Cloud shadows on an alpine lake:",
+    "reflection": "The world continues to hold us through change.",
+    "author": "",
+    "scene": 47
+  },
+  {
+    "id": 136,
+    "theme": "Comfort",
+    "image": "Granite peaks beyond a still lake:",
+    "reflection": "A season of waiting is still a season of life.",
+    "author": "",
+    "scene": 4
+  },
+  {
+    "id": 137,
+    "theme": "Comfort",
+    "image": "A lake between bare hills:",
+    "reflection": "There is kindness in allowing things to be unfinished.",
+    "author": "",
+    "scene": 57
+  },
+  {
+    "id": 138,
+    "theme": "Comfort",
+    "image": "Trees standing beside a quiet lake:",
+    "reflection": "A weary heart deserves its own patience.",
+    "author": "",
+    "scene": 53
+  },
+  {
+    "id": 139,
+    "theme": "Comfort",
+    "image": "A lake holding the blue sky:",
+    "reflection": "Not every silence is lonely.",
+    "author": "",
+    "scene": 1
+  },
+  {
+    "id": 140,
+    "theme": "Comfort",
+    "image": "A forest trail beneath green branches:",
+    "reflection": "The shade is part of the tree's generosity.",
+    "author": "",
+    "scene": 39
+  },
+  {
+    "id": 141,
+    "theme": "Comfort",
+    "image": "Stars above a sleeping forest:",
+    "reflection": "A difficult feeling need not fill the whole sky.",
+    "author": "",
+    "scene": 17
+  },
+  {
+    "id": 142,
+    "theme": "Comfort",
+    "image": "Snow falling silent beneath the cliffs:",
+    "reflection": "There is room for uncertainty and peace together.",
+    "author": "",
+    "scene": 30
+  },
+  {
+    "id": 143,
+    "theme": "Comfort",
+    "image": "Autumn leaves beside a rocky stream:",
+    "reflection": "The ground remains beneath the falling leaves.",
+    "author": "",
+    "scene": 42
+  },
+  {
+    "id": 144,
+    "theme": "Comfort",
+    "image": "A snow-covered passage through pines:",
+    "reflection": "A quiet return can be a kind of healing.",
+    "author": "",
+    "scene": 8
+  },
+  {
+    "id": 145,
+    "theme": "Comfort",
+    "image": "Snow resting in a valley:",
+    "reflection": "Even winter has a place in the garden.",
+    "author": "",
+    "scene": 11
+  },
+  {
+    "id": 146,
+    "theme": "Comfort",
+    "image": "A lake between bare hills:",
+    "reflection": "Soft light is still light.",
+    "author": "",
+    "scene": 57
+  },
+  {
+    "id": 147,
+    "theme": "Comfort",
+    "image": "Yellow flowers in the high country:",
+    "reflection": "Nothing living is asked to bloom every day.",
+    "author": "",
+    "scene": 59
+  },
+  {
+    "id": 148,
+    "theme": "Comfort",
+    "image": "A dark lake under distant mountains:",
+    "reflection": "The smallest refuge can feel immense.",
+    "author": "",
+    "scene": 7
+  },
+  {
+    "id": 149,
+    "theme": "Comfort",
+    "image": "A dark lake under distant mountains:",
+    "reflection": "Time sometimes comforts without explaining.",
+    "author": "",
+    "scene": 7
+  },
+  {
+    "id": 150,
+    "theme": "Comfort",
+    "image": "Rain light over a green valley:",
+    "reflection": "The rain will not always fall this hard.",
+    "author": "",
+    "scene": 51
+  },
+  {
+    "id": 151,
+    "theme": "Comfort",
+    "image": "A dark lake under distant mountains:",
+    "reflection": "Gentleness need not wait for easier circumstances.",
+    "author": "",
+    "scene": 7
+  },
+  {
+    "id": 152,
+    "theme": "Comfort",
+    "image": "A mountain path beneath drifting clouds:",
+    "reflection": "A resting place is part of every long journey.",
+    "author": "",
+    "scene": 40
+  },
+  {
+    "id": 153,
+    "theme": "Comfort",
+    "image": "Snow resting in a valley:",
+    "reflection": "Peace may arrive in fragments rather than all at once.",
+    "author": "",
+    "scene": 11
+  },
+  {
+    "id": 154,
+    "theme": "Comfort",
+    "image": "Layers of stone in the afternoon sun:",
+    "reflection": "There is no need to carry tomorrow tonight.",
+    "author": "",
+    "scene": 14
+  },
+  {
+    "id": 155,
+    "theme": "Comfort",
+    "image": "Twin peaks mirrored in water:",
+    "reflection": "The world has room for an imperfect day.",
+    "author": "",
+    "scene": 21
+  },
+  {
+    "id": 156,
+    "theme": "Joy",
+    "image": "Purple flowers opening in sunlight:",
+    "reflection": "Delight needs no grand occasion.",
+    "author": "",
+    "scene": 50
+  },
+  {
+    "id": 157,
+    "theme": "Joy",
+    "image": "Clear water among mountain stones:",
+    "reflection": "An ordinary moment can overflow with life.",
+    "author": "",
+    "scene": 33
+  },
+  {
+    "id": 158,
+    "theme": "Joy",
+    "image": "The sun setting across open water:",
+    "reflection": "Laughter gives the day another window.",
+    "author": "",
+    "scene": 44
+  },
+  {
+    "id": 159,
+    "theme": "Joy",
+    "image": "Wildflowers beside quiet water:",
+    "reflection": "Beauty sometimes arrives without a reason.",
+    "author": "",
+    "scene": 3
+  },
+  {
+    "id": 160,
+    "theme": "Joy",
+    "image": "Water descending a narrow rock face:",
+    "reflection": "A bright instant can belong entirely to itself.",
+    "author": "",
+    "scene": 20
+  },
+  {
+    "id": 161,
+    "theme": "Joy",
+    "image": "A small island in blue water:",
+    "reflection": "The smallest surprise can lift the spirit.",
+    "author": "",
+    "scene": 46
+  },
+  {
+    "id": 162,
+    "theme": "Joy",
+    "image": "Purple flowers opening in sunlight:",
+    "reflection": "Joy is not diminished by its brevity.",
+    "author": "",
+    "scene": 50
+  },
+  {
+    "id": 163,
+    "theme": "Joy",
+    "image": "Open water beneath an endless sky:",
+    "reflection": "Sunlight has a way of making everything new.",
+    "author": "",
+    "scene": 5
+  },
+  {
+    "id": 164,
+    "theme": "Joy",
+    "image": "Layers of stone in the afternoon sun:",
+    "reflection": "A playful heart finds openings everywhere.",
+    "author": "",
+    "scene": 14
+  },
+  {
     "id": 165,
-    "theme": "Joyful",
-    "image": "Sunset finding the granite cliffs:",
+    "theme": "Joy",
+    "image": "Yellow flowers in the high country:",
     "reflection": "There is wonder in simply being here.",
     "author": "",
-    "scene": 23
+    "scene": 59
   },
   {
     "id": 166,
-    "theme": "Joyful",
+    "theme": "Joy",
     "image": "Yellow flowers in the high country:",
     "reflection": "A song can begin before anyone is listening.",
     "author": "",
@@ -1329,87 +1329,87 @@
   },
   {
     "id": 167,
-    "theme": "Joyful",
-    "image": "A waterfall spilling into a clear pool:",
+    "theme": "Joy",
+    "image": "Layers of stone in the afternoon sun:",
     "reflection": "Happiness need not explain its presence.",
     "author": "",
-    "scene": 26
+    "scene": 14
   },
   {
     "id": 168,
-    "theme": "Joyful",
-    "image": "Wildflowers beside quiet water:",
+    "theme": "Joy",
+    "image": "The sun setting across open water:",
     "reflection": "A little color can transform a gray afternoon.",
     "author": "",
-    "scene": 3
+    "scene": 44
   },
   {
     "id": 169,
-    "theme": "Joyful",
-    "image": "Sunlight touching a winter summit:",
+    "theme": "Joy",
+    "image": "Yellow flowers in the high country:",
     "reflection": "The day is richer for one unexpected smile.",
     "author": "",
-    "scene": 10
+    "scene": 59
   },
   {
     "id": 170,
-    "theme": "Joyful",
-    "image": "Twin peaks mirrored in water:",
-    "reflection": "The pleasure of being alive can be wonderfully simple.",
-    "author": "",
-    "scene": 21
-  },
-  {
-    "id": 171,
-    "theme": "Joyful",
-    "image": "Pines reflected in a mountain pool:",
-    "reflection": "Some moments seem to sparkle from within.",
-    "author": "",
-    "scene": 22
-  },
-  {
-    "id": 172,
-    "theme": "Joyful",
-    "image": "Purple twilight over the desert:",
-    "reflection": "A breeze can carry the feeling of freedom.",
-    "author": "",
-    "scene": 38
-  },
-  {
-    "id": 173,
-    "theme": "Joyful",
-    "image": "The sea at the edge of sunset:",
-    "reflection": "Joy often lives in the unplanned detail.",
-    "author": "",
-    "scene": 31
-  },
-  {
-    "id": 174,
-    "theme": "Joyful",
-    "image": "Autumn color against red stone:",
-    "reflection": "A shared laugh becomes a lasting warmth.",
-    "author": "",
-    "scene": 35
-  },
-  {
-    "id": 175,
-    "theme": "Joyful",
+    "theme": "Joy",
     "image": "A small island in blue water:",
-    "reflection": "The world is full of small celebrations.",
+    "reflection": "The pleasure of being alive can be wonderfully simple.",
     "author": "",
     "scene": 46
   },
   {
-    "id": 176,
-    "theme": "Joyful",
+    "id": 171,
+    "theme": "Joy",
+    "image": "A small island in blue water:",
+    "reflection": "Some moments seem to sparkle from within.",
+    "author": "",
+    "scene": 46
+  },
+  {
+    "id": 172,
+    "theme": "Joy",
     "image": "Open water beneath an endless sky:",
-    "reflection": "A moment of ease can brighten the whole day.",
+    "reflection": "A breeze can carry the feeling of freedom.",
     "author": "",
     "scene": 5
   },
   {
+    "id": 173,
+    "theme": "Joy",
+    "image": "Yellow flowers in the high country:",
+    "reflection": "Joy often lives in the unplanned detail.",
+    "author": "",
+    "scene": 59
+  },
+  {
+    "id": 174,
+    "theme": "Joy",
+    "image": "The sun setting across open water:",
+    "reflection": "A shared laugh becomes a lasting warmth.",
+    "author": "",
+    "scene": 44
+  },
+  {
+    "id": 175,
+    "theme": "Joy",
+    "image": "Clear water among mountain stones:",
+    "reflection": "The world is full of small celebrations.",
+    "author": "",
+    "scene": 33
+  },
+  {
+    "id": 176,
+    "theme": "Joy",
+    "image": "The sun setting across open water:",
+    "reflection": "A moment of ease can brighten the whole day.",
+    "author": "",
+    "scene": 44
+  },
+  {
     "id": 177,
-    "theme": "Joyful",
+    "theme": "Joy",
     "image": "Purple flowers opening in sunlight:",
     "reflection": "Delight can grow in the most ordinary soil.",
     "author": "",
@@ -1417,143 +1417,143 @@
   },
   {
     "id": 178,
-    "theme": "Joyful",
-    "image": "Granite peaks beyond a still lake:",
+    "theme": "Joy",
+    "image": "Autumn leaves beside a rocky stream:",
     "reflection": "There is music in a lively stream.",
     "author": "",
-    "scene": 4
+    "scene": 42
   },
   {
     "id": 179,
-    "theme": "Joyful",
-    "image": "The sun setting across open water:",
+    "theme": "Joy",
+    "image": "Purple flowers opening in sunlight:",
     "reflection": "The unexpected can be a gift rather than a disruption.",
     "author": "",
-    "scene": 44
+    "scene": 50
   },
   {
     "id": 180,
-    "theme": "Joyful",
-    "image": "A golden mountain mirrored in a lake:",
+    "theme": "Joy",
+    "image": "Stone towers rising toward the sky:",
     "reflection": "Lightness is a worthy part of life.",
     "author": "",
-    "scene": 48
+    "scene": 37
   },
   {
     "id": 181,
-    "theme": "Joyful",
-    "image": "Sunset finding the granite cliffs:",
-    "reflection": "A joyful memory can outlast its afternoon.",
-    "author": "",
-    "scene": 23
-  },
-  {
-    "id": 182,
-    "theme": "Joyful",
-    "image": "Yellow flowers in the high country:",
-    "reflection": "Every season has a color worth loving.",
-    "author": "",
-    "scene": 59
-  },
-  {
-    "id": 183,
-    "theme": "Joyful",
+    "theme": "Joy",
     "image": "A waterfall spilling into a clear pool:",
-    "reflection": "A simple pleasure can be deeply complete.",
+    "reflection": "A joyful memory can outlast its afternoon.",
     "author": "",
     "scene": 26
   },
   {
-    "id": 184,
-    "theme": "Joyful",
-    "image": "Purple twilight over the desert:",
-    "reflection": "Even a quiet smile is a celebration.",
-    "author": "",
-    "scene": 38
-  },
-  {
-    "id": 185,
-    "theme": "Joyful",
-    "image": "The sea at the edge of sunset:",
-    "reflection": "The heart sometimes knows delight before words do.",
-    "author": "",
-    "scene": 31
-  },
-  {
-    "id": 186,
-    "theme": "Joyful",
-    "image": "Wildflowers beside quiet water:",
-    "reflection": "Life can be beautiful without being extraordinary.",
-    "author": "",
-    "scene": 3
-  },
-  {
-    "id": 187,
-    "theme": "Celebrative",
-    "image": "Last light on a distant ridgeline:",
-    "reflection": "Every milestone carries the memory of the journey.",
-    "author": "",
-    "scene": 45
-  },
-  {
-    "id": 188,
-    "theme": "Celebrative",
-    "image": "A lone tree at the edge of evening:",
-    "reflection": "A hard-won moment deserves its own light.",
-    "author": "",
-    "scene": 2
-  },
-  {
-    "id": 189,
-    "theme": "Celebrative",
-    "image": "Golden cliffs rising beyond the trees:",
-    "reflection": "The arrival matters, and so does the road behind it.",
-    "author": "",
-    "scene": 25
-  },
-  {
-    "id": 190,
-    "theme": "Celebrative",
-    "image": "The moon above a distant ridge:",
-    "reflection": "A small achievement can hold a large story.",
-    "author": "",
-    "scene": 24
-  },
-  {
-    "id": 191,
-    "theme": "Celebrative",
-    "image": "A still lake beneath a granite dome:",
-    "reflection": "Some victories are known only to the one who earned them.",
-    "author": "",
-    "scene": 34
-  },
-  {
-    "id": 192,
-    "theme": "Celebrative",
+    "id": 182,
+    "theme": "Joy",
     "image": "Autumn color against red stone:",
-    "reflection": "A new beginning can also be a celebration.",
+    "reflection": "Every season has a color worth loving.",
     "author": "",
     "scene": 35
   },
   {
+    "id": 183,
+    "theme": "Joy",
+    "image": "Open water beneath an endless sky:",
+    "reflection": "A simple pleasure can be deeply complete.",
+    "author": "",
+    "scene": 5
+  },
+  {
+    "id": 184,
+    "theme": "Joy",
+    "image": "A clearing among the pines:",
+    "reflection": "Even a quiet smile is a celebration.",
+    "author": "",
+    "scene": 15
+  },
+  {
+    "id": 185,
+    "theme": "Joy",
+    "image": "A lake holding the blue sky:",
+    "reflection": "The heart sometimes knows delight before words do.",
+    "author": "",
+    "scene": 1
+  },
+  {
+    "id": 186,
+    "theme": "Joy",
+    "image": "Autumn leaves beside a rocky stream:",
+    "reflection": "Life can be beautiful without being extraordinary.",
+    "author": "",
+    "scene": 42
+  },
+  {
+    "id": 187,
+    "theme": "Celebration",
+    "image": "A red-earth trail through the hills:",
+    "reflection": "Every milestone carries the memory of the journey.",
+    "author": "",
+    "scene": 13
+  },
+  {
+    "id": 188,
+    "theme": "Celebration",
+    "image": "Purple flowers opening in sunlight:",
+    "reflection": "A hard-won moment deserves its own light.",
+    "author": "",
+    "scene": 50
+  },
+  {
+    "id": 189,
+    "theme": "Celebration",
+    "image": "A snow-covered passage through pines:",
+    "reflection": "The arrival matters, and so does the road behind it.",
+    "author": "",
+    "scene": 8
+  },
+  {
+    "id": 190,
+    "theme": "Celebration",
+    "image": "A lone tree at the edge of evening:",
+    "reflection": "A small achievement can hold a large story.",
+    "author": "",
+    "scene": 2
+  },
+  {
+    "id": 191,
+    "theme": "Celebration",
+    "image": "The sea at the edge of sunset:",
+    "reflection": "Some victories are known only to the one who earned them.",
+    "author": "",
+    "scene": 31
+  },
+  {
+    "id": 192,
+    "theme": "Celebration",
+    "image": "A lone tree at the edge of evening:",
+    "reflection": "A new beginning can also be a celebration.",
+    "author": "",
+    "scene": 2
+  },
+  {
     "id": 193,
-    "theme": "Celebrative",
-    "image": "Sunlight touching a winter summit:",
+    "theme": "Celebration",
+    "image": "The last light behind the mountains:",
     "reflection": "What has endured is worthy of honor.",
     "author": "",
-    "scene": 10
+    "scene": 27
   },
   {
     "id": 194,
-    "theme": "Celebrative",
-    "image": "Twin peaks mirrored in water:",
+    "theme": "Celebration",
+    "image": "Wildflowers beside quiet water:",
     "reflection": "The beauty of a harvest includes the patient seasons.",
     "author": "",
-    "scene": 21
+    "scene": 3
   },
   {
     "id": 195,
-    "theme": "Celebrative",
+    "theme": "Celebration",
     "image": "Purple flowers opening in sunlight:",
     "reflection": "Joy grows when it is shared.",
     "author": "",
@@ -1561,319 +1561,319 @@
   },
   {
     "id": 196,
-    "theme": "Celebrative",
-    "image": "Purple twilight over the desert:",
-    "reflection": "An ordinary accomplishment can mark an extraordinary effort.",
-    "author": "",
-    "scene": 38
-  },
-  {
-    "id": 197,
-    "theme": "Celebrative",
-    "image": "The sun setting across open water:",
-    "reflection": "A gathering becomes richer through every presence.",
-    "author": "",
-    "scene": 44
-  },
-  {
-    "id": 198,
-    "theme": "Celebrative",
-    "image": "A golden mountain mirrored in a lake:",
-    "reflection": "The moment of arrival is made of many moments before it.",
-    "author": "",
-    "scene": 48
-  },
-  {
-    "id": 199,
-    "theme": "Celebrative",
-    "image": "Sunset finding the granite cliffs:",
-    "reflection": "There is grace in honoring how far we have come.",
-    "author": "",
-    "scene": 23
-  },
-  {
-    "id": 200,
-    "theme": "Celebrative",
-    "image": "Yellow flowers in the high country:",
-    "reflection": "A completed task can become a quiet offering.",
-    "author": "",
-    "scene": 59
-  },
-  {
-    "id": 201,
-    "theme": "Celebrative",
-    "image": "A waterfall spilling into a clear pool:",
-    "reflection": "Even unseen progress has its day of recognition.",
-    "author": "",
-    "scene": 26
-  },
-  {
-    "id": 202,
-    "theme": "Celebrative",
-    "image": "Last light on a distant ridgeline:",
-    "reflection": "The brightest moments often carry traces of struggle.",
-    "author": "",
-    "scene": 45
-  },
-  {
-    "id": 203,
-    "theme": "Celebrative",
-    "image": "A lone tree at the edge of evening:",
-    "reflection": "Celebration makes room for gratitude and wonder together.",
-    "author": "",
-    "scene": 2
-  },
-  {
-    "id": 204,
-    "theme": "Celebrative",
-    "image": "Wildflowers beside quiet water:",
-    "reflection": "A turning point deserves a moment of stillness.",
-    "author": "",
-    "scene": 3
-  },
-  {
-    "id": 205,
-    "theme": "Celebrative",
-    "image": "Golden cliffs rising beyond the trees:",
-    "reflection": "Every journey has something worth remembering.",
-    "author": "",
-    "scene": 25
-  },
-  {
-    "id": 206,
-    "theme": "Celebrative",
-    "image": "Autumn color against red stone:",
-    "reflection": "The simple act of showing up can be an achievement.",
-    "author": "",
-    "scene": 35
-  },
-  {
-    "id": 207,
-    "theme": "Celebrative",
-    "image": "Purple flowers opening in sunlight:",
-    "reflection": "A new season honors the one that made it possible.",
-    "author": "",
-    "scene": 50
-  },
-  {
-    "id": 208,
-    "theme": "Celebrative",
-    "image": "The moon above a distant ridge:",
-    "reflection": "Shared delight gives success a wider meaning.",
-    "author": "",
-    "scene": 24
-  },
-  {
-    "id": 209,
-    "theme": "Celebrative",
-    "image": "A still lake beneath a granite dome:",
-    "reflection": "A first step can be as meaningful as a finish line.",
-    "author": "",
-    "scene": 34
-  },
-  {
-    "id": 210,
-    "theme": "Celebrative",
-    "image": "Purple twilight over the desert:",
-    "reflection": "Some accomplishments are measured in courage, not distance.",
-    "author": "",
-    "scene": 38
-  },
-  {
-    "id": 211,
-    "theme": "Celebrative",
-    "image": "Sunlight touching a winter summit:",
-    "reflection": "A full heart can make a modest occasion grand.",
-    "author": "",
-    "scene": 10
-  },
-  {
-    "id": 212,
-    "theme": "Celebrative",
-    "image": "Twin peaks mirrored in water:",
-    "reflection": "The fruits of patience deserve to be enjoyed.",
-    "author": "",
-    "scene": 21
-  },
-  {
-    "id": 213,
-    "theme": "Celebrative",
-    "image": "The sun setting across open water:",
-    "reflection": "Recognition need not be loud to be sincere.",
-    "author": "",
-    "scene": 44
-  },
-  {
-    "id": 214,
-    "theme": "Celebrative",
-    "image": "Last light on a distant ridgeline:",
-    "reflection": "A joyful ending can become another beginning.",
-    "author": "",
-    "scene": 45
-  },
-  {
-    "id": 215,
-    "theme": "Celebrative",
-    "image": "A lone tree at the edge of evening:",
-    "reflection": "The path traveled belongs within the celebration.",
-    "author": "",
-    "scene": 2
-  },
-  {
-    "id": 216,
-    "theme": "Celebrative",
-    "image": "A golden mountain mirrored in a lake:",
-    "reflection": "There is beauty in acknowledging what has changed.",
-    "author": "",
-    "scene": 48
-  },
-  {
-    "id": 217,
-    "theme": "Grateful",
-    "image": "Clear water among mountain stones:",
-    "reflection": "What is freely given is no less precious.",
-    "author": "",
-    "scene": 33
-  },
-  {
-    "id": 218,
-    "theme": "Grateful",
-    "image": "Autumn leaves beside a rocky stream:",
-    "reflection": "A familiar gift can still be astonishing.",
-    "author": "",
-    "scene": 42
-  },
-  {
-    "id": 219,
-    "theme": "Grateful",
-    "image": "Water falling between tall pines:",
-    "reflection": "The ordinary world offers more than we can count.",
-    "author": "",
-    "scene": 0
-  },
-  {
-    "id": 220,
-    "theme": "Grateful",
-    "image": "Trees standing beside a quiet lake:",
-    "reflection": "A little warmth can become a lasting memory.",
-    "author": "",
-    "scene": 53
-  },
-  {
-    "id": 221,
-    "theme": "Grateful",
+    "theme": "Celebration",
     "image": "The sea at the edge of sunset:",
-    "reflection": "Gratitude sees abundance without denying hardship.",
+    "reflection": "An ordinary accomplishment can mark an extraordinary effort.",
     "author": "",
     "scene": 31
   },
   {
-    "id": 222,
-    "theme": "Grateful",
-    "image": "A narrow trail among ancient trees:",
-    "reflection": "Some gifts arrive without wrapping or announcement.",
+    "id": 197,
+    "theme": "Celebration",
+    "image": "Sunset finding the granite cliffs:",
+    "reflection": "A gathering becomes richer through every presence.",
     "author": "",
-    "scene": 41
+    "scene": 23
   },
   {
-    "id": 223,
-    "theme": "Grateful",
-    "image": "A forest trail beneath green branches:",
-    "reflection": "A simple kindness can echo for years.",
+    "id": 198,
+    "theme": "Celebration",
+    "image": "The last light behind the mountains:",
+    "reflection": "The moment of arrival is made of many moments before it.",
     "author": "",
-    "scene": 39
+    "scene": 27
   },
   {
-    "id": 224,
-    "theme": "Grateful",
-    "image": "A clearing among the pines:",
-    "reflection": "The beauty before us is never entirely ours to keep.",
+    "id": 199,
+    "theme": "Celebration",
+    "image": "Water descending a narrow rock face:",
+    "reflection": "There is grace in honoring how far we have come.",
     "author": "",
-    "scene": 15
+    "scene": 20
   },
   {
-    "id": 225,
-    "theme": "Grateful",
-    "image": "A lake holding the blue sky:",
-    "reflection": "Every shared moment is a kind of treasure.",
+    "id": 200,
+    "theme": "Celebration",
+    "image": "Snow falling silent beneath the cliffs:",
+    "reflection": "A completed task can become a quiet offering.",
     "author": "",
-    "scene": 1
+    "scene": 30
   },
   {
-    "id": 226,
-    "theme": "Grateful",
-    "image": "Granite peaks beyond a still lake:",
-    "reflection": "The smallest comfort may deserve the deepest thanks.",
+    "id": 201,
+    "theme": "Celebration",
+    "image": "Golden cliffs rising beyond the trees:",
+    "reflection": "Even unseen progress has its day of recognition.",
     "author": "",
-    "scene": 4
+    "scene": 25
   },
   {
-    "id": 227,
-    "theme": "Grateful",
-    "image": "Purple flowers opening in sunlight:",
-    "reflection": "Much of what sustains us works quietly.",
+    "id": 202,
+    "theme": "Celebration",
+    "image": "Sunlight touching a winter summit:",
+    "reflection": "The brightest moments often carry traces of struggle.",
     "author": "",
-    "scene": 50
+    "scene": 10
   },
   {
-    "id": 228,
-    "theme": "Grateful",
-    "image": "Pines reflected in a mountain pool:",
-    "reflection": "The earth gives without keeping a ledger.",
+    "id": 203,
+    "theme": "Celebration",
+    "image": "Last light on a distant ridgeline:",
+    "reflection": "Celebration makes room for gratitude and wonder together.",
     "author": "",
-    "scene": 22
+    "scene": 45
   },
   {
-    "id": 229,
-    "theme": "Grateful",
-    "image": "A waterfall spilling into a clear pool:",
-    "reflection": "A good memory can bring yesterday into the light.",
+    "id": 204,
+    "theme": "Celebration",
+    "image": "A mountain above a field of granite:",
+    "reflection": "A turning point deserves a moment of stillness.",
     "author": "",
-    "scene": 26
+    "scene": 36
   },
   {
-    "id": 230,
-    "theme": "Grateful",
+    "id": 205,
+    "theme": "Celebration",
+    "image": "A trail winding through open country:",
+    "reflection": "Every journey has something worth remembering.",
+    "author": "",
+    "scene": 28
+  },
+  {
+    "id": 206,
+    "theme": "Celebration",
+    "image": "A lone tree at the edge of evening:",
+    "reflection": "The simple act of showing up can be an achievement.",
+    "author": "",
+    "scene": 2
+  },
+  {
+    "id": 207,
+    "theme": "Celebration",
+    "image": "Autumn color against red stone:",
+    "reflection": "A new season honors the one that made it possible.",
+    "author": "",
+    "scene": 35
+  },
+  {
+    "id": 208,
+    "theme": "Celebration",
+    "image": "Sunset finding the granite cliffs:",
+    "reflection": "Shared delight gives success a wider meaning.",
+    "author": "",
+    "scene": 23
+  },
+  {
+    "id": 209,
+    "theme": "Celebration",
+    "image": "A red-earth trail through the hills:",
+    "reflection": "A first step can be as meaningful as a finish line.",
+    "author": "",
+    "scene": 13
+  },
+  {
+    "id": 210,
+    "theme": "Celebration",
+    "image": "A trail above a wide valley:",
+    "reflection": "Some accomplishments are measured in courage, not distance.",
+    "author": "",
+    "scene": 16
+  },
+  {
+    "id": 211,
+    "theme": "Celebration",
+    "image": "The last light behind the mountains:",
+    "reflection": "A full heart can make a modest occasion grand.",
+    "author": "",
+    "scene": 27
+  },
+  {
+    "id": 212,
+    "theme": "Celebration",
+    "image": "Golden cliffs rising beyond the trees:",
+    "reflection": "The fruits of patience deserve to be enjoyed.",
+    "author": "",
+    "scene": 25
+  },
+  {
+    "id": 213,
+    "theme": "Celebration",
+    "image": "The sea at the edge of sunset:",
+    "reflection": "Recognition need not be loud to be sincere.",
+    "author": "",
+    "scene": 31
+  },
+  {
+    "id": 214,
+    "theme": "Celebration",
+    "image": "Sunlight touching a winter summit:",
+    "reflection": "A joyful ending can become another beginning.",
+    "author": "",
+    "scene": 10
+  },
+  {
+    "id": 215,
+    "theme": "Celebration",
+    "image": "A trail winding through open country:",
+    "reflection": "The path traveled belongs within the celebration.",
+    "author": "",
+    "scene": 28
+  },
+  {
+    "id": 216,
+    "theme": "Celebration",
+    "image": "Sunset finding the granite cliffs:",
+    "reflection": "There is beauty in acknowledging what has changed.",
+    "author": "",
+    "scene": 23
+  },
+  {
+    "id": 217,
+    "theme": "Gratitude",
+    "image": "Golden cliffs rising beyond the trees:",
+    "reflection": "What is freely given is no less precious.",
+    "author": "",
+    "scene": 25
+  },
+  {
+    "id": 218,
+    "theme": "Gratitude",
     "image": "Wildflowers beside quiet water:",
-    "reflection": "The presence of another life enriches our own.",
+    "reflection": "A familiar gift can still be astonishing.",
     "author": "",
     "scene": 3
   },
   {
-    "id": 231,
-    "theme": "Grateful",
-    "image": "The moon above a distant ridge:",
-    "reflection": "A generous gesture may outlive its giver's awareness.",
-    "author": "",
-    "scene": 24
-  },
-  {
-    "id": 232,
-    "theme": "Grateful",
-    "image": "A still lake beneath a granite dome:",
-    "reflection": "A single clear morning can feel like a gift.",
-    "author": "",
-    "scene": 34
-  },
-  {
-    "id": 233,
-    "theme": "Grateful",
+    "id": 219,
+    "theme": "Gratitude",
     "image": "The sun setting across open water:",
-    "reflection": "The things we rely on are easy to overlook.",
+    "reflection": "The ordinary world offers more than we can count.",
     "author": "",
     "scene": 44
   },
   {
+    "id": 220,
+    "theme": "Gratitude",
+    "image": "A small island in blue water:",
+    "reflection": "A little warmth can become a lasting memory.",
+    "author": "",
+    "scene": 46
+  },
+  {
+    "id": 221,
+    "theme": "Gratitude",
+    "image": "Open water beneath an endless sky:",
+    "reflection": "Gratitude sees abundance without denying hardship.",
+    "author": "",
+    "scene": 5
+  },
+  {
+    "id": 222,
+    "theme": "Gratitude",
+    "image": "Water descending a narrow rock face:",
+    "reflection": "Some gifts arrive without wrapping or announcement.",
+    "author": "",
+    "scene": 20
+  },
+  {
+    "id": 223,
+    "theme": "Gratitude",
+    "image": "The sun setting across open water:",
+    "reflection": "A simple kindness can echo for years.",
+    "author": "",
+    "scene": 44
+  },
+  {
+    "id": 224,
+    "theme": "Gratitude",
+    "image": "Wildflowers beside quiet water:",
+    "reflection": "The beauty before us is never entirely ours to keep.",
+    "author": "",
+    "scene": 3
+  },
+  {
+    "id": 225,
+    "theme": "Gratitude",
+    "image": "Last light on a distant ridgeline:",
+    "reflection": "Every shared moment is a kind of treasure.",
+    "author": "",
+    "scene": 45
+  },
+  {
+    "id": 226,
+    "theme": "Gratitude",
+    "image": "A waterfall spilling into a clear pool:",
+    "reflection": "The smallest comfort may deserve the deepest thanks.",
+    "author": "",
+    "scene": 26
+  },
+  {
+    "id": 227,
+    "theme": "Gratitude",
+    "image": "A road disappearing into evening:",
+    "reflection": "Much of what sustains us works quietly.",
+    "author": "",
+    "scene": 54
+  },
+  {
+    "id": 228,
+    "theme": "Gratitude",
+    "image": "A lone tree at the edge of evening:",
+    "reflection": "The earth gives without keeping a ledger.",
+    "author": "",
+    "scene": 2
+  },
+  {
+    "id": 229,
+    "theme": "Gratitude",
+    "image": "A clearing among the pines:",
+    "reflection": "A good memory can bring yesterday into the light.",
+    "author": "",
+    "scene": 15
+  },
+  {
+    "id": 230,
+    "theme": "Gratitude",
+    "image": "A blue lake in a basin of stone:",
+    "reflection": "The presence of another life enriches our own.",
+    "author": "",
+    "scene": 19
+  },
+  {
+    "id": 231,
+    "theme": "Gratitude",
+    "image": "A lone tree at the edge of evening:",
+    "reflection": "A generous gesture may outlive its giver's awareness.",
+    "author": "",
+    "scene": 2
+  },
+  {
+    "id": 232,
+    "theme": "Gratitude",
+    "image": "Purple flowers opening in sunlight:",
+    "reflection": "A single clear morning can feel like a gift.",
+    "author": "",
+    "scene": 50
+  },
+  {
+    "id": 233,
+    "theme": "Gratitude",
+    "image": "Clear water among mountain stones:",
+    "reflection": "The things we rely on are easy to overlook.",
+    "author": "",
+    "scene": 33
+  },
+  {
     "id": 234,
-    "theme": "Grateful",
-    "image": "Twin peaks mirrored in water:",
+    "theme": "Gratitude",
+    "image": "Rain light over a green valley:",
     "reflection": "A cup of water holds a long story of rain.",
     "author": "",
-    "scene": 21
+    "scene": 51
   },
   {
     "id": 235,
-    "theme": "Grateful",
+    "theme": "Gratitude",
     "image": "Clear water among mountain stones:",
     "reflection": "Gratitude can coexist with longing.",
     "author": "",
@@ -1881,39 +1881,39 @@
   },
   {
     "id": 236,
-    "theme": "Grateful",
-    "image": "Autumn leaves beside a rocky stream:",
+    "theme": "Gratitude",
+    "image": "A forest trail beneath green branches:",
     "reflection": "The shade of a tree is an unspoken offering.",
     "author": "",
-    "scene": 42
+    "scene": 39
   },
   {
     "id": 237,
-    "theme": "Grateful",
-    "image": "Water falling between tall pines:",
+    "theme": "Gratitude",
+    "image": "Sunset finding the granite cliffs:",
     "reflection": "Some blessings are recognized only in retrospect.",
     "author": "",
-    "scene": 0
+    "scene": 23
   },
   {
     "id": 238,
-    "theme": "Grateful",
-    "image": "Trees standing beside a quiet lake:",
+    "theme": "Gratitude",
+    "image": "A lake holding the blue sky:",
     "reflection": "An open hand receives more than an object.",
     "author": "",
-    "scene": 53
+    "scene": 1
   },
   {
     "id": 239,
-    "theme": "Grateful",
-    "image": "The sea at the edge of sunset:",
+    "theme": "Gratitude",
+    "image": "The last light behind the mountains:",
     "reflection": "There is richness in what asks nothing of us.",
     "author": "",
-    "scene": 31
+    "scene": 27
   },
   {
     "id": 240,
-    "theme": "Grateful",
+    "theme": "Gratitude",
     "image": "A narrow trail among ancient trees:",
     "reflection": "The simplest shelter can become a place of thanks.",
     "author": "",
@@ -1921,143 +1921,143 @@
   },
   {
     "id": 241,
-    "theme": "Grateful",
-    "image": "A forest trail beneath green branches:",
+    "theme": "Gratitude",
+    "image": "A blue lake in a basin of stone:",
     "reflection": "A kind word may carry farther than we know.",
     "author": "",
-    "scene": 39
+    "scene": 19
   },
   {
     "id": 242,
-    "theme": "Grateful",
-    "image": "A clearing among the pines:",
-    "reflection": "The beauty of a day is not measured by its length.",
-    "author": "",
-    "scene": 15
-  },
-  {
-    "id": 243,
-    "theme": "Grateful",
-    "image": "A lake holding the blue sky:",
-    "reflection": "Each breath joins us to a generous world.",
-    "author": "",
-    "scene": 1
-  },
-  {
-    "id": 244,
-    "theme": "Grateful",
-    "image": "Granite peaks beyond a still lake:",
-    "reflection": "The familiar can become extraordinary through attention.",
-    "author": "",
-    "scene": 4
-  },
-  {
-    "id": 245,
-    "theme": "Grateful",
-    "image": "Purple flowers opening in sunlight:",
-    "reflection": "A moment shared is a gift multiplied.",
-    "author": "",
-    "scene": 50
-  },
-  {
-    "id": 246,
-    "theme": "Grateful",
-    "image": "Pines reflected in a mountain pool:",
-    "reflection": "What we have been given can become what we give.",
-    "author": "",
-    "scene": 22
-  },
-  {
-    "id": 247,
-    "theme": "Compassionate",
-    "image": "Winter light through bare branches:",
-    "reflection": "Kindness makes space where judgment closes it.",
-    "author": "",
-    "scene": 29
-  },
-  {
-    "id": 248,
-    "theme": "Compassionate",
-    "image": "Snow falling silent beneath the cliffs:",
-    "reflection": "A gentle response can change the course of a day.",
-    "author": "",
-    "scene": 30
-  },
-  {
-    "id": 249,
-    "theme": "Compassionate",
-    "image": "A river winding through granite walls:",
-    "reflection": "Every life carries a story not fully visible.",
-    "author": "",
-    "scene": 52
-  },
-  {
-    "id": 250,
-    "theme": "Compassionate",
-    "image": "Snow resting in a valley:",
-    "reflection": "Care does not require perfect understanding.",
-    "author": "",
-    "scene": 11
-  },
-  {
-    "id": 251,
-    "theme": "Compassionate",
-    "image": "Water descending a narrow rock face:",
-    "reflection": "The smallest act of mercy can travel far.",
-    "author": "",
-    "scene": 20
-  },
-  {
-    "id": 252,
-    "theme": "Compassionate",
-    "image": "A mountain disappearing into mist:",
-    "reflection": "A listening presence can be a refuge.",
-    "author": "",
-    "scene": 9
-  },
-  {
-    "id": 253,
-    "theme": "Compassionate",
+    "theme": "Gratitude",
     "image": "Wildflowers beside quiet water:",
-    "reflection": "Tenderness is a form of strength.",
+    "reflection": "The beauty of a day is not measured by its length.",
     "author": "",
     "scene": 3
   },
   {
+    "id": 243,
+    "theme": "Gratitude",
+    "image": "A small island in blue water:",
+    "reflection": "Each breath joins us to a generous world.",
+    "author": "",
+    "scene": 46
+  },
+  {
+    "id": 244,
+    "theme": "Gratitude",
+    "image": "A small island in blue water:",
+    "reflection": "The familiar can become extraordinary through attention.",
+    "author": "",
+    "scene": 46
+  },
+  {
+    "id": 245,
+    "theme": "Gratitude",
+    "image": "Yellow flowers in the high country:",
+    "reflection": "A moment shared is a gift multiplied.",
+    "author": "",
+    "scene": 59
+  },
+  {
+    "id": 246,
+    "theme": "Gratitude",
+    "image": "Golden cliffs rising beyond the trees:",
+    "reflection": "What we have been given can become what we give.",
+    "author": "",
+    "scene": 25
+  },
+  {
+    "id": 247,
+    "theme": "Compassion",
+    "image": "A waterfall spilling into a clear pool:",
+    "reflection": "Kindness makes space where judgment closes it.",
+    "author": "",
+    "scene": 26
+  },
+  {
+    "id": 248,
+    "theme": "Compassion",
+    "image": "Cloud shadows on an alpine lake:",
+    "reflection": "A gentle response can change the course of a day.",
+    "author": "",
+    "scene": 47
+  },
+  {
+    "id": 249,
+    "theme": "Compassion",
+    "image": "Water descending a narrow rock face:",
+    "reflection": "Every life carries a story not fully visible.",
+    "author": "",
+    "scene": 20
+  },
+  {
+    "id": 250,
+    "theme": "Compassion",
+    "image": "A waterfall spilling into a clear pool:",
+    "reflection": "Care does not require perfect understanding.",
+    "author": "",
+    "scene": 26
+  },
+  {
+    "id": 251,
+    "theme": "Compassion",
+    "image": "Mountain clouds above a sheltered shore:",
+    "reflection": "The smallest act of mercy can travel far.",
+    "author": "",
+    "scene": 58
+  },
+  {
+    "id": 252,
+    "theme": "Compassion",
+    "image": "Autumn color against red stone:",
+    "reflection": "A listening presence can be a refuge.",
+    "author": "",
+    "scene": 35
+  },
+  {
+    "id": 253,
+    "theme": "Compassion",
+    "image": "Golden cliffs rising beyond the trees:",
+    "reflection": "Tenderness is a form of strength.",
+    "author": "",
+    "scene": 25
+  },
+  {
     "id": 254,
-    "theme": "Compassionate",
-    "image": "Autumn leaves beside a rocky stream:",
+    "theme": "Compassion",
+    "image": "A waterfall spilling into a clear pool:",
     "reflection": "A wounded place deserves gentleness, not haste.",
     "author": "",
-    "scene": 42
+    "scene": 26
   },
   {
     "id": 255,
-    "theme": "Compassionate",
-    "image": "Water falling between tall pines:",
+    "theme": "Compassion",
+    "image": "A forest trail beneath green branches:",
     "reflection": "Compassion begins with recognizing a shared vulnerability.",
     "author": "",
-    "scene": 0
+    "scene": 39
   },
   {
     "id": 256,
-    "theme": "Compassionate",
-    "image": "Trees standing beside a quiet lake:",
+    "theme": "Compassion",
+    "image": "A wide plain beneath silver clouds:",
     "reflection": "An open heart need not have every answer.",
+    "author": "",
+    "scene": 49
+  },
+  {
+    "id": 257,
+    "theme": "Compassion",
+    "image": "Trees standing beside a quiet lake:",
+    "reflection": "What is fragile can still be worthy of trust.",
     "author": "",
     "scene": 53
   },
   {
-    "id": 257,
-    "theme": "Compassionate",
-    "image": "Twin peaks mirrored in water:",
-    "reflection": "What is fragile can still be worthy of trust.",
-    "author": "",
-    "scene": 21
-  },
-  {
     "id": 258,
-    "theme": "Compassionate",
+    "theme": "Compassion",
     "image": "A narrow trail among ancient trees:",
     "reflection": "A generous pause can prevent an unnecessary hurt.",
     "author": "",
@@ -2065,443 +2065,443 @@
   },
   {
     "id": 259,
-    "theme": "Compassionate",
-    "image": "A forest trail beneath green branches:",
+    "theme": "Compassion",
+    "image": "Layers of stone in the afternoon sun:",
     "reflection": "Kindness can cross distances that words cannot.",
     "author": "",
-    "scene": 39
+    "scene": 14
   },
   {
     "id": 260,
-    "theme": "Compassionate",
-    "image": "A clearing among the pines:",
-    "reflection": "There is dignity in being seen without judgment.",
-    "author": "",
-    "scene": 15
-  },
-  {
-    "id": 261,
-    "theme": "Compassionate",
-    "image": "Winter light through bare branches:",
-    "reflection": "A quiet gesture may ease an unseen burden.",
-    "author": "",
-    "scene": 29
-  },
-  {
-    "id": 262,
-    "theme": "Compassionate",
-    "image": "Snow falling silent beneath the cliffs:",
-    "reflection": "The world becomes wider when another's pain matters.",
-    "author": "",
-    "scene": 30
-  },
-  {
-    "id": 263,
-    "theme": "Compassionate",
-    "image": "Purple flowers opening in sunlight:",
-    "reflection": "Patience is one way love makes itself visible.",
-    "author": "",
-    "scene": 50
-  },
-  {
-    "id": 264,
-    "theme": "Compassionate",
-    "image": "Pines reflected in a mountain pool:",
-    "reflection": "Care can be offered without expecting a return.",
-    "author": "",
-    "scene": 22
-  },
-  {
-    "id": 265,
-    "theme": "Compassionate",
-    "image": "A river winding through granite walls:",
-    "reflection": "The softest touch can leave a lasting impression.",
-    "author": "",
-    "scene": 52
-  },
-  {
-    "id": 266,
-    "theme": "Compassionate",
-    "image": "Snow resting in a valley:",
-    "reflection": "A little understanding can soften a difficult exchange.",
-    "author": "",
-    "scene": 11
-  },
-  {
-    "id": 267,
-    "theme": "Compassionate",
-    "image": "Water descending a narrow rock face:",
-    "reflection": "Mercy allows more than one story to be true.",
-    "author": "",
-    "scene": 20
-  },
-  {
-    "id": 268,
-    "theme": "Compassionate",
-    "image": "A mountain disappearing into mist:",
-    "reflection": "The heart can hold both sorrow and generosity.",
-    "author": "",
-    "scene": 9
-  },
-  {
-    "id": 269,
-    "theme": "Compassionate",
-    "image": "Autumn leaves beside a rocky stream:",
-    "reflection": "Gentleness can be offered even in disagreement.",
-    "author": "",
-    "scene": 42
-  },
-  {
-    "id": 270,
-    "theme": "Compassionate",
-    "image": "Water falling between tall pines:",
-    "reflection": "A shared silence may say enough.",
-    "author": "",
-    "scene": 0
-  },
-  {
-    "id": 271,
-    "theme": "Compassionate",
-    "image": "Wildflowers beside quiet water:",
-    "reflection": "Compassion does not need an audience.",
-    "author": "",
-    "scene": 3
-  },
-  {
-    "id": 272,
-    "theme": "Compassionate",
+    "theme": "Compassion",
     "image": "Trees standing beside a quiet lake:",
-    "reflection": "There is courage in remaining tender.",
+    "reflection": "There is dignity in being seen without judgment.",
     "author": "",
     "scene": 53
   },
   {
-    "id": 273,
-    "theme": "Compassionate",
-    "image": "Winter light through bare branches:",
-    "reflection": "A helping hand can make a steep path less lonely.",
+    "id": 261,
+    "theme": "Compassion",
+    "image": "Water falling between tall pines:",
+    "reflection": "A quiet gesture may ease an unseen burden.",
     "author": "",
-    "scene": 29
+    "scene": 0
   },
   {
-    "id": 274,
-    "theme": "Compassionate",
-    "image": "Snow falling silent beneath the cliffs:",
-    "reflection": "No one is only the hardest moment of their life.",
+    "id": 262,
+    "theme": "Compassion",
+    "image": "Autumn leaves beside a rocky stream:",
+    "reflection": "The world becomes wider when another's pain matters.",
     "author": "",
-    "scene": 30
+    "scene": 42
   },
   {
-    "id": 275,
-    "theme": "Compassionate",
-    "image": "Twin peaks mirrored in water:",
-    "reflection": "Kindness often begins with a willingness to stay.",
+    "id": 263,
+    "theme": "Compassion",
+    "image": "Golden cliffs rising beyond the trees:",
+    "reflection": "Patience is one way love makes itself visible.",
     "author": "",
-    "scene": 21
+    "scene": 25
   },
   {
-    "id": 276,
-    "theme": "Compassionate",
-    "image": "A narrow trail among ancient trees:",
-    "reflection": "The capacity to care is renewed through its use.",
+    "id": 264,
+    "theme": "Compassion",
+    "image": "Stars above a sleeping forest:",
+    "reflection": "Care can be offered without expecting a return.",
     "author": "",
-    "scene": 41
+    "scene": 17
   },
   {
-    "id": 277,
-    "theme": "Hopeful",
-    "image": "Sunlight breaking through storm clouds:",
-    "reflection": "The darkness has never kept the dawn forever.",
+    "id": 265,
+    "theme": "Compassion",
+    "image": "Water falling between tall pines:",
+    "reflection": "The softest touch can leave a lasting impression.",
     "author": "",
-    "scene": 43
+    "scene": 0
   },
   {
-    "id": 278,
-    "theme": "Hopeful",
-    "image": "A road disappearing into evening:",
-    "reflection": "A new possibility may already be taking root.",
-    "author": "",
-    "scene": 54
-  },
-  {
-    "id": 279,
-    "theme": "Hopeful",
-    "image": "Rain light over a green valley:",
-    "reflection": "The sky changes even when the ground seems still.",
-    "author": "",
-    "scene": 51
-  },
-  {
-    "id": 280,
-    "theme": "Hopeful",
-    "image": "The last light behind the mountains:",
-    "reflection": "Hope can be small without being weak.",
-    "author": "",
-    "scene": 27
-  },
-  {
-    "id": 281,
-    "theme": "Hopeful",
-    "image": "Last light on a distant ridgeline:",
-    "reflection": "What is dormant may yet awaken.",
-    "author": "",
-    "scene": 45
-  },
-  {
-    "id": 282,
-    "theme": "Hopeful",
-    "image": "A trail winding through open country:",
-    "reflection": "A distant light is still a light.",
-    "author": "",
-    "scene": 28
-  },
-  {
-    "id": 283,
-    "theme": "Hopeful",
+    "id": 266,
+    "theme": "Compassion",
     "image": "Autumn color against red stone:",
-    "reflection": "Tomorrow is not required to resemble today.",
+    "reflection": "A little understanding can soften a difficult exchange.",
     "author": "",
     "scene": 35
   },
   {
-    "id": 284,
-    "theme": "Hopeful",
-    "image": "Sunset finding the granite cliffs:",
-    "reflection": "The long winter does not cancel spring.",
+    "id": 267,
+    "theme": "Compassion",
+    "image": "A dark lake under distant mountains:",
+    "reflection": "Mercy allows more than one story to be true.",
     "author": "",
-    "scene": 23
+    "scene": 7
   },
   {
-    "id": 285,
-    "theme": "Hopeful",
-    "image": "Yellow flowers in the high country:",
-    "reflection": "There is room for an outcome not yet imagined.",
+    "id": 268,
+    "theme": "Compassion",
+    "image": "Water falling between tall pines:",
+    "reflection": "The heart can hold both sorrow and generosity.",
     "author": "",
-    "scene": 59
+    "scene": 0
   },
   {
-    "id": 286,
-    "theme": "Hopeful",
-    "image": "Purple twilight over the desert:",
-    "reflection": "The horizon holds more than the present weather.",
-    "author": "",
-    "scene": 38
-  },
-  {
-    "id": 287,
-    "theme": "Hopeful",
-    "image": "A lone tree at the edge of evening:",
-    "reflection": "A beginning may be hidden in what appears to end.",
-    "author": "",
-    "scene": 2
-  },
-  {
-    "id": 288,
-    "theme": "Hopeful",
-    "image": "The moon above a distant ridge:",
-    "reflection": "Hope often survives without a guarantee.",
-    "author": "",
-    "scene": 24
-  },
-  {
-    "id": 289,
-    "theme": "Hopeful",
-    "image": "Sunlight touching a winter summit:",
-    "reflection": "The next season is still becoming.",
-    "author": "",
-    "scene": 10
-  },
-  {
-    "id": 290,
-    "theme": "Hopeful",
-    "image": "The sun setting across open water:",
-    "reflection": "A quiet promise can sustain a long wait.",
-    "author": "",
-    "scene": 44
-  },
-  {
-    "id": 291,
-    "theme": "Hopeful",
-    "image": "A clearing among the pines:",
-    "reflection": "Even the narrowest opening admits possibility.",
-    "author": "",
-    "scene": 15
-  },
-  {
-    "id": 292,
-    "theme": "Hopeful",
-    "image": "Wildflowers beside quiet water:",
-    "reflection": "The first sign of change may be almost invisible.",
-    "author": "",
-    "scene": 3
-  },
-  {
-    "id": 293,
-    "theme": "Hopeful",
-    "image": "Twin peaks mirrored in water:",
-    "reflection": "A seed carries a future larger than itself.",
-    "author": "",
-    "scene": 21
-  },
-  {
-    "id": 294,
-    "theme": "Hopeful",
-    "image": "Sunlight breaking through storm clouds:",
-    "reflection": "There are paths not yet visible from here.",
-    "author": "",
-    "scene": 43
-  },
-  {
-    "id": 295,
-    "theme": "Hopeful",
-    "image": "A road disappearing into evening:",
-    "reflection": "A clearing can appear beyond the next turn.",
-    "author": "",
-    "scene": 54
-  },
-  {
-    "id": 296,
-    "theme": "Hopeful",
-    "image": "Rain light over a green valley:",
-    "reflection": "The morning arrives without asking permission.",
-    "author": "",
-    "scene": 51
-  },
-  {
-    "id": 297,
-    "theme": "Hopeful",
-    "image": "The last light behind the mountains:",
-    "reflection": "What has been lost need not define all that remains.",
-    "author": "",
-    "scene": 27
-  },
-  {
-    "id": 298,
-    "theme": "Hopeful",
-    "image": "Last light on a distant ridgeline:",
-    "reflection": "A single star can accompany a long night.",
-    "author": "",
-    "scene": 45
-  },
-  {
-    "id": 299,
-    "theme": "Hopeful",
-    "image": "A trail winding through open country:",
-    "reflection": "Hope is sometimes the courage to remain open.",
-    "author": "",
-    "scene": 28
-  },
-  {
-    "id": 300,
-    "theme": "Hopeful",
-    "image": "Autumn color against red stone:",
-    "reflection": "An uncertain future can still be generous.",
-    "author": "",
-    "scene": 35
-  },
-  {
-    "id": 301,
-    "theme": "Hopeful",
-    "image": "Sunset finding the granite cliffs:",
-    "reflection": "The river keeps finding a way through.",
-    "author": "",
-    "scene": 23
-  },
-  {
-    "id": 302,
-    "theme": "Hopeful",
-    "image": "Yellow flowers in the high country:",
-    "reflection": "A pale horizon can hold a bright tomorrow.",
-    "author": "",
-    "scene": 59
-  },
-  {
-    "id": 303,
-    "theme": "Hopeful",
-    "image": "Purple twilight over the desert:",
-    "reflection": "Renewal rarely announces the exact hour of its arrival.",
-    "author": "",
-    "scene": 38
-  },
-  {
-    "id": 304,
-    "theme": "Hopeful",
-    "image": "A lone tree at the edge of evening:",
-    "reflection": "A tender beginning can survive rough weather.",
-    "author": "",
-    "scene": 2
-  },
-  {
-    "id": 305,
-    "theme": "Hopeful",
-    "image": "The moon above a distant ridge:",
-    "reflection": "The possibility of change is itself a gift.",
-    "author": "",
-    "scene": 24
-  },
-  {
-    "id": 306,
-    "theme": "Hopeful",
-    "image": "Sunlight breaking through storm clouds:",
-    "reflection": "There is more ahead than the eye can presently see.",
-    "author": "",
-    "scene": 43
-  },
-  {
-    "id": 307,
-    "theme": "Wonder",
+    "id": 269,
+    "theme": "Compassion",
     "image": "Stone towers rising toward the sky:",
-    "reflection": "The world exceeds every explanation of it.",
+    "reflection": "Gentleness can be offered even in disagreement.",
     "author": "",
     "scene": 37
   },
   {
-    "id": 308,
-    "theme": "Wonder",
-    "image": "Mountain clouds above a sheltered shore:",
-    "reflection": "A single detail can open into infinity.",
+    "id": 270,
+    "theme": "Compassion",
+    "image": "Trees standing beside a quiet lake:",
+    "reflection": "A shared silence may say enough.",
     "author": "",
-    "scene": 58
+    "scene": 53
   },
   {
-    "id": 309,
-    "theme": "Wonder",
-    "image": "A blue lake in a basin of stone:",
-    "reflection": "Mystery is not the opposite of understanding.",
+    "id": 271,
+    "theme": "Compassion",
+    "image": "A narrow trail among ancient trees:",
+    "reflection": "Compassion does not need an audience.",
     "author": "",
-    "scene": 19
+    "scene": 41
   },
   {
-    "id": 310,
-    "theme": "Wonder",
-    "image": "An arch cut into ancient stone:",
-    "reflection": "There are depths the eye cannot measure.",
+    "id": 272,
+    "theme": "Compassion",
+    "image": "A trail above a wide valley:",
+    "reflection": "There is courage in remaining tender.",
     "author": "",
-    "scene": 55
+    "scene": 16
   },
   {
-    "id": 311,
-    "theme": "Wonder",
-    "image": "A small island in blue water:",
-    "reflection": "The ordinary can become astonishing without changing.",
+    "id": 273,
+    "theme": "Compassion",
+    "image": "A red-earth trail through the hills:",
+    "reflection": "A helping hand can make a steep path less lonely.",
     "author": "",
-    "scene": 46
+    "scene": 13
   },
   {
-    "id": 312,
-    "theme": "Wonder",
+    "id": 274,
+    "theme": "Compassion",
+    "image": "The sea at the edge of sunset:",
+    "reflection": "No one is only the hardest moment of their life.",
+    "author": "",
+    "scene": 31
+  },
+  {
+    "id": 275,
+    "theme": "Compassion",
+    "image": "Water descending a narrow rock face:",
+    "reflection": "Kindness often begins with a willingness to stay.",
+    "author": "",
+    "scene": 20
+  },
+  {
+    "id": 276,
+    "theme": "Compassion",
+    "image": "Water falling between tall pines:",
+    "reflection": "The capacity to care is renewed through its use.",
+    "author": "",
+    "scene": 0
+  },
+  {
+    "id": 277,
+    "theme": "Hope",
+    "image": "Winter light through bare branches:",
+    "reflection": "The darkness has never kept the dawn forever.",
+    "author": "",
+    "scene": 29
+  },
+  {
+    "id": 278,
+    "theme": "Hope",
+    "image": "A forest trail beneath green branches:",
+    "reflection": "A new possibility may already be taking root.",
+    "author": "",
+    "scene": 39
+  },
+  {
+    "id": 279,
+    "theme": "Hope",
+    "image": "A lake holding the blue sky:",
+    "reflection": "The sky changes even when the ground seems still.",
+    "author": "",
+    "scene": 1
+  },
+  {
+    "id": 280,
+    "theme": "Hope",
+    "image": "A clearing among the pines:",
+    "reflection": "Hope can be small without being weak.",
+    "author": "",
+    "scene": 15
+  },
+  {
+    "id": 281,
+    "theme": "Hope",
+    "image": "Storm clouds above pale granite:",
+    "reflection": "What is dormant may yet awaken.",
+    "author": "",
+    "scene": 6
+  },
+  {
+    "id": 282,
+    "theme": "Hope",
+    "image": "A lake between bare hills:",
+    "reflection": "A distant light is still a light.",
+    "author": "",
+    "scene": 57
+  },
+  {
+    "id": 283,
+    "theme": "Hope",
+    "image": "A mountain valley beneath gathering clouds:",
+    "reflection": "Tomorrow is not required to resemble today.",
+    "author": "",
+    "scene": 18
+  },
+  {
+    "id": 284,
+    "theme": "Hope",
+    "image": "Snow resting in a valley:",
+    "reflection": "The long winter does not cancel spring.",
+    "author": "",
+    "scene": 11
+  },
+  {
+    "id": 285,
+    "theme": "Hope",
+    "image": "Sunset finding the granite cliffs:",
+    "reflection": "There is room for an outcome not yet imagined.",
+    "author": "",
+    "scene": 23
+  },
+  {
+    "id": 286,
+    "theme": "Hope",
+    "image": "A wide plain beneath silver clouds:",
+    "reflection": "The horizon holds more than the present weather.",
+    "author": "",
+    "scene": 49
+  },
+  {
+    "id": 287,
+    "theme": "Hope",
+    "image": "Last light on a distant ridgeline:",
+    "reflection": "A beginning may be hidden in what appears to end.",
+    "author": "",
+    "scene": 45
+  },
+  {
+    "id": 288,
+    "theme": "Hope",
+    "image": "Winter light through bare branches:",
+    "reflection": "Hope often survives without a guarantee.",
+    "author": "",
+    "scene": 29
+  },
+  {
+    "id": 289,
+    "theme": "Hope",
+    "image": "Pines reflected in a mountain pool:",
+    "reflection": "The next season is still becoming.",
+    "author": "",
+    "scene": 22
+  },
+  {
+    "id": 290,
+    "theme": "Hope",
+    "image": "A clearing among the pines:",
+    "reflection": "A quiet promise can sustain a long wait.",
+    "author": "",
+    "scene": 15
+  },
+  {
+    "id": 291,
+    "theme": "Hope",
+    "image": "Storm clouds above pale granite:",
+    "reflection": "Even the narrowest opening admits possibility.",
+    "author": "",
+    "scene": 6
+  },
+  {
+    "id": 292,
+    "theme": "Hope",
+    "image": "Sunlight breaking through storm clouds:",
+    "reflection": "The first sign of change may be almost invisible.",
+    "author": "",
+    "scene": 43
+  },
+  {
+    "id": 293,
+    "theme": "Hope",
+    "image": "Yellow flowers in the high country:",
+    "reflection": "A seed carries a future larger than itself.",
+    "author": "",
+    "scene": 59
+  },
+  {
+    "id": 294,
+    "theme": "Hope",
+    "image": "A mountain valley beneath gathering clouds:",
+    "reflection": "There are paths not yet visible from here.",
+    "author": "",
+    "scene": 18
+  },
+  {
+    "id": 295,
+    "theme": "Hope",
+    "image": "The last light behind the mountains:",
+    "reflection": "A clearing can appear beyond the next turn.",
+    "author": "",
+    "scene": 27
+  },
+  {
+    "id": 296,
+    "theme": "Hope",
+    "image": "Sunlight breaking through storm clouds:",
+    "reflection": "The morning arrives without asking permission.",
+    "author": "",
+    "scene": 43
+  },
+  {
+    "id": 297,
+    "theme": "Hope",
+    "image": "A mountain valley beneath gathering clouds:",
+    "reflection": "What has been lost need not define all that remains.",
+    "author": "",
+    "scene": 18
+  },
+  {
+    "id": 298,
+    "theme": "Hope",
+    "image": "Stars above a sleeping forest:",
+    "reflection": "A single star can accompany a long night.",
+    "author": "",
+    "scene": 17
+  },
+  {
+    "id": 299,
+    "theme": "Hope",
+    "image": "A mountain path beneath drifting clouds:",
+    "reflection": "Hope is sometimes the courage to remain open.",
+    "author": "",
+    "scene": 40
+  },
+  {
+    "id": 300,
+    "theme": "Hope",
+    "image": "Granite peaks beyond a still lake:",
+    "reflection": "An uncertain future can still be generous.",
+    "author": "",
+    "scene": 4
+  },
+  {
+    "id": 301,
+    "theme": "Hope",
+    "image": "Clear water among mountain stones:",
+    "reflection": "The river keeps finding a way through.",
+    "author": "",
+    "scene": 33
+  },
+  {
+    "id": 302,
+    "theme": "Hope",
     "image": "Open water beneath an endless sky:",
-    "reflection": "Every landscape holds a history beyond sight.",
+    "reflection": "A pale horizon can hold a bright tomorrow.",
     "author": "",
     "scene": 5
   },
   {
-    "id": 313,
+    "id": 303,
+    "theme": "Hope",
+    "image": "Sunlight breaking through storm clouds:",
+    "reflection": "Renewal rarely announces the exact hour of its arrival.",
+    "author": "",
+    "scene": 43
+  },
+  {
+    "id": 304,
+    "theme": "Hope",
+    "image": "Rain light over a green valley:",
+    "reflection": "A tender beginning can survive rough weather.",
+    "author": "",
+    "scene": 51
+  },
+  {
+    "id": 305,
+    "theme": "Hope",
+    "image": "Sunlight breaking through storm clouds:",
+    "reflection": "The possibility of change is itself a gift.",
+    "author": "",
+    "scene": 43
+  },
+  {
+    "id": 306,
+    "theme": "Hope",
+    "image": "Last light on a distant ridgeline:",
+    "reflection": "There is more ahead than the eye can presently see.",
+    "author": "",
+    "scene": 45
+  },
+  {
+    "id": 307,
+    "theme": "Wonder",
+    "image": "The moon above a distant ridge:",
+    "reflection": "The world exceeds every explanation of it.",
+    "author": "",
+    "scene": 24
+  },
+  {
+    "id": 308,
     "theme": "Wonder",
     "image": "Cloud shadows on an alpine lake:",
-    "reflection": "A moment of awe makes the world feel larger.",
+    "reflection": "A single detail can open into infinity.",
     "author": "",
     "scene": 47
+  },
+  {
+    "id": 309,
+    "theme": "Wonder",
+    "image": "A mountain disappearing into mist:",
+    "reflection": "Mystery is not the opposite of understanding.",
+    "author": "",
+    "scene": 9
+  },
+  {
+    "id": 310,
+    "theme": "Wonder",
+    "image": "Purple twilight over the desert:",
+    "reflection": "There are depths the eye cannot measure.",
+    "author": "",
+    "scene": 38
+  },
+  {
+    "id": 311,
+    "theme": "Wonder",
+    "image": "Cloud shadows on an alpine lake:",
+    "reflection": "The ordinary can become astonishing without changing.",
+    "author": "",
+    "scene": 47
+  },
+  {
+    "id": 312,
+    "theme": "Wonder",
+    "image": "A golden mountain mirrored in a lake:",
+    "reflection": "Every landscape holds a history beyond sight.",
+    "author": "",
+    "scene": 48
+  },
+  {
+    "id": 313,
+    "theme": "Wonder",
+    "image": "Mountain clouds above a sheltered shore:",
+    "reflection": "A moment of awe makes the world feel larger.",
+    "author": "",
+    "scene": 58
   },
   {
     "id": 314,
@@ -2514,417 +2514,417 @@
   {
     "id": 315,
     "theme": "Wonder",
-    "image": "A mountain valley beneath gathering clouds:",
+    "image": "Wildflowers beside quiet water:",
     "reflection": "Beauty sometimes silences the need to name it.",
     "author": "",
-    "scene": 18
+    "scene": 3
   },
   {
     "id": 316,
     "theme": "Wonder",
-    "image": "A sheer wall of granite:",
-    "reflection": "The sky carries questions older than language.",
-    "author": "",
-    "scene": 12
-  },
-  {
-    "id": 317,
-    "theme": "Wonder",
-    "image": "Snow gathered along a steep ravine:",
-    "reflection": "There is more here than any one glance can hold.",
-    "author": "",
-    "scene": 32
-  },
-  {
-    "id": 318,
-    "theme": "Wonder",
-    "image": "Storm clouds above pale granite:",
-    "reflection": "An unexpected color can feel like a revelation.",
-    "author": "",
-    "scene": 6
-  },
-  {
-    "id": 319,
-    "theme": "Wonder",
-    "image": "A waterfall spilling into a clear pool:",
-    "reflection": "The universe has never exhausted its surprises.",
-    "author": "",
-    "scene": 26
-  },
-  {
-    "id": 320,
-    "theme": "Wonder",
-    "image": "A lake holding the blue sky:",
-    "reflection": "A stone may carry the memory of vanished seas.",
-    "author": "",
-    "scene": 1
-  },
-  {
-    "id": 321,
-    "theme": "Wonder",
-    "image": "Granite peaks beyond a still lake:",
-    "reflection": "The edge of the visible is not the edge of reality.",
-    "author": "",
-    "scene": 4
-  },
-  {
-    "id": 322,
-    "theme": "Wonder",
-    "image": "Water descending a narrow rock face:",
-    "reflection": "Light transforms without changing what it touches.",
-    "author": "",
-    "scene": 20
-  },
-  {
-    "id": 323,
-    "theme": "Wonder",
-    "image": "A mountain disappearing into mist:",
-    "reflection": "A distant summit can make the heart feel near.",
-    "author": "",
-    "scene": 9
-  },
-  {
-    "id": 324,
-    "theme": "Wonder",
-    "image": "Water falling between tall pines:",
-    "reflection": "The intricate and the immense belong to one world.",
-    "author": "",
-    "scene": 0
-  },
-  {
-    "id": 325,
-    "theme": "Wonder",
-    "image": "Stone towers rising toward the sky:",
-    "reflection": "Some moments invite amazement rather than explanation.",
-    "author": "",
-    "scene": 37
-  },
-  {
-    "id": 326,
-    "theme": "Wonder",
-    "image": "Mountain clouds above a sheltered shore:",
-    "reflection": "The night reveals what daylight hides.",
-    "author": "",
-    "scene": 58
-  },
-  {
-    "id": 327,
-    "theme": "Wonder",
-    "image": "A blue lake in a basin of stone:",
-    "reflection": "A reflection offers another world within this one.",
-    "author": "",
-    "scene": 19
-  },
-  {
-    "id": 328,
-    "theme": "Wonder",
-    "image": "An arch cut into ancient stone:",
-    "reflection": "Even silence has textures we cannot name.",
-    "author": "",
-    "scene": 55
-  },
-  {
-    "id": 329,
-    "theme": "Wonder",
-    "image": "A small island in blue water:",
-    "reflection": "A familiar tree can become a stranger in new light.",
-    "author": "",
-    "scene": 46
-  },
-  {
-    "id": 330,
-    "theme": "Wonder",
-    "image": "Open water beneath an endless sky:",
-    "reflection": "The shape of a cloud will never be repeated exactly.",
-    "author": "",
-    "scene": 5
-  },
-  {
-    "id": 331,
-    "theme": "Wonder",
-    "image": "Cloud shadows on an alpine lake:",
-    "reflection": "A waterfall turns gravity into a kind of music.",
-    "author": "",
-    "scene": 47
-  },
-  {
-    "id": 332,
-    "theme": "Wonder",
     "image": "Stars above a sleeping forest:",
-    "reflection": "The stars make distance feel intimate.",
+    "reflection": "The sky carries questions older than language.",
     "author": "",
     "scene": 17
   },
   {
+    "id": 317,
+    "theme": "Wonder",
+    "image": "Twin peaks mirrored in water:",
+    "reflection": "There is more here than any one glance can hold.",
+    "author": "",
+    "scene": 21
+  },
+  {
+    "id": 318,
+    "theme": "Wonder",
+    "image": "A golden mountain mirrored in a lake:",
+    "reflection": "An unexpected color can feel like a revelation.",
+    "author": "",
+    "scene": 48
+  },
+  {
+    "id": 319,
+    "theme": "Wonder",
+    "image": "The moon above a distant ridge:",
+    "reflection": "The universe has never exhausted its surprises.",
+    "author": "",
+    "scene": 24
+  },
+  {
+    "id": 320,
+    "theme": "Wonder",
+    "image": "Stone towers rising toward the sky:",
+    "reflection": "A stone may carry the memory of vanished seas.",
+    "author": "",
+    "scene": 37
+  },
+  {
+    "id": 321,
+    "theme": "Wonder",
+    "image": "Purple twilight over the desert:",
+    "reflection": "The edge of the visible is not the edge of reality.",
+    "author": "",
+    "scene": 38
+  },
+  {
+    "id": 322,
+    "theme": "Wonder",
+    "image": "The moon above a distant ridge:",
+    "reflection": "Light transforms without changing what it touches.",
+    "author": "",
+    "scene": 24
+  },
+  {
+    "id": 323,
+    "theme": "Wonder",
+    "image": "A mountain above a field of granite:",
+    "reflection": "A distant summit can make the heart feel near.",
+    "author": "",
+    "scene": 36
+  },
+  {
+    "id": 324,
+    "theme": "Wonder",
+    "image": "The moon above a distant ridge:",
+    "reflection": "The intricate and the immense belong to one world.",
+    "author": "",
+    "scene": 24
+  },
+  {
+    "id": 325,
+    "theme": "Wonder",
+    "image": "Purple twilight over the desert:",
+    "reflection": "Some moments invite amazement rather than explanation.",
+    "author": "",
+    "scene": 38
+  },
+  {
+    "id": 326,
+    "theme": "Wonder",
+    "image": "Stars above a sleeping forest:",
+    "reflection": "The night reveals what daylight hides.",
+    "author": "",
+    "scene": 17
+  },
+  {
+    "id": 327,
+    "theme": "Wonder",
+    "image": "Cloud shadows on an alpine lake:",
+    "reflection": "A reflection offers another world within this one.",
+    "author": "",
+    "scene": 47
+  },
+  {
+    "id": 328,
+    "theme": "Wonder",
+    "image": "Stars above a sleeping forest:",
+    "reflection": "Even silence has textures we cannot name.",
+    "author": "",
+    "scene": 17
+  },
+  {
+    "id": 329,
+    "theme": "Wonder",
+    "image": "A narrow trail among ancient trees:",
+    "reflection": "A familiar tree can become a stranger in new light.",
+    "author": "",
+    "scene": 41
+  },
+  {
+    "id": 330,
+    "theme": "Wonder",
+    "image": "Rain light over a green valley:",
+    "reflection": "The shape of a cloud will never be repeated exactly.",
+    "author": "",
+    "scene": 51
+  },
+  {
+    "id": 331,
+    "theme": "Wonder",
+    "image": "Water descending a narrow rock face:",
+    "reflection": "A waterfall turns gravity into a kind of music.",
+    "author": "",
+    "scene": 20
+  },
+  {
+    "id": 332,
+    "theme": "Wonder",
+    "image": "A wide view from the mountain ridge:",
+    "reflection": "The stars make distance feel intimate.",
+    "author": "",
+    "scene": 60
+  },
+  {
     "id": 333,
     "theme": "Wonder",
-    "image": "A mountain valley beneath gathering clouds:",
+    "image": "Purple twilight over the desert:",
     "reflection": "Every new view changes the meaning of the last.",
     "author": "",
-    "scene": 18
+    "scene": 38
   },
   {
     "id": 334,
     "theme": "Wonder",
-    "image": "A sheer wall of granite:",
+    "image": "Mountain clouds above a sheltered shore:",
     "reflection": "Wonder begins where expectation ends.",
     "author": "",
-    "scene": 12
+    "scene": 58
   },
   {
     "id": 335,
     "theme": "Wonder",
-    "image": "Snow gathered along a steep ravine:",
+    "image": "Wildflowers beside quiet water:",
     "reflection": "The earth holds more beauty than any journey can gather.",
     "author": "",
-    "scene": 32
+    "scene": 3
   },
   {
     "id": 336,
     "theme": "Wonder",
-    "image": "Storm clouds above pale granite:",
+    "image": "A golden mountain mirrored in a lake:",
     "reflection": "The simplest pattern can conceal astonishing complexity.",
     "author": "",
-    "scene": 6
+    "scene": 48
   },
   {
     "id": 337,
     "theme": "Wisdom",
-    "image": "A trail leading toward the peaks:",
+    "image": "Stone towers rising toward the sky:",
     "reflection": "Deep roots make room for flexible branches.",
     "author": "",
-    "scene": 56
+    "scene": 37
   },
   {
     "id": 338,
     "theme": "Wisdom",
-    "image": "Layers of stone in the afternoon sun:",
+    "image": "A wide view from the mountain ridge:",
     "reflection": "Time reveals what urgency often hides.",
     "author": "",
-    "scene": 14
+    "scene": 60
   },
   {
     "id": 339,
     "theme": "Wisdom",
-    "image": "A wide view from the mountain ridge:",
+    "image": "An arch cut into ancient stone:",
     "reflection": "The strongest answer is not always the quickest.",
     "author": "",
-    "scene": 60
+    "scene": 55
   },
   {
     "id": 340,
     "theme": "Wisdom",
-    "image": "A mountain above a field of granite:",
+    "image": "A waterfall spilling into a clear pool:",
     "reflection": "A clear view requires knowing where we stand.",
     "author": "",
-    "scene": 36
+    "scene": 26
   },
   {
     "id": 341,
     "theme": "Wisdom",
-    "image": "A red-earth trail through the hills:",
+    "image": "An arch cut into ancient stone:",
     "reflection": "What lasts is not always what shines brightest.",
     "author": "",
-    "scene": 13
+    "scene": 55
   },
   {
     "id": 342,
     "theme": "Wisdom",
-    "image": "A dark lake under distant mountains:",
+    "image": "A narrow trail among ancient trees:",
     "reflection": "A patient course can outdistance a hurried one.",
     "author": "",
-    "scene": 7
+    "scene": 41
   },
   {
     "id": 343,
     "theme": "Wisdom",
-    "image": "A snow-covered passage through pines:",
+    "image": "A river winding through granite walls:",
     "reflection": "There is strength in knowing when to yield.",
     "author": "",
-    "scene": 8
+    "scene": 52
   },
   {
     "id": 344,
     "theme": "Wisdom",
-    "image": "Golden cliffs rising beyond the trees:",
-    "reflection": "The seasons teach without repeating themselves.",
-    "author": "",
-    "scene": 25
-  },
-  {
-    "id": 345,
-    "theme": "Wisdom",
-    "image": "A trail above a wide valley:",
-    "reflection": "A long perspective can soften a short disappointment.",
-    "author": "",
-    "scene": 16
-  },
-  {
-    "id": 346,
-    "theme": "Wisdom",
-    "image": "A river winding through granite walls:",
-    "reflection": "Silence may be the wiser reply.",
-    "author": "",
-    "scene": 52
-  },
-  {
-    "id": 347,
-    "theme": "Wisdom",
-    "image": "Snow resting in a valley:",
-    "reflection": "Not every invitation requires an acceptance.",
-    "author": "",
-    "scene": 11
-  },
-  {
-    "id": 348,
-    "theme": "Wisdom",
-    "image": "A trail winding through open country:",
-    "reflection": "The river reaches the valley without rushing every stone.",
-    "author": "",
-    "scene": 28
-  },
-  {
-    "id": 349,
-    "theme": "Wisdom",
-    "image": "A still lake beneath a granite dome:",
-    "reflection": "Experience becomes wisdom through reflection.",
-    "author": "",
-    "scene": 34
-  },
-  {
-    "id": 350,
-    "theme": "Wisdom",
-    "image": "A forest trail beneath green branches:",
-    "reflection": "A well-chosen pause can prevent a needless detour.",
-    "author": "",
-    "scene": 39
-  },
-  {
-    "id": 351,
-    "theme": "Wisdom",
-    "image": "A mountain valley beneath gathering clouds:",
-    "reflection": "The whole forest cannot be understood from one tree.",
-    "author": "",
-    "scene": 18
-  },
-  {
-    "id": 352,
-    "theme": "Wisdom",
-    "image": "A sheer wall of granite:",
-    "reflection": "A firm foundation allows an open horizon.",
-    "author": "",
-    "scene": 12
-  },
-  {
-    "id": 353,
-    "theme": "Wisdom",
-    "image": "A lake holding the blue sky:",
-    "reflection": "There is freedom in distinguishing enough from more.",
-    "author": "",
-    "scene": 1
-  },
-  {
-    "id": 354,
-    "theme": "Wisdom",
-    "image": "Storm clouds above pale granite:",
-    "reflection": "The right measure changes with the season.",
-    "author": "",
-    "scene": 6
-  },
-  {
-    "id": 355,
-    "theme": "Wisdom",
-    "image": "A trail leading toward the peaks:",
-    "reflection": "What is simple is not always easy.",
-    "author": "",
-    "scene": 56
-  },
-  {
-    "id": 356,
-    "theme": "Wisdom",
-    "image": "Layers of stone in the afternoon sun:",
-    "reflection": "A careful word can carry more than many careless ones.",
-    "author": "",
-    "scene": 14
-  },
-  {
-    "id": 357,
-    "theme": "Wisdom",
-    "image": "A wide view from the mountain ridge:",
-    "reflection": "The path behind us can illuminate the path ahead.",
-    "author": "",
-    "scene": 60
-  },
-  {
-    "id": 358,
-    "theme": "Wisdom",
     "image": "A mountain above a field of granite:",
-    "reflection": "A humble question may open a wiser conversation.",
+    "reflection": "The seasons teach without repeating themselves.",
     "author": "",
     "scene": 36
   },
   {
-    "id": 359,
+    "id": 345,
     "theme": "Wisdom",
-    "image": "A red-earth trail through the hills:",
-    "reflection": "Some truths need both courage and tenderness.",
+    "image": "Layers of stone in the afternoon sun:",
+    "reflection": "A long perspective can soften a short disappointment.",
     "author": "",
-    "scene": 13
+    "scene": 14
   },
   {
-    "id": 360,
+    "id": 346,
     "theme": "Wisdom",
-    "image": "A dark lake under distant mountains:",
-    "reflection": "The ability to change course is not a failure.",
+    "image": "Snow falling silent beneath the cliffs:",
+    "reflection": "Silence may be the wiser reply.",
     "author": "",
-    "scene": 7
+    "scene": 30
   },
   {
-    "id": 361,
-    "theme": "Wisdom",
-    "image": "A snow-covered passage through pines:",
-    "reflection": "A quiet boundary can protect what matters.",
-    "author": "",
-    "scene": 8
-  },
-  {
-    "id": 362,
-    "theme": "Wisdom",
-    "image": "Golden cliffs rising beyond the trees:",
-    "reflection": "Understanding others begins with recognizing our limits.",
-    "author": "",
-    "scene": 25
-  },
-  {
-    "id": 363,
-    "theme": "Wisdom",
-    "image": "A trail above a wide valley:",
-    "reflection": "The strongest branches are not always the stiffest.",
-    "author": "",
-    "scene": 16
-  },
-  {
-    "id": 364,
+    "id": 347,
     "theme": "Wisdom",
     "image": "A river winding through granite walls:",
-    "reflection": "An enduring life makes room for renewal.",
+    "reflection": "Not every invitation requires an acceptance.",
     "author": "",
     "scene": 52
   },
   {
-    "id": 365,
+    "id": 348,
+    "theme": "Wisdom",
+    "image": "A river winding through granite walls:",
+    "reflection": "The river reaches the valley without rushing every stone.",
+    "author": "",
+    "scene": 52
+  },
+  {
+    "id": 349,
+    "theme": "Wisdom",
+    "image": "Twin peaks mirrored in water:",
+    "reflection": "Experience becomes wisdom through reflection.",
+    "author": "",
+    "scene": 21
+  },
+  {
+    "id": 350,
+    "theme": "Wisdom",
+    "image": "A mountain disappearing into mist:",
+    "reflection": "A well-chosen pause can prevent a needless detour.",
+    "author": "",
+    "scene": 9
+  },
+  {
+    "id": 351,
+    "theme": "Wisdom",
+    "image": "A forest trail beneath green branches:",
+    "reflection": "The whole forest cannot be understood from one tree.",
+    "author": "",
+    "scene": 39
+  },
+  {
+    "id": 352,
+    "theme": "Wisdom",
+    "image": "A wide plain beneath silver clouds:",
+    "reflection": "A firm foundation allows an open horizon.",
+    "author": "",
+    "scene": 49
+  },
+  {
+    "id": 353,
+    "theme": "Wisdom",
+    "image": "Open water beneath an endless sky:",
+    "reflection": "There is freedom in distinguishing enough from more.",
+    "author": "",
+    "scene": 5
+  },
+  {
+    "id": 354,
     "theme": "Wisdom",
     "image": "Snow resting in a valley:",
-    "reflection": "The deepest lessons often arrive without a teacher.",
+    "reflection": "The right measure changes with the season.",
     "author": "",
     "scene": 11
   },
   {
+    "id": 355,
+    "theme": "Wisdom",
+    "image": "A river winding through granite walls:",
+    "reflection": "What is simple is not always easy.",
+    "author": "",
+    "scene": 52
+  },
+  {
+    "id": 356,
+    "theme": "Wisdom",
+    "image": "A sheer wall of granite:",
+    "reflection": "A careful word can carry more than many careless ones.",
+    "author": "",
+    "scene": 12
+  },
+  {
+    "id": 357,
+    "theme": "Wisdom",
+    "image": "A red-earth trail through the hills:",
+    "reflection": "The path behind us can illuminate the path ahead.",
+    "author": "",
+    "scene": 13
+  },
+  {
+    "id": 358,
+    "theme": "Wisdom",
+    "image": "An arch cut into ancient stone:",
+    "reflection": "A humble question may open a wiser conversation.",
+    "author": "",
+    "scene": 55
+  },
+  {
+    "id": 359,
+    "theme": "Wisdom",
+    "image": "A trail above a wide valley:",
+    "reflection": "Some truths need both courage and tenderness.",
+    "author": "",
+    "scene": 16
+  },
+  {
+    "id": 360,
+    "theme": "Wisdom",
+    "image": "Storm clouds above pale granite:",
+    "reflection": "The ability to change course is not a failure.",
+    "author": "",
+    "scene": 6
+  },
+  {
+    "id": 361,
+    "theme": "Wisdom",
+    "image": "A narrow trail among ancient trees:",
+    "reflection": "A quiet boundary can protect what matters.",
+    "author": "",
+    "scene": 41
+  },
+  {
+    "id": 362,
+    "theme": "Wisdom",
+    "image": "An arch cut into ancient stone:",
+    "reflection": "Understanding others begins with recognizing our limits.",
+    "author": "",
+    "scene": 55
+  },
+  {
+    "id": 363,
+    "theme": "Wisdom",
+    "image": "An arch cut into ancient stone:",
+    "reflection": "The strongest branches are not always the stiffest.",
+    "author": "",
+    "scene": 55
+  },
+  {
+    "id": 364,
+    "theme": "Wisdom",
+    "image": "A mountain disappearing into mist:",
+    "reflection": "An enduring life makes room for renewal.",
+    "author": "",
+    "scene": 9
+  },
+  {
+    "id": 365,
+    "theme": "Wisdom",
+    "image": "Water falling between tall pines:",
+    "reflection": "The deepest lessons often arrive without a teacher.",
+    "author": "",
+    "scene": 0
+  },
+  {
     "id": 366,
     "theme": "Wisdom",
-    "image": "Water descending a narrow rock face:",
+    "image": "Autumn leaves beside a rocky stream:",
     "reflection": "Good judgment leaves space for what it cannot know.",
     "author": "",
-    "scene": 20
+    "scene": 42
   }
 ]
